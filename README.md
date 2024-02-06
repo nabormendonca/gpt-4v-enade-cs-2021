@@ -1,9 +1,11 @@
-# An Evaluation of ChatGPT-4 Vision on ENADE 2021 Bachelor in Computer Science Exam
-This repository provides supplementary materials for the study reported in the paper "Evaluating ChatGPT-4 Vision on Brazil's Undergraduate Computer Science Exam: Results, Expert Feedback, and Implications." 
+# ChatGPT-4 Vision Evaluation on ENADE 2021 Bachelor in Computer Science Exam
+This repository contains supplementary materials for the study reported in the paper "Evaluating ChatGPT-4 Vision on Brazil's Undergraduate Computer Science Exam." 
 
-These materials include the exam questions, answer key, and response standards. Additionally, it features the prompts used for ChatGPT-4 Vision and the corresponding responses for each question, as well as expert feedback on the questions with conflicting responses. All of these materials are available in both Portuguese and English.
+These materials include the exam's open and multiple-choice questions in image and textual formats, answer key, and response standards, ChatGPT-4 Vision's prompts and responses, and the assessment of a panel of independent experts on questions with conflicting responses. All artefacts are available in both Portuguese and English.
 
 ## Exam Questions ##
+
+Click on the question numbers below to access the materials for each question.
 
 | Open Questions | Multiple-Choice Questions |
 | :------------- | :------------------------ |
