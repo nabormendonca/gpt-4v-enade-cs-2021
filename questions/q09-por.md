@@ -69,6 +69,8 @@ O gabarito está correto, apesar da resposta da letra C poder ser mal interpreta
 
 Alguém que entende bem de sistemas operacionais saberia que usar somente o tamanho da tarefa em um sistema multiprogramado pode gerar problema para tarefas interativas. Imagine uma situação, mesmo sendo em um ambiente com diversas tarefas interativas, na qual se houver algumas tarefas não interativas de tamanho pequeno, elas irão se sobrepor às interativas, fazendo com que estas tarefas interativas fiquem bloqueadas por longo período de tempo.
 
+---
+
 **Especialista #2**
 
 A meu ver, o gabarito está correto e, de acordo com o meu raciocínio mais especializado em sistemas distribuídos que S.O., o erro do ChatGPT é assumir que as tarefas interativas são sempre as mais curtas. Se supormos que as tarefas interativas são sempre mais curtas, aí a resposta C estaria correta.
@@ -78,6 +80,8 @@ Quando ele mantém a resposta e diz que:
 "O algoritmo de 'Escalonamento por prioridades' também é uma escolha válida para sistemas interativos. No entanto, o 'Tarefa mais curta primeiro' é um tipo específico de escalonamento por prioridade onde a 'duração da tarefa' determina sua prioridade."
 
 Está implícito que assume que o esquema de prioridade "tarefa mais curta primeiro" é um esquema de prioridade que serve para qualquer sistema interativo, o que pode não ser verdade se temos tarefas de duração maior que devem ser priorizadas para interação em detrimento de tarefas curtas que não são interativas.
+
+---
 
 **Veredito**
 
