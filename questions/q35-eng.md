@@ -17,7 +17,12 @@ C) The sharing of distributed resources among computers connected by a network i
 D) The addition of new devices to a distributed system to meet a temporary or growing demand is linked to the scalability characteristic of the system.
 
 E) The possibility of several clients concurrently accessing the same shared resource on a server is the result of the system's high level of transparency.
-**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it(them). At the end, choose which of the five provided alternatives (A-E) is the correct one. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -42,7 +47,7 @@ Given the reasoning above, the only option that is completely correct is **D) Th
 
 ---
 
-**Answer Key**: D
+**Answer key**: D
 
 ---
 
