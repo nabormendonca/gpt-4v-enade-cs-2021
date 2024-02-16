@@ -2,7 +2,9 @@
 
 <img src="q25-image.png" alt="Question 25 image file" width="75%" height="75%">
 
-**Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+**Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+
+---
 
 **Resposta do ChatGPT-4 Vision**: 
 
@@ -38,6 +40,8 @@ Portanto, a alternativa correta é **E, II, III e IV**.
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Mantenho minhas respostas originais.
@@ -48,8 +52,11 @@ Razões para os erros nas respostas anteriores:
 
 Concluindo, com base na análise, as afirmações I, III e IV são de fato corretas e a afirmação II é incorreta. Portanto, a alternativa correta deveria ser **E, II, III e IV** e não B, conforme indicado no gabarito.
 
+---
 
 **Prompt**: Parece que está havendo uma certa confusão aqui. Se a afirmação II é incorreta, porque a alternativa correta seria E, que inclui justamente a afirmação II como correta? Não faz sentido, faz?
+
+---
 
 **Resposta do ChatGPT-4 Vision**:
 
@@ -59,7 +66,11 @@ Dado que as afirmações I, III e IV são corretas, a resposta correta deve ser 
 
 Novamente peço desculpas pela confusão e agradeço por me corrigir.
 
+---
+
 **Prompt**: E quanto ao fato do gabarito considerar a afirmação III como incorreta (alternativa B)? Algo a discordar ou acrescentar?
+
+---
 
 **Resposta do ChatGPT-4 Vision**:
 
@@ -77,15 +88,17 @@ Porém, se o gabarito considera a afirmação III como incorreta, podemos tentar
 
 Dito isso, embora a afirmação III pareça, à primeira vista, alinhar-se com a descrição geral da Nuvem Comunidade, a especificidade da linguagem e a interpretação de certos termos podem torná-la imprecisa, dependendo da definição exata que o Instituto Nacional de Padrões e Tecnologia (NIST) dá para a Nuvem Comunidade.
 
+---
+
 **Prompt**: Para ficar claro: você mantém a interpretação de que a afirmação III seria correta (portanto, a alternativa D seria a correta), apesar das nuances apontadas?
+
+---
 
 **Resposta do ChatGPT-4 Vision**:
 
 Sim, com base na descrição fornecida no texto e na interpretação comum de "Nuvem Comunidade", eu mantenho a interpretação de que a afirmação III é correta. Portanto, a alternativa D (I, III e IV) seria a resposta correta, de acordo com essa interpretação. No entanto, reconheço que questões de múltipla escolha podem ter nuances e especificidades que podem levar a diferentes interpretações, e é sempre importante revisar o contexto e a fonte ao avaliar tais questões.
 
----
-
-**Avaliação de especialistas**
+## Avaliação de especialistas ##
 
 **Especialista #1**
 
@@ -105,6 +118,8 @@ Analisei a questão antes de ver as respostas do Gabarito Oficial e do ChatGPT. 
 
 Há uma falta de clareza na redação do Item III e, por conta disto, **a questão deveria ter sido anulada (o enunciado é ambíguo ou incompleto)**.
 
+---
+
 **Especialista #2**
 
 A primeira parte do enunciado faz afirmações incorretas (ex. computação em nuvem é uma infraestrutura de comunicação representada por vários servidores web). Porém, o comando da questão não diz respeito a esse pedaço, que poderia ter sido descartado sem prejuízo (na realidade com benefícios para o entendimento). Ou seja, não acredito que essa imprecisão seja suficiente para anular a questão. Entendo que o que se pretende avaliar é se o candidato conhece o modelo de cloud computing definido pelo NIST. Concordo com o ChatGPT e com o gabarito do ENADE que as afirmativas I e IV estão corretas e a II está incorreta. A questão então é se a alternativa III está correta, como afirma o ChatGPT, ou não, como indicado no gabarito oficial.
@@ -116,6 +131,8 @@ Vejamos o que diz o NIST sobre "Community Cloud" (que ao meu ver deveria ter sid
 O meu entendimento é que os modelos de implantação definem quem são os usuários que podem usar a nuvem. Apenas usuários internos, na cloud privada, qualquer usuário, na cloud pública e apenas os usuários das organizações participantes da comunidade, na cloud comunitária. Nas clouds híbridas, a definição dos usuários permitidos vai depender do arranjo. A forma como os recursos são gerenciados em cada modelo de implantação não é precisamente definida no modelo do NIST ("It may be owned, managed, and operated by one or more of the organizations in the community, a third party, or some combination of them, and it may exist on or off premises.”). Embora o propósito de uma cloud comunitária seja o que está escrito na alternativa III, o modelo de implantação versa sobre outra questão, que não enfatizada na afirmativa. Diante disso, eu entendo que a afirmação III está incorreta.
 
 Conclusão: a resposta do gabarito está correta (embora a questão tenha sido pessimamente formulada).
+
+---
 
 **Especialista #3**
 
@@ -148,13 +165,13 @@ Fico triste que uma questão tão mal formulada tenha sido usada para avaliar al
 
 A resposta do ChatGPT é inconsistente com o gabarito e os especialistas não chegaram em um consenso sobre qual seria a resposta correta nem se a questão deveria ser anulada.
 
----
-
-**Análise dos prompts, respostas e comentários dos especialistas pelo ChatGPT-4 Turbo** 
+## Análise final das respostas do ChatGPT-4 Vision e dos comentários dos especialistas pelo ChatGPT-4 Turbo ##
 
 **Prompt**: Os arquivos em anexo contêm a imagem de uma questão, os prompts e as respostas de uma IA gerativa utilizada para responder essa questão, e os comentários de dois ou mais especialistas humanos sobre as respostas da IA gerativa e a qualidade da questão de forma geral. Com base nas informações presentes nesses arquivos, sumarize as principais dificuldades enfrentadas pela IA gerativa ao tentar responder a questão, incluindo possíveis dificuldades decorrentes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação possa ser evidenciada pelas informações presentes nos arquivos. Ao final, discuta se essas dificuldades poderiam ser amenizadas ou eliminadas utilizando técnicas de engenharia de prompt, ou se seriam inerentes às limitações dos grandes modelos de linguagem (LLMs) atuais.
 
-**Resposta do ChatGPT-4 Vision**:
+---
+
+**Resposta do ChatGPT-4 Turbo**:
 
 A IA gerativa enfrentou dificuldades ao responder a questão relacionada à computação em nuvem, principalmente no que tange à interpretação e aplicação correta das informações do texto em relação às asserções apresentadas. As dificuldades enfrentadas incluem:
 
