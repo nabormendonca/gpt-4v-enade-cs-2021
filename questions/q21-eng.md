@@ -21,7 +21,12 @@ C) A bridge connects two or more networks; unlike a hub, each port is isolated f
 D) Routers examine addresses in packets and perform routing based on these addresses, so they only work with the protocols they were designed to handle; in broadcast networks, the routing problem is more complicated and it is up to the network layer to operate with appropriate routing algorithms.
 
 E) Transport gateways connect two computers that use different connection-oriented transport protocols, for example, a computer that uses the TCP/IP connection-oriented protocol can communicate with a computer that uses a different transport protocol oriented to different connections, called SCTP.
-**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it(them). At the end, select which of the five options provided (A-E) is correct. Report if there is more than one correct option or if all five options are incorrect.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -59,6 +64,8 @@ Based on the analysis, the correct options are **A, D, and E**. However, as the 
 
 After reviewing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to make a mistake. Seek to identify the concrete causes of your error, rather than listing generic reasons such as failure to understand the question's statement.
 
+---
+
 **ChatGPT-4 Vision response**:
 
 I maintain the original answers, but understand that option E is the most complete and precise among the options provided. My analysis considered each statement in detail, seeking technical precision concerning the functioning and characteristics of each mentioned device.
@@ -78,13 +85,13 @@ In this sense, upon revisiting the analysis, option E is the most appropriate, a
 
 ChatGPT reversed its response and agreed with the answer key.
 
----
-
-**Analysis of the prompts and answers by ChatGPT-4 Turbo**
+## Final analysis of ChatGPT-4 Vision's responses by ChatGPT-4 Turbo ##
 
 **Prompt**: The attached files contain the image of a question, and the prompts and the responses from a generative AI used to answer that question. Based on the information present in those files, summarize the main challenges faced by the generative AI in attempting to answer the question, including possible challenges arising from the incorrect recognition of any graphic or textual element present in the statement of the question. Consider only concrete challenges whose manifestation can be evidenced by the information present in the files. In the end, discuss whether these challenges could be mitigated or eliminated by using prompt engineering techniques, or if they would be inherent to the limitations of the current Large Language Models (LLMs).
 
-**ChatGPT-4 Vision response**:
+---
+
+**ChatGPT-4 Turbo response**:
 
 The main challenges faced by the AI when attempting to answer the question related to computer networks and network devices were:
 
