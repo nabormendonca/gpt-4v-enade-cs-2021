@@ -14,6 +14,10 @@ Based on the 1-bit full adder depicted in the figure, describe its truth table a
 
 ---
 
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. Inform if the question is unclear or has no possible answer.
+
+---
+
 **ChatGPT-4 Vision response**:
 
 Understood. Let's address the problem of the 1-bit full adder.
