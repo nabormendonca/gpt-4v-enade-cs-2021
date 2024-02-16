@@ -12,6 +12,8 @@ In this context, consider the following figure.
 
 Based on the 1-bit full adder depicted in the figure, describe its truth table and the diagram of its logic circuit. (value: 10.0 points)**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it (them). Inform if any question is not clear or does not have a possible answer.
 
+---
+
 **ChatGPT-4 Vision response**:
 
 Understood. Let's address the problem of the 1-bit full adder.
@@ -59,11 +61,11 @@ In summary, a 1-bit full adder adds three input bits and produces a 2-bit result
 
 The respondent should describe the truth table and draw the diagram, as below.
 
-[image of suggested diagrams]
+<img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="55%" height="55%">
 
 ---
 
-**Evaluation of ChatGPT-4 Vision's first response based on the response standard**
+**Expert evaluation of ChatGPT-4 Vision's first response based on the response standard**
 
 The truth table produced by ChatGPT-4 Vision is correct according to the response standard. However, since the model does not have the capability to generate diagrams, and was not explicitly instructed to "draw" a circuit using some textual notation, it merely described the gates that would be part of the requested circuit. As the question explicitly asks the respondent to draw a circuit, only half of the points for this question are attributed to the model's response.
 
