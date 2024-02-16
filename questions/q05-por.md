@@ -4,6 +4,8 @@
 
 **Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Informe caso alguma questão não esteja clara ou não tenha resposta possível.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Vamos abordar as questões apresentadas:
@@ -59,6 +61,8 @@ b) O respondente deve apresentar que no pior caso para a função `heapify` a co
 
 Após analisar o padrão de resposta, você mantém ou altera as respostas originais? Se decidir alterar suas respostas, explique as possíveis razões que o induziram aos erros nas respostas anteriores. Procure identificar as causas concretas dos erros, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Após revisar o padrão de resposta, eu alteraria minhas respostas originais da seguinte forma:
@@ -83,7 +87,7 @@ Em resumo, os erros decorrem principalmente da falha em simular corretamente o a
 
 ---
 
-**Avaliação da primeira resposta do ChatGPT-4 Vision com base no padrão de resposta** 
+**Avaliação de especialista da primeira resposta do ChatGPT-4 Vision com base no padrão de resposta** 
 
 a) Resposta incorreta (ChatGPT-4 Vision produziu um arranjo diferente do padrão de resposta): 0,0/5,0 pontos
 
