@@ -24,6 +24,12 @@ D) Stack, queue, deque, and simply chained list.
 
 E) Deque, stack, linked list, and queue.**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it(them). In the end, choose which of the five provided alternatives (A-E) is the correct one. Report if more than one alternative is correct or if all five alternatives are incorrect.
 
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
+
 **ChatGPT-4 Vision response**: 
 
 Let’s analyze each class and identify what kind of data structure it represents:
