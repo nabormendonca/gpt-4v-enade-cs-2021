@@ -74,6 +74,8 @@ O ChatGPT está correto.
 
 Se o enunciado diz para considerar o texto de referência, a alternativa correta é a D mesmo. Eu concordo com a análise das alternativas que o ChatGPT fez. 
 
+---
+
 **Especialista #2**
 
 **Texto:** O desenvolvimento de sistemas iterativo e evolutivo é uma abordagem que estabelece ciclos de desenvolvimento, _com duração fixa_, chamados iterações. O produto de cada iteração é um _sistema parcial_, executável, testável e integrável. Cada iteração inclui suas próprias atividades de análises de requisitos, projeto, implementação e teste. O ciclo de vida iterativo é baseado em refinamentos e incrementos sucessivos de um sistema por meio de múltiplas iterações, com realimentação e adaptação cíclicas como principais propulsores para convergir para um sistema adequado.
@@ -107,11 +109,15 @@ O texto não menciona, mas é senso comum que os testes de usabilidade devem inc
 
 A questão é ambígua e deve ser anulada, as alternativas A, B, C e E não estão contidas no texto. Parece-me que o texto foi usado como indutor das questões, mas a intenção é colocar alternativas gerais sobre o ciclo de vida iterativo e incremental. Ao pensar dessa forma cheguei a duas respostas possíveis A e E. Porém, como não havia o PODE na A, então a E seria mais adequada, então o gabarito estaria certo. Porém, o candidato tem que fazer uma reflexão fora o texto então considero a questão ambígua. O texto atrapalha a interpretação das alternativas.
 
+---
+
 **Especialista #3**
 
 Analisando todo o material, concluo que o gabarito oficial está correto.
 
 Justificativa: as opções A-D contém erros com base no meu conhecimento sobre Engenharia de Software, conhecimento esse que não se restringe ao enunciado da questão. Me parece que a escolha e justificativa dada pelo chatGPT se baseia somente no enunciado porque ele várias vezes fala que o texto não menciona determinados conceitos. Mas ao mesmo tempo o chatGPT escolhe a opção D que menciona subsistema que, por sua vez, não foi definido no texto do enunciado. Me parece que ele inferiu o que seria subsistema e, na minha opinião, a inferência dele está incorreta (i.e. um subsistema não é um sistema parcial).
+
+---
 
 **Veredito**
 
