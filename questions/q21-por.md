@@ -2,7 +2,9 @@
 
 <img src="q21-image.png" alt="Question 21 image file" width="75%" height="75%">
 
-**Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+**Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+
+---
 
 **Resposta do ChatGPT-4 Vision**: 
 
@@ -40,6 +42,8 @@ Com base na análise, as alternativas corretas são **A, D e E**. No entanto, co
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Mantenho as respostas originais, mas entendo que a alternativa E é a mais completa e precisa entre as opções fornecidas. Minha análise considerou cada afirmação em detalhes, buscando precisão técnica em relação ao funcionamento e características de cada dispositivo mencionado.
@@ -59,13 +63,13 @@ Nesse sentido, ao revisitar a análise, a alternativa E é a mais adequada, pois
 
 ChatGPT voltou atrás na sua resposta e concordou com o gabarito.
 
----
-
-**Análise dos prompts e respostas pelo ChatGPT-4 Turbo** 
+## Análise final das respostas do ChatGPT-4 Vision pelo ChatGPT-4 Turbo ## 
 
 **Prompt**: Os arquivos em anexo contêm a imagem de uma questão, e os os prompts e as respostas de uma IA gerativa utilizada para responder essa questão. Com base nas informações presentes nesses arquivos, sumarize as principais dificuldades enfrentadas pela IA gerativa ao tentar responder a questão, incluindo possíveis dificuldades decorrentes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação possa ser evidenciada pelas informações presentes nos arquivos. Ao final, discuta se essas dificuldades poderiam ser amenizadas ou eliminadas utilizando técnicas de engenharia de prompt, ou se seriam inerentes às limitações dos grandes modelos de linguagem (LLMs) atuais. 
 
-**Resposta do ChatGPT-4 Vision**:
+---
+
+**Resposta do ChatGPT-4 Turbo**:
 
 As principais dificuldades enfrentadas pela IA ao tentar responder à questão relacionada à redes de computadores e dispositivos de rede foram:
 
