@@ -2,7 +2,9 @@
 
 <img src="q14-image.png" alt="Question 14 image file" width="75%" height="75%">
 
-**Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+**Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+
+---
 
 **Resposta do ChatGPT-4 Vision**: 
 
@@ -43,6 +45,8 @@ A asserção I é definitivamente verdadeira com base no texto. A asserção II 
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Mantendo minha análise anterior, a resposta correta é a alternativa **B**. 
@@ -55,9 +59,7 @@ Razões para o erro na resposta anterior (caso minha análise inicial estivesse 
 
 Em conclusão, com base na análise do texto e das asserções fornecidas, a alternativa **B** é a resposta mais adequada.
 
----
-
-**Avaliação de especialistas**
+## Avaliação de especialistas ##
 
 **Especialista #1**
 
@@ -71,11 +73,15 @@ Além disso, o chamado gargalo de von Neumann, muito conhecido quando se pensa e
 
 Portanto, eu escolheria a opção C, ou seja, I - verdadeira e II - falsa.
 
+---
+
 **Especialista #2**
 
 Esse é o tipo de questão que eu não gosto, pois usa-se um detalhe para invalidar a questão, ou seja a questão dos registradores. Foi uma coisa bem sutil que o chatGPT não pegou. Na verdade, com a localidade de cache as próximas instruções já são trazidas para o L1.
 
 Logo, infelizmente o gabarito oficial está correto, mas a questão é do tipo pegadinha.
+
+---
 
 **Especialista #3**
 
@@ -95,13 +101,13 @@ Com relação à resposta do ChatGPT, eu achei que ele ficou meio que em cima do
 
 De acordo com os especialistas, o gabarito está correto e a resposta do ChatGPT está incorreta.
 
----
-
-**Análise dos prompts, respostas e comentários dos especialistas pelo ChatGPT-4 Turbo** 
+## Análise final das respostas do ChatGPT-4 Vision e dos comentários dos especialistas pelo ChatGPT-4 Turbo ##
 
 **Prompt**: Os arquivos em anexo contêm a imagem de uma questão, os prompts e as respostas de uma IA gerativa utilizada para responder essa questão, e os comentários de dois ou mais especialistas humanos sobre as respostas da IA gerativa e a qualidade da questão de forma geral. Com base nas informações presentes nesses arquivos, sumarize as principais dificuldades enfrentadas pela IA gerativa ao tentar responder a questão, incluindo possíveis dificuldades decorrentes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação possa ser evidenciada pelas informações presentes nos arquivos. Ao final, discuta se essas dificuldades poderiam ser amenizadas ou eliminadas utilizando técnicas de engenharia de prompt, ou se seriam inerentes às limitações dos grandes modelos de linguagem (LLMs) atuais.
 
-**Resposta do ChatGPT-4 Vision**:
+---
+
+**Resposta do ChatGPT-4 Turbo**:
 
 A IA gerativa foi solicitada a responder a uma questão sobre a arquitetura de Von Neumann e a evolução das arquiteturas de computadores desde o ENIAC até os notebooks modernos. A resposta da IA foi que, enquanto a afirmação I era verdadeira, a afirmação II não poderia ser confirmada ou refutada com base no texto, levando-a a escolher a opção B como a resposta correta. No entanto, o gabarito oficial indicou que a resposta correta era a C.
 
