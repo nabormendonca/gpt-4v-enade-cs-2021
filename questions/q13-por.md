@@ -2,7 +2,9 @@
 
 <img src="q13-image.png" alt="Question 13 image file" width="75%" height="75%">
 
-**Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+**Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+
+---
 
 **Resposta do ChatGPT-4 Vision**: 
 
@@ -40,6 +42,8 @@ A alternativa **D** "O subsistema gerado pela implementação dos requisitos no 
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Mantenho a resposta **D** como a correta com base na análise do texto fornecido. A opção D está alinhada com o conceito de desenvolvimento iterativo e evolutivo, onde cada iteração resulta em um produto ou subsistema que é "executável, testável e integrável". Este subsistema pode, de fato, ser utilizado pelo cliente como um protótipo ou uma versão incremental do sistema final.
@@ -52,16 +56,17 @@ O erro anterior pode ter sido causado pela tentativa de interpretar o enunciado 
 
 Em conclusão, o erro anterior foi causado pela tentativa de inferir informações não explicitamente mencionadas no texto, levando à escolha de uma opção que não estava diretamente respaldada pelo conteúdo apresentado.
 
+---
+
 **Prompt**: Para deixar claro: se você mantém a escolha pela alternativa D como a correta, o que você quer dizer com "erro anterior"? Quem teria cometido tal erro? Quem elaborou o gabarito?
+
+---
 
 **Resposta do ChatGPT-4 Vision**:
 
 Peço desculpas pela confusão. Ao mencionar "erro anterior", estava me referindo à discrepância entre a escolha do gabarito e a análise feita aqui. Se a resposta **D** é a que considero correta com base na análise do texto, então o "erro" estaria na elaboração do gabarito que indicou a alternativa **E** como a correta. Ou seja, o possível erro seria da parte de quem elaborou o gabarito ou, alternativamente, pode haver informações ou contextos adicionais que não foram considerados na análise aqui feita. Mais uma vez, peço desculpa pela confusão e espero ter esclarecido o ponto.
 
-
----
-
-**Avaliação de especialistas**
+## Avaliação de especialistas ##
 
 **Especialista #1**
 
@@ -108,19 +113,17 @@ Analisando todo o material, concluo que o gabarito oficial está correto.
 
 Justificativa: as opções A-D contém erros com base no meu conhecimento sobre Engenharia de Software, conhecimento esse que não se restringe ao enunciado da questão. Me parece que a escolha e justificativa dada pelo chatGPT se baseia somente no enunciado porque ele várias vezes fala que o texto não menciona determinados conceitos. Mas ao mesmo tempo o chatGPT escolhe a opção D que menciona subsistema que, por sua vez, não foi definido no texto do enunciado. Me parece que ele inferiu o que seria subsistema e, na minha opinião, a inferência dele está incorreta (i.e. um subsistema não é um sistema parcial).
 
----
-
 **Veredito**
 
 A resposta do ChatGPT é inconsistente com o gabarito e os especialistas não chegaram em um consenso sobre qual seria a resposta correta nem se a questão deveria ser anulada.
 
----
-
-**Análise dos prompts, respostas e comentários dos especialistas pelo ChatGPT-4 Turbo** 
+## Análise final das respostas do ChatGPT-4 Vision e dos comentários dos especialistas pelo ChatGPT-4 Turbo ##
 
 **Prompt**: Os arquivos em anexo contêm a imagem de uma questão, os prompts e as respostas de uma IA gerativa utilizada para responder essa questão, e os comentários de dois ou mais especialistas humanos sobre as respostas da IA gerativa e a qualidade da questão de forma geral. Com base nas informações presentes nesses arquivos, sumarize as principais dificuldades enfrentadas pela IA gerativa ao tentar responder a questão, incluindo possíveis dificuldades decorrentes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação possa ser evidenciada pelas informações presentes nos arquivos. Ao final, discuta se essas dificuldades poderiam ser amenizadas ou eliminadas utilizando técnicas de engenharia de prompt, ou se seriam inerentes às limitações dos grandes modelos de linguagem (LLMs) atuais.
 
-**Resposta do ChatGPT-4 Vision**:
+---
+
+**Resposta do ChatGPT-4 Turbo**:
 
 A IA gerativa, ao responder a questão sobre desenvolvimento iterativo e evolutivo, enfrentou dificuldades em alinhar sua interpretação do texto com o gabarito oficial. As principais dificuldades identificadas foram:
 
@@ -132,9 +135,13 @@ A IA gerativa, ao responder a questão sobre desenvolvimento iterativo e evoluti
 
 Essas dificuldades sugerem que, enquanto a IA pode analisar textos e escolher respostas baseadas em informações explícitas, ela pode ter dificuldades com interpretações que exigem conhecimento implícito ou inferências que vão além do texto fornecido. A engenharia de prompt poderia ser utilizada para orientar a IA a considerar conhecimento além do texto, mas isso ainda é uma limitação dos LLMs atuais, que se baseiam fortemente no texto de entrada e podem não compreender totalmente o contexto ou as expectativas de conhecimento implícito em determinados domínios, como o da engenharia de software. Isso indica uma necessidade de avanço contínuo nos modelos de IA para melhorar a integração entre compreensão textual e conhecimento contextualizado.
 
+---
+
 **Prompt**: E quanto ao fato dos especialistas não terem chegado a um consenso sobre a questão, algum comentário adicional?
 
-**Resposta do ChatGPT-4 Vision**:
+---
+
+**Resposta do ChatGPT-4 Turbo**:
 
 A falta de consenso entre especialistas humanos sobre a resposta correta da questão ressalta a complexidade e a ambiguidade inerente a algumas questões de exame. Isso pode ocorrer por várias razões:
 
