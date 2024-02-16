@@ -24,7 +24,13 @@ C) II and III, only.
 
 D) II and IV, only.
 
-E) I, II, III and IV.**Prompt**: Answer the question(s) in this image explaining step by step the reasoning used to answer it (them). At the end, choose which of the five alternatives provided (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+E) I, II, III and IV.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -50,13 +56,15 @@ The correct answer is **B) I and IV only**.
 
 ---
 
-**Answer Key**: CANCELED
+**Answer key**: CANCELLED
 
 ---
 
-**Prompt**: Your answer diverges from the key released for this question: [key]
+**Prompt**: Your answer diverges from the key released for this question: [answer key]
 
 After analyzing the key, do you maintain or change your answer? If you decide to change your answer, explain the possible reasons that led you to the error. Try to identify the concrete causes of your mistake, instead of listing generic reasons such as a failure to understand the question's statement.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -79,8 +87,11 @@ The answer, therefore, is **E) I, II and IV**.
 
 The previous error was caused by an inadequate understanding of the erosion operation in relation to the description given. Instead of focusing solely on the classical definition of erosion for binary images, the question dealt with a more general explanation, considering grayscale images. This was the cause of the misunderstanding. I apologize for the error and thank you for bringing attention to the review.
 
+---
 
 **Prompt**: I don't understand. If a statement is labeled incorrectly, shouldn't it be considered incorrect? After all, the label is part of the statement.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -98,7 +109,11 @@ Given the statements and considering the labels, the correct ones are I and IV, 
 
 I regret the earlier oversight and thank you for your patience and understanding. Your point of view is absolutely correct; the label is essential in evaluating the accuracy of the statement.
 
+---
+
 **Prompt**: What about the fact that this question was cancelled, according to the key? Anything else to disagree with or add?
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -128,13 +143,13 @@ Given that, the cancellation of the question makes sense, as it clearly presents
 
 ChatGPT went back on its response and agreed with the key.
 
----
-
-**Analysis of prompts and answers by ChatGPT-4 Turbo** 
+## Final analysis of ChatGPT-4 Vision's responses by ChatGPT-4 Turbo ##* 
 
 **Prompt**: The files attached contain the image of a question, and the prompts and answers from a generative AI used to answer that question. Based on the information present in those files, summarize the main difficulties faced by the generative AI in trying to answer the question, including possible difficulties arising from the incorrect recognition of any graphic or textual element present in the question's statement. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. In the end, discuss whether these difficulties could be alleviated or eliminated using prompt engineering techniques, or if they would be inherent to the current limitations of large language models (LLMs).
 
-**ChatGPT-4 Vision response**:
+---
+
+**ChatGPT-4 Turbo response**:
 
 The generative AI faced several challenges when trying to answer the question on morphological operations in image processing:
 
