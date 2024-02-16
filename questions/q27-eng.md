@@ -18,7 +18,13 @@ C) 76.68% chance that its capacity is in the interval \[171, 191\].
 
 D) 95.44% chance that its capacity is in the interval \[151, 191\].
 
-E) 99.74% chance that its capacity is in the interval \[161, 181\].**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it(them). At the end, choose which of the five provided alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+E) 99.74% chance that its capacity is in the interval \[161, 181\].
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -73,10 +79,10 @@ Therefore, the correct alternative is **D, a 95.44% chance that your capacity is
 
 ---
 
-**Answer Key**: D
+**Answer key**: D
 
 ---
 
 **Verdict**
 
-The ChatGPT response is consistent with the answer key."
+The ChatGPT response is consistent with the answer key.
