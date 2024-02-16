@@ -52,7 +52,6 @@ Based on the information presented, do what is requested in the items below.
 a) How will the array int a\[ \] = {2, 5, 8, 13, 21, 1, 3, 34} look like after the execution of the function *buildHeap*(a, 8). (value: 5.0 points)
 
 b) Present the time complexity in the worst case for the function *heapify*, using the notation *O* or *Θ*. (value: 5.0 points)
-**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it (them). Inform if any question is not clear or does not have a possible answer.
 
 ---
 
