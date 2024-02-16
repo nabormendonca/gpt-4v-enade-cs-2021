@@ -24,7 +24,13 @@ C) I and II, only.
 
 D) I and III, only.
 
-E) I, II, and III.**Prompt**: Answer the question(s) in this image by explaining the reasoning used to answer it (them) step by step. At the end, select which of the five provided alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+E) I, II, and III.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**: 
 
