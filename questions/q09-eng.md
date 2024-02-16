@@ -87,6 +87,8 @@ The answer key is correct, although the answer in letter C could be misinterpret
 
 Someone who understands operating systems well would know that using only the task size in a multiprogrammed environment can create problems for interactive tasks. Imagine a situation, even in an environment with several interactive tasks, where if there are some non-interactive tasks of small size, they will overlap with the interactive ones, causing these interactive tasks to be blocked for a long period of time.
 
+---
+
 **Expert #2**
 
 In my opinion, the answer key is correct, and according to my reasoning, which is more specialized in distributed systems than O.S., the error of the AI is to assume that interactive tasks are always the shortest. If we suppose that the interactive tasks are always shorter, then answer C would be correct.
@@ -96,6 +98,8 @@ When it maintains the answer and says that:
 "The 'Priority scheduling' algorithm is also a valid choice for interactive systems. However, the 'Shortest job first' is a specific type of priority scheduling where the 'task duration' determines its priority."
 
 It is implicit that it assumes that the priority scheme "shortest job first" is a priority scheme that serves for any interactive system, which may not be true if we have longer-lasting tasks that must be prioritized for interaction over short tasks that are not interactive.
+
+---
 
 **Verdict**
 
