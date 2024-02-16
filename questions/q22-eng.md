@@ -36,7 +36,12 @@ E)
 PERSON(<u>cpf</u>: text, name: text)
 PET(<u>code</u>: integer, name: text, birth_date: date, pet_type_code: integer, pet_type_description, adopter: text)
 adopter references PERSON(cpf)
-**Prompt**: Answer the question(s) in this image explaining step by step the reasoning used to answer it(them). At the end, choose which of the five provided alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**: 
 
