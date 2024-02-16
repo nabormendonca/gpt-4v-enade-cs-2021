@@ -41,6 +41,12 @@ c) Is there any unsatisfiable set (**P** or **Q**)? Justify your answer. (value:
 
 d) Is formula 6 a logical consequence of **Q**? Justify your answer. (value: 2.5 points)**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it (them). Inform if any question is not clear or does not have a possible answer.
 
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. Inform if the question is unclear or has no possible answer.
+
+---
+
 **ChatGPT-4 Vision response**:
 
 Understood, let's address the questions.
@@ -105,6 +111,8 @@ d) The respondent must indicate that formula 6 is a logical consequence of Q, as
 
 After analyzing the response standard, do you maintain or change your original answers? If you decide to change your answers, explain the possible reasons that led you to errors in the previous answers. Try to identify the concrete causes of errors, rather than listing generic reasons like misunderstanding the statement of the question.
 
+---
+
 **ChatGPT-4 Vision response**:
 
 I change my original answers to align with the released response standard:
@@ -131,7 +139,7 @@ In summary, the errors seem to center on a combination of rushed analysis of the
 
 ---
 
-**Evaluation of ChatGPT-4 Vision's first response based on the response standard**
+**Expert Evaluation of ChatGPT-4 Vision's first response based on the response standard**
 
 a) Correct answer (ChatGPT-4 Vision correctly identified that formule 3 contains a tautology): 2.5/2.5 scores
 
