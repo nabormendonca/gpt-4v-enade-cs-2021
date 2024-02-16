@@ -124,7 +124,7 @@ That said, although statement III seems at first glance to align with the genera
 
 Yes, based on the description provided in the text and the common interpretation of "Community Cloud", I maintain the interpretation that statement III is correct. Therefore, the alternative D (I, III, and IV) would be the correct answer, according to that interpretation. However, I recognize that multiple-choice questions can have nuances and specificities that might lead to different interpretations, and it is always important to review context and source when evaluating such questions.
 
-## Experts Assessment ##
+## Experts assessment ##
 
 **Expert #1**
 
