@@ -26,7 +26,13 @@ C) II and IV.
 
 D) I, II, and III.
 
-E) I, III, and IV.**Prompt**: Answer the question(s) in this image by explaining the reasoning used to answer it(them) step by step. At the end, choose which of the five alternatives provided (A-E) is the correct one. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+E) I, III, and IV.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -50,7 +56,7 @@ The correct answer is **E) I, III, and IV**.
 
 ---
 
-**Answer Key**: E
+**Answer key**: E
 
 ---
 
