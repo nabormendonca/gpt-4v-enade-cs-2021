@@ -33,7 +33,12 @@ C) II and III.
 D) I, III, and IV.
 
 E) II, III, and IV.
-**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer them. In the end, choose which of the five alternatives provided (A-E) is the correct one. Inform if there is more than one correct option or if all five options are incorrect.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -75,13 +80,15 @@ The correct answer is **D) I, III, and IV**.
 
 ---
 
-**Key**: E
+**Answer key**: E
 
 ---
 
-**Prompt**: Your response differs from the key released for this question: [key]
+**Prompt**: Your response differs from the key released for this question: [answer key]
 
 After analyzing the key, do you maintain or change your answer? If you decide to change your response, explain the possible reasons that may have led you to the error. Try to identify the specific causes of your mistake, instead of listing generic reasons such as a misunderstanding of the statement of the question.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -102,7 +109,11 @@ Reasons for any discrepancy with the official key:
 
 After this review, I maintain my original answer as **D) I, III, and IV**. If the released key is indeed at odds, I recommend consulting the entity that administered the exam for clarifications or possible corrections.
 
+---
+
 **Prompt**: A question: does statement II not explicitly mention that the tape content should be evaluated *excluding the "B" symbols*?
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -116,7 +127,11 @@ I apologize for my previous error. This means the correct answer is **E) II, III
 
 I appreciate you pointing out the discrepancy, and I regret the confusion caused.
 
+---
+
 **Prompt**: I don't understand. How can the correct answer be E if you reaffirmed that statement I is also correct?
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -140,9 +155,7 @@ Given this, the correct statements are I, II, III, and IV. Thus, the correct ans
 
 I regret my previous error and thank you for your patience.
 
----
-
-**Expert Assessment**
+## Experts assessment ##
 
 **Expert #1**
 
@@ -155,6 +168,8 @@ Assertion II is correct, after 8 movements, the content of the tape is 1001. Cha
 Assertion III is correct because the input is a palindrome, which leads the machine to "converge" to the acceptance state qf.
 
 Assertion IV is also correct, as palindromes can be represented with _pushdown automata_.
+
+---
 
 **Expert #2**
 
@@ -198,15 +213,17 @@ The correct answer is **E) II, III, and IV**.
 
 **Verdict**
 
-According to the experts, the key is correct, and ChatGPT's response is incorrect.
+According to the experts, the answer key is correct, and ChatGPT's response is incorrect.
 
 ---
 
-**Review of prompts, responses, and comments from the experts by ChatGPT-4 Turbo**
+## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
 
 **Prompt**: The attached files contain the image of a question, the prompts and the responses of a generative AI used to answer that question, and the comments of two or more human experts on the AI generative's responses and the overall quality of the question. Based on the information present in these files, summarize the main difficulties faced by the generative AI when trying to answer the question, including any difficulties arising from incorrect recognition of some graphic or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. At the end, discuss whether these difficulties could be mitigated or eliminated by using prompt engineering techniques, or if they would be inherent to the current limitations of large language models (LLMs).
 
-**ChatGPT-4 Vision response**:
+---
+
+**ChatGPT-4 Turbo response**:
 
 The generative AI, when attempting to answer the question on the Turing machine, encountered significant difficulties related to the interpretation of the Turing machine diagram and the verification of the proposed assertions. The main concrete difficulties identified were:
 
