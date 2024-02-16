@@ -20,7 +20,13 @@ C) The tree traversal in In-order will process the elements in the following ord
 
 D) The tree traversal in Post-order will process the elements in the following order (from first to last): 27, 18, 5, -2, 10, 7, 23, 25, 34, 40, 36.
 
-E) The maximum number of elements that this tree can have with 10 levels will be 1,024 elements.**Prompt**: Answer the question(s) in this image by explaining step-by-step the reasoning used to answer it (them). At the end, choose which out of the five options provided (A-E) is correct. Indicate if there is more than one correct option or if all five options are incorrect.
+E) The maximum number of elements that this tree can have with 10 levels will be 1,024 elements.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
