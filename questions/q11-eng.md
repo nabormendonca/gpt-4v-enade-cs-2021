@@ -34,7 +34,13 @@ C) II and III.
 
 D) II and IV.
 
-E) III and V.**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it/them. At the end, choose which of the five alternatives provided (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+E) III and V.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -67,4 +73,4 @@ Answer: D) II and IV.
 
 **Verdict**
 
-The response from ChatGPT is consistent with the answer key."
+The response from ChatGPT is consistent with the answer key.
