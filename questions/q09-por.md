@@ -1,8 +1,10 @@
 ## Questão 09 ##
 
-<img src="q09-image.png" alt="Question 09 image file" width="75%" height="75%">
+<img src="q09-image.png" alt="Question 09 image file" width="45%" height="45%">
 
 **Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+
+---
 
 **Resposta do ChatGPT-4 Vision**: 
 
@@ -37,6 +39,8 @@ Resposta: C) Tarefa mais curta primeiro; propício para sistemas interativos.
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Mantenho minha resposta original: **C) Tarefa mais curta primeiro; propício para sistemas interativos**.
@@ -57,16 +61,13 @@ Análise das possíveis causas de discrepância com o gabarito:
 
 Em resumo, enquanto a resposta C é válida com base na minha análise e conhecimento, reconheço que diferentes interpretações e considerações podem levar a uma resposta diferente.
 
----
-
-**Avaliação de especialistas**
+## Avaliação de especialistas ##
 
 **Especialista #1**
 
 O gabarito está correto, apesar da resposta da letra C poder ser mal interpretada e gerar confusão.
 
 Alguém que entende bem de sistemas operacionais saberia que usar somente o tamanho da tarefa em um sistema multiprogramado pode gerar problema para tarefas interativas. Imagine uma situação, mesmo sendo em um ambiente com diversas tarefas interativas, na qual se houver algumas tarefas não interativas de tamanho pequeno, elas irão se sobrepor às interativas, fazendo com que estas tarefas interativas fiquem bloqueadas por longo período de tempo.
-
 
 **Especialista #2**
 
@@ -78,17 +79,15 @@ Quando ele mantém a resposta e diz que:
 
 Está implícito que assume que o esquema de prioridade "tarefa mais curta primeiro" é um esquema de prioridade que serve para qualquer sistema interativo, o que pode não ser verdade se temos tarefas de duração maior que devem ser priorizadas para interação em detrimento de tarefas curtas que não são interativas.
 
----
-
 **Veredito**
 
 De acordo com os especialistas, o gabarito está correto e a resposta do ChatGPT está incorreta.
 
----
-
-**Análise dos prompts, respostas e comentários dos especialistas pelo ChatGPT-4 Turbo** 
+## Análise final das respostas do ChatGPT-4 Vision e dos comentários dos especialistas pelo ChatGPT-4 Turbo ##
 
 **Prompt**: Os arquivos em anexo contêm a imagem de uma questão, os prompts e as respostas de uma IA gerativa utilizada para responder essa questão, e os comentários de dois ou mais especialistas humanos sobre as respostas da IA gerativa e a qualidade da questão de forma geral. Com base nas informações presentes nesses arquivos, sumarize as principais dificuldades enfrentadas pela IA gerativa ao tentar responder a questão, incluindo possíveis dificuldades decorrentes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação possa ser evidenciada pelas informações presentes nos arquivos. Ao final, discuta se essas dificuldades poderiam ser amenizadas ou eliminadas utilizando técnicas de engenharia de prompt, ou se seriam inerentes às limitações dos grandes modelos de linguagem (LLMs) atuais.
+
+---
 
 **Resposta do ChatGPT-4 Vision**:
 
