@@ -51,7 +51,7 @@ Em resumo, um somador completo de 1-bit adiciona três bits de entrada e produz 
 
 O respondente deve descrever a tabela verdade e desenhar o diagrama, conforme abaixo. 
 
-[imagem dos diagramas sugeridos]
+<img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="75%" height="75%">
 
 ---
 
