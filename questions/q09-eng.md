@@ -18,6 +18,12 @@ D) Round-robin scheduling; suitable for real-time systems.
 
 E) Priority scheduling; suitable for interactive systems.**Prompt**: Answer the question(s) in this image explaining step by step the reasoning used to answer it(them). At the end, choose which of the five options provided (A-E) is the correct one. Inform if there is more than one correct option or if all five options are incorrect.
 
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
+
 **ChatGPT-4 Vision response**: 
 
 Let's analyze the provided options and determine which scheduling algorithm is appropriate for the type of environment mentioned:
@@ -51,6 +57,8 @@ Answer: C) Shortest job first; suitable for interactive systems.
 
 After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to error. Try to identify the concrete causes of your mistake, instead of listing generic reasons like misunderstanding the question's statement.
 
+---
+
 **ChatGPT-4 Vision response**:
 
 I maintain my original answer: **C) Shortest job first; suitable for interactive systems**.
@@ -71,9 +79,7 @@ Analysis of the possible causes of discrepancy with the answer key:
 
 In summary, while answer C is valid based on my analysis and knowledge, I recognize that different interpretations and considerations might lead to a different answer.
 
----
-
-**Expert Assessment**
+## Experts Assessment ##
 
 **Expert #1**
 
@@ -91,19 +97,17 @@ When it maintains the answer and says that:
 
 It is implicit that it assumes that the priority scheme "shortest job first" is a priority scheme that serves for any interactive system, which may not be true if we have longer-lasting tasks that must be prioritized for interaction over short tasks that are not interactive.
 
----
-
 **Verdict**
 
 According to the experts, the answer key is correct and the response of the AI is incorrect.
 
----
-
-**Analysis of prompts, responses, and comments by experts through ChatGPT-4 Turbo** 
+## Final Analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
 
 **Prompt**: The attached files contain the image of a question, the prompts and the responses of a generative AI used to answer that question, and the comments of two or more human experts on the responses of the generative AI and the general quality of the question. Based on the information in these files, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties arising from incorrect recognition of any graphic or textual element present in the problem statement. Consider only concrete difficulties whose manifestation can be evidenced by the information in the files. At the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the current limitations of large language models (LLMs).
 
-**ChatGPT-4 Vision response**:
+---
+
+**ChatGPT-4 Turbo response**:
 
 When attempting to answer a question about scheduling algorithms in operating systems, the generative AI encountered the following concrete difficulties:
 
