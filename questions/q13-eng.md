@@ -92,6 +92,8 @@ ChatGPT is correct.
 
 If the statement says to consider the reference text, the correct choice is indeed D. I agree with ChatGPT's analysis of the alternatives.
 
+---
+
 **Expert #2**
 
 **Text:** Iterative and evolutionary systems development is an approach that establishes cycles of development, _with fixed duration_, called iterations. The product of each iteration is a _partial system_, executable, testable, and integrable. Each iteration includes its own activities of requirement analysis, design, implementation, and testing. The iterative life cycle is based on successive refinements and increments of a system through multiple iterations, with cyclical feedback and adaptation as the main drivers for converging towards a suitable system.
@@ -125,11 +127,15 @@ The text does not mention, but it is common sense that usability tests should in
 
 The question is ambiguous and should be annulled, as alternatives A, B, C, and E are not contained in the text. It seems to me that the text was used as an inducer of the questions, but the intention is to put general alternatives about the iterative and incremental life cycle. Thinking this way, I arrived at two possible answers A and E. However, as there was no CAN in A, then E would be more appropriate, so the answer key would be correct. However, the candidate has to make a reflection outside the text, so I consider the question ambiguous. The text hinders the interpretation of the alternatives.
 
+---
+
 **Expert #3**
 
 Analyzing all the material, I conclude that the official answer key is correct.
 
 Justification: options A-D contain errors based on my knowledge of Software Engineering, knowledge that is not limited to the statement of the question. It seems to me that ChatGPT's choice and justification are based solely on the statement because it repeatedly says that the text does not mention certain concepts. But at the same time, ChatGPT chooses option D, which mentions a subsystem that, in turn, was not defined in the text of the statement. It seems to me that it inferred what a subsystem would be, and in my opinion, its inference is incorrect (i.e., a subsystem is not a partial system).
+
+---
 
 **Verdict**
 
