@@ -17,7 +17,12 @@ C) A: 5 B: 9 C: -1 D: 0 E: 4 F: 1 G: 2
 D) A: 5 B: 7 C: 8 D: 0 E: 4 F: 1 G: 2
 
 E) A: 5 B: 6 C: 8 D: 0 E: 3 F: 1 G: 2
-**Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it (them). At the end, choose which one of the five given alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -84,13 +89,15 @@ Looking again at the alternatives, **none** of them exactly match the values we 
 
 ---
 
-**Answer Key**: C
+**Answer key**: C
 
 ---
 
 **Prompt**: Your answer differs from the answer key released for this question: [answer key]
 
 After analyzing the answer key, do you maintain or change your answer? If you decide to change your answer, explain the possible reasons that led you to the mistake. Try to identify the concrete causes of your mistake, instead of listing generic reasons such as a misunderstanding of the question's statement.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -104,7 +111,11 @@ Dijkstra's algorithm is a standard method for finding the shortest paths in weig
 
 It is possible that the question has some error or ambiguity that led to an incorrect answer key. I suggest that if there is any additional feedback or a detailed explanation of how the answer key arrived at the answer, this could help to clarify the discrepancy.
 
+---
+
 **Prompt**: Observing your first iteration, it appears you confused the weights of the edges leading to vertices E and F.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -157,7 +168,11 @@ Looking at the options, the alternative that corresponds to these estimates is:
 
 Thank you for pointing out the error. I apologize for the previous confusion and appreciate your patience.
 
+---
+
 **Prompt**: Ok, your answer might be correct, but you still got the weight of the edge D -> F wrong. I suggest re-examining the image.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -212,13 +227,13 @@ Thank you for pointing out the error. I apologize for the previous confusion and
 
 ChatGPT retracted its response and agreed with the answer key.
 
----
-
-**Analysis of prompts and responses by ChatGPT-4 Turbo**
+## Final analysis of ChatGPT-4 Vision's responses by ChatGPT-4 Turbo ##
 
 **Prompt**: The attachments contain the image of a question, as well as the prompts and responses of a generative AI used to answer that question. Based on the information present in those attachments, summarize the main difficulties encountered by the generative AI when trying to answer the question, including possible difficulties resulting from the incorrect recognition of any graphic or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the attachments. In the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or whether they would be inherent to the limitations of current large language models (LLMs).
 
-**ChatGPT-4 Vision response**:
+---
+
+**ChatGPT-4 Turbo response**:
 
 The difficulties faced by the generative AI when answering the question about Dijkstra's algorithm are evident in the analysis of the provided file:
 
