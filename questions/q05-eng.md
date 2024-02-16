@@ -54,6 +54,12 @@ a) How will the array int a\[ \] = {2, 5, 8, 13, 21, 1, 3, 34} look like after t
 b) Present the time complexity in the worst case for the function *heapify*, using the notation *O* or *Θ*. (value: 5.0 points)
 **Prompt**: Answer the question(s) in this image by explaining step by step the reasoning used to answer it (them). Inform if any question is not clear or does not have a possible answer.
 
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. Inform if the question is unclear or has no possible answer.
+
+---
+
 **ChatGPT-4 Vision response**:
 
 Let's address the presented questions:
@@ -106,6 +112,8 @@ b) The respondent should present that in the worst case for the `heapify` functi
 
 After analyzing the response standard, do you maintain or change your original answers? If you decide to change your answers, explain the possible reasons that led you to errors in the previous answers. Try to identify the concrete causes of errors, rather than listing generic reasons like misunderstanding the statement of the question.
 
+---
+
 **ChatGPT-4 Vision response**:
 
 After reviewing the response standard, I would change my original answers as follows:
@@ -130,10 +138,10 @@ In summary, the errors mainly stem from failing to simulate the algorithm correc
 
 ---
 
-**Evaluation of ChatGPT-4 Vision's first response based on the response standard**
+**Expert evaluation of ChatGPT-4 Vision's first response based on the response standard**
 
 a) Incorrect answer (ChatGPT-4 Vision produced an incorrect arrangement according to the response standard): 0.0/5.0 scores
 
-b) Correct answer (ChatGPT-4 Vision correctly informed the required complexity according to the response standard): 5.0/5.0 scores
+b) Correct answer (ChatGPT-4 Vision correctly informed the algorithm complexity according to the response standard): 5.0/5.0 scores
 
 Total scores: 0.0 + 5.0 = 5.0/10.0
