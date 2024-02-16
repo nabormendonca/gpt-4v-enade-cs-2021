@@ -2,7 +2,9 @@
 
 <img src="q31-image.png" alt="Question 31 image file" width="75%" height="75%">
 
-**Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+**Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
+
+---
 
 **Resposta do ChatGPT-4 Vision**: 
 
@@ -52,6 +54,8 @@ A resposta correta é **D) I, III e IV**.
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
+---
+
 **Resposta do ChatGPT-4 Vision**:
 
 Vamos revisitar a análise e ver se identifico qualquer discrepância ou erro em minha interpretação anterior:
@@ -71,7 +75,11 @@ Razões para qualquer discrepância com o gabarito divulgado:
 
 Após essa revisão, mantenho minha resposta original como **D) I, III e IV**. Se o gabarito divulgado estiver de fato em desacordo, recomendo consultar a entidade que aplicou o exame para buscar esclarecimentos ou possíveis retificações.
 
+---
+
 **Prompt**: Uma dúvida: a afirmação II não menciona explicitamente que o conteúdo da fita deve ser analisado *excluindo-se os símbolos "B"*?
+
+---
 
 **Resposta do ChatGPT-4 Vision**:
 
@@ -85,7 +93,11 @@ Peço desculpas pelo meu erro anterior. Isso significa que a resposta correta é
 
 Agradeço por apontar a discrepância, e lamento pela confusão causada.
 
+---
+
 **Prompt**: Não entendi. Como a alternativa correta pode ser E se você reafirmou que a afirmação I também é correta?
+
+---
 
 **Resposta do ChatGPT-4 Vision**:
 
@@ -109,10 +121,7 @@ Dado isso, as afirmações corretas são I, II, III e IV. Assim, a resposta corr
 
 Lamento pelo meu erro anterior e agradeço por sua paciência.
 
-
----
-
-**Avaliação de especialistas**
+## Avaliação de especialistas ##
 
 **Especialista #1**
 
@@ -125,6 +134,8 @@ A afirmação II é correta, após 8 movimentos, o conteúdo da fita é 1001. O 
 A afirmação III é correta, pois a entrada é um palíndromo, o que leva a máquina a "convergir" para o estado de aceite qf. 
 
 A afirmação IV também é correta, pois palíndromos podem ser representados com _pushdown automata_.
+
+---
 
 **Especialista #2**
 
@@ -170,13 +181,13 @@ A resposta correta é **E) II, III e IV**.
 
 De acordo com os especialistas, o gabarito está correto e a resposta do ChatGPT está incorreta.
 
----
-
-**Análise dos prompts, respostas e comentários dos especialistas pelo ChatGPT-4 Turbo** 
+## Análise final das respostas do ChatGPT-4 Vision e dos comentários dos especialistas pelo ChatGPT-4 Turbo ## 
 
 **Prompt**: Os arquivos em anexo contêm a imagem de uma questão, os prompts e as respostas de uma IA gerativa utilizada para responder essa questão, e os comentários de dois ou mais especialistas humanos sobre as respostas da IA gerativa e a qualidade da questão de forma geral. Com base nas informações presentes nesses arquivos, sumarize as principais dificuldades enfrentadas pela IA gerativa ao tentar responder a questão, incluindo possíveis dificuldades decorrentes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação possa ser evidenciada pelas informações presentes nos arquivos. Ao final, discuta se essas dificuldades poderiam ser amenizadas ou eliminadas utilizando técnicas de engenharia de prompt, ou se seriam inerentes às limitações dos grandes modelos de linguagem (LLMs) atuais.
 
-**Resposta do ChatGPT-4 Vision**:
+---
+
+**Resposta do ChatGPT-4 Turbo**:
 
 A IA gerativa, ao tentar responder a questão sobre a máquina de Turing, enfrentou dificuldades significativas relacionadas à interpretação do diagrama da máquina de Turing e à verificação das asserções propostas. As principais dificuldades concretas identificadas foram:
 
