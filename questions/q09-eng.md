@@ -101,7 +101,7 @@ It is implicit that it assumes that the priority scheme "shortest job first" is 
 
 According to the experts, the answer key is correct and the response of the AI is incorrect.
 
-## Final Analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
+## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
 
 **Prompt**: The attached files contain the image of a question, the prompts and the responses of a generative AI used to answer that question, and the comments of two or more human experts on the responses of the generative AI and the general quality of the question. Based on the information in these files, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties arising from incorrect recognition of any graphic or textual element present in the problem statement. Consider only concrete difficulties whose manifestation can be evidenced by the information in the files. At the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the current limitations of large language models (LLMs).
 
