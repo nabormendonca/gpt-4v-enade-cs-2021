@@ -4,6 +4,8 @@
 
 **Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
 
+---
+
 **Resposta do ChatGPT-4 Vision**: 
 
 Vamos analisar as afirmativas:
