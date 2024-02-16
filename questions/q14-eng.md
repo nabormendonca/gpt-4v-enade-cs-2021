@@ -27,7 +27,12 @@ C) Assertion I is a true proposition, and II is a false proposition.
 D) Assertion I is a false proposition, and II is a true proposition.
 
 E) Assertions I and II are false propositions.
-**Prompt**: Answer the question(s) in this image explaining step by step the reasoning used to answer it(them). At the end, choose which of the five alternatives provided (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
+
+**Prompt**: Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
+
+---
 
 **ChatGPT-4 Vision response**:
 
@@ -68,6 +73,8 @@ Assertion I is definitely true based on the text. Assertion II lacks sufficient 
 
 After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to the mistake. Try to identify the concrete causes of your error, rather than listing generic reasons such as a misunderstanding of the question's statement.
 
+---
+
 **ChatGPT-4 Vision response**:
 
 Maintaining my previous analysis, the correct answer is alternative **B**.
@@ -80,9 +87,7 @@ Reasons for the error in the previous response (in case my initial analysis was 
 
 In conclusion, based on the analysis of the text and the assertions provided, alternative **B** is the most appropriate answer.
 
----
-
-**Expert Assessment**
+## Experts Assessment ##
 
 **Expert #1**
 
@@ -96,11 +101,15 @@ Also, the so-called Von Neumann bottleneck, well-known when thinking of performa
 
 Therefore, I would choose option C, that is, I - true and II - false.
 
+---
+
 **Expert #2**
 
 This is the kind of question I do not like, as they use a detail to invalidate the question, namely the issue of the registers. It was a very subtle thing that chatGPT did not catch. In fact, with cache locality the next instructions are already brought into L1.
 
 Therefore, unfortunately the official answer key is correct, but the question is tricky.
+
+---
 
 **Expert #3**
 
@@ -120,13 +129,13 @@ Regarding the ChatGPT response, I thought it was somewhat on the fence when it s
 
 According to the experts, the answer key is correct and the response from ChatGPT is incorrect.
 
----
-
-**Analysis of the prompts, responses, and comments by the experts in the ChatGPT-4 Turbo** 
+## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
 
 **Prompt**: The files attached contain the image of a question, the prompts and the responses of a generative AI used to answer that question, and the comments of two or more human experts about the responses of the generative AI and the general quality of the question. Based on the information present in those files, summarize the main difficulties faced by the generative AI when attempting to answer the question, including possible difficulties arising from the incorrect recognition of any graphic or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. At the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the limitations of current large language models (LLMs).
 
-**ChatGPT-4 Vision response**:
+---
+
+**ChatGPT-4 Turbo response**:
 
 The generative AI was asked to respond to a question about the Von Neumann architecture and the evolution of computer architectures from the ENIAC to modern notebooks. The AI's response was that while assertion I was true, assertion II could not be confirmed or refuted based on the text, leading it to choose option B as the correct answer. However, the official answer key indicated that the correct answer was C.
 
