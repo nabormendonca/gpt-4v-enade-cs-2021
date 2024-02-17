@@ -1,4 +1,4 @@
-\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \]
+\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 29 ##
 
@@ -168,4 +168,4 @@ The generative AI faced several challenges when trying to answer the question on
 Prompt engineering techniques could be employed to improve the AI's performance by providing clarity on the importance of labels and instructing the AI to consider all parts of the question — text, labels, and graphical elements — in its assessment. However, difficulties related to the conflict between prior knowledge and question instructions are inherent to the current limitations of LLMs, which may have difficulty adjusting responses when confronted with information that challenges their initial understanding. Advances in LLMs' ability to process and integrate multiple sources of information would be necessary to fully overcome these challenges.
 
 
-\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \]
+\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \] \[ [Main menu](/README.md) \]

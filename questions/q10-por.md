@@ -1,4 +1,4 @@
-\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \]
+\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 10 ##
 
@@ -38,4 +38,4 @@ Resposta: B) Deque, lista simplesmente ligada, pilha e fila.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \]
+\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \] \[ [Menu inicial](/README.md) \]

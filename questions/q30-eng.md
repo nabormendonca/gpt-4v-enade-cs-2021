@@ -1,4 +1,4 @@
-\[ [Previous question](q29-eng.md) \] \[ [Next question](q31-eng.md) \]
+\[ [Previous question](q29-eng.md) \] \[ [Next question](q31-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 30 ##
 
@@ -67,4 +67,4 @@ The correct answer is **E) I, III, and IV**.
 ChatGPT's response is consistent with the answer key.
 
 
-\[ [Previous question](q29-eng.md) \] \[ [Next question](q31-eng.md) \]
+\[ [Previous question](q29-eng.md) \] \[ [Next question](q31-eng.md) \] \[ [Main menu](/README.md) \]

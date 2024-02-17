@@ -1,4 +1,4 @@
-\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \]
+\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 32 ##
 
@@ -42,4 +42,4 @@ A resposta correta é **A) I e III**.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \]
+\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \] \[ [Menu inicial](/README.md) \]

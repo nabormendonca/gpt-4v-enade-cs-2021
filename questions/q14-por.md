@@ -1,4 +1,4 @@
-\[ [Questão anterior](q13-por.md) \] \[ [Próxima questão](q15-por.md) \]
+\[ [Questão anterior](q13-por.md) \] \[ [Próxima questão](q15-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 14 ##
 
@@ -131,4 +131,4 @@ Em conclusão, algumas das dificuldades da IA poderiam potencialmente ser aborda
 
 
 
-\[ [Questão anterior](q13-por.md) \] \[ [Próxima questão](q15-por.md) \]
+\[ [Questão anterior](q13-por.md) \] \[ [Próxima questão](q15-por.md) \] \[ [Menu inicial](/README.md) \]

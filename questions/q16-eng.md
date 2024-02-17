@@ -1,4 +1,4 @@
-\[ [Previous question](q15-eng.md) \] \[ [Next question](q17-eng.md) \]
+\[ [Previous question](q15-eng.md) \] \[ [Next question](q17-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 16 ##
 
@@ -77,4 +77,4 @@ The expression we have determined is **option B**, which is: (X3 . (X2') + (X1')
 The response from ChatGPT is consistent with the answer key.
 
 
-\[ [Previous question](q15-eng.md) \] \[ [Next question](q17-eng.md) \]
+\[ [Previous question](q15-eng.md) \] \[ [Next question](q17-eng.md) \] \[ [Main menu](/README.md) \]

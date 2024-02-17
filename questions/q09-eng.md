@@ -1,4 +1,4 @@
-\[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \]
+\[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 09 ##
 
@@ -128,4 +128,4 @@ These difficulties suggest that despite the AI's ability to analyze and reason a
 However, the difficulty in adjusting the response after the feedback from the answer key and experts reflects a limitation inherent in current LLMs: the difficulty in re-evaluating information and conclusions based on new data. This limitation requires the development of better strategies for LLMs to incorporate feedback and adjust their responses more effectively. This indicates the need for continuous advancement in AI models to improve their adaptability and reassessment capabilities in dynamic and complex contexts like exam question interpretation.
 
 
-\[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \]
+\[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \] \[ [Main menu](/README.md) \]

@@ -1,4 +1,4 @@
-\[ [Previous question](q21-eng.md) \] \[ [Next question](q23-eng.md) \]
+\[ [Previous question](q21-eng.md) \] \[ [Next question](q23-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 22 ##
 
@@ -94,4 +94,4 @@ The most suitable alternative that correctly translates the ERD into the relatio
 The ChatGPT's answer is consistent with the answer key.
 
 
-\[ [Previous question](q21-eng.md) \] \[ [Next question](q23-eng.md) \]
+\[ [Previous question](q21-eng.md) \] \[ [Next question](q23-eng.md) \] \[ [Main menu](/README.md) \]

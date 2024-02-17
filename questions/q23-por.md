@@ -1,4 +1,4 @@
-\[ [Questão anterior](q22-por.md) \] \[ [Próxima questão](q24-por.md) \]
+\[ [Questão anterior](q22-por.md) \] \[ [Próxima questão](q24-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 23 ##
 
@@ -61,4 +61,4 @@ Portanto, a alternativa correta é **C**.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q22-por.md) \] \[ [Próxima questão](q24-por.md) \]
+\[ [Questão anterior](q22-por.md) \] \[ [Próxima questão](q24-por.md) \] \[ [Menu inicial](/README.md) \]

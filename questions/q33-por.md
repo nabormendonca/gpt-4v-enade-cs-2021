@@ -1,4 +1,4 @@
-\[ [Questão anterior](q32-por.md) \] \[ [Próxima questão](q34-por.md) \]
+\[ [Questão anterior](q32-por.md) \] \[ [Próxima questão](q34-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 33 ##
 
@@ -54,4 +54,4 @@ Nenhuma das alternativas verifica todas as condições necessárias para determi
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q32-por.md) \] \[ [Próxima questão](q34-por.md) \]
+\[ [Questão anterior](q32-por.md) \] \[ [Próxima questão](q34-por.md) \] \[ [Menu inicial](/README.md) \]

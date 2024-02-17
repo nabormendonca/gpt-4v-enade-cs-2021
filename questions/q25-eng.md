@@ -1,4 +1,4 @@
-\[ [Previous question](q24-eng.md) \] \[ [Next question](q26-eng.md) \]
+\[ [Previous question](q24-eng.md) \] \[ [Next question](q26-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 25 ##
 
@@ -222,4 +222,4 @@ Therefore, the difficulties faced by the AI reflect limitations of current LLMs,
 These issues highlight the need for continuous advancements in AI models to improve contextual understanding and the ability to deal with ambiguities and varied feedback.
 
 
-\[ [Previous question](q24-eng.md) \] \[ [Next question](q26-eng.md) \]
+\[ [Previous question](q24-eng.md) \] \[ [Next question](q26-eng.md) \] \[ [Main menu](/README.md) \]

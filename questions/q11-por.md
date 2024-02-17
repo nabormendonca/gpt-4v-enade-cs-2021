@@ -1,4 +1,4 @@
-\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \]
+\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 11 ##
 
@@ -41,4 +41,4 @@ Resposta: D) II e IV.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \]
+\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \] \[ [Menu inicial](/README.md) \]

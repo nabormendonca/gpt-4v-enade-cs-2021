@@ -1,4 +1,4 @@
-\[ [Previous question](q27-eng.md) \] \[ [Next question](q29-eng.md) \]
+\[ [Previous question](q27-eng.md) \] \[ [Next question](q29-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 28 ##
 
@@ -77,4 +77,4 @@ The correct option is alternative **B) I and IV**, as both statements I and IV a
 The ChatGPT response is consistent with the answer key.
 
 
-\[ [Previous question](q27-eng.md) \] \[ [Next question](q29-eng.md) \]
+\[ [Previous question](q27-eng.md) \] \[ [Next question](q29-eng.md) \] \[ [Main menu](/README.md) \]

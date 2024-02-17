@@ -1,4 +1,4 @@
-\[ [Previous question](q23-eng.md) \] \[ [Next question](q25-eng.md) \]
+\[ [Previous question](q23-eng.md) \] \[ [Next question](q25-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 24 ##
 
@@ -71,4 +71,4 @@ Therefore, the correct alternative is **E, I, II and IV**.
 The ChatGPT's answer is consistent with the answer key.
 
 
-\[ [Previous question](q23-eng.md) \] \[ [Next question](q25-eng.md) \]
+\[ [Previous question](q23-eng.md) \] \[ [Next question](q25-eng.md) \] \[ [Main menu](/README.md) \]

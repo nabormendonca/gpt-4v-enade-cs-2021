@@ -1,4 +1,4 @@
-\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \]
+\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 21 ##
 
@@ -108,4 +108,4 @@ The AI, upon realizing the error, adjusted its answer to align with the official
 These difficulties could be partially mitigated with prompt engineering, where prompts can be structured to emphasize the context and nature of the task (e.g., answering within the context of an exam where the "most correct" alternative is desired, even if other alternatives contain some truth). However, some limitations are inherent in the current LLMs, such as the difficulty in applying flexibility in interpretation when technical precision is challenged by language nuances in exam contexts. Prompt engineering strategies can improve performance, but LLMs still need advancements to better handle ambiguity and contextual interpretation, especially in multiple-choice scenarios where nuances are critical.
 
 
-\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \]
+\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \] \[ [Main menu](/README.md) \]

@@ -1,4 +1,4 @@
-\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \]
+\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 05 ##
 
@@ -98,4 +98,4 @@ b) Resposta correta (ChatGPT-4 Vision informou corretamente a complexidade solic
 Total de pontos: 0,0 + 5,0 = 5,0/10,0
 
 
-\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \]
+\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \] \[ [Menu inicial](/README.md) \]

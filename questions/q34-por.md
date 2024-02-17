@@ -1,4 +1,4 @@
-\[ [Questão anterior](q33-por.md) \] \[ [Próxima questão](q35-por.md) \]
+\[ [Questão anterior](q33-por.md) \] \[ [Próxima questão](q35-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 34 ##
 
@@ -231,4 +231,4 @@ As dificuldades enfrentadas pela IA gerativa ao responder a questão do algoritm
 
 Estas dificuldades poderiam ser parcialmente mitigadas por técnicas de engenharia de prompt, como clarificar a interpretação dos elementos gráficos ou reforçar a necessidade de verificar as respostas com as informações visuais fornecidas. No entanto, a precisão na interpretação de gráficos e a resolução de problemas baseados em gráficos são desafios inerentes aos LLMs atuais. Enquanto a engenharia de prompt pode ajudar a orientar a IA para uma interpretação mais precisa, as limitações fundamentais dos LLMs em entender e processar informações visuais complexas ainda requerem avanços na integração de capacidades visuais e de processamento de linguagem natural.
 
-\[ [Questão anterior](q33-por.md) \] \[ [Próxima questão](q35-por.md) \]
+\[ [Questão anterior](q33-por.md) \] \[ [Próxima questão](q35-por.md) \] \[ [Menu inicial](/README.md) \]

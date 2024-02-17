@@ -1,4 +1,4 @@
-\[ [Questão anterior](q18-por.md) \] \[ [Próxima questão](q20-por.md) \]
+\[ [Questão anterior](q18-por.md) \] \[ [Próxima questão](q20-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 19 ##
 
@@ -42,4 +42,4 @@ Portanto, a alternativa correta é: **D) I, II e IV.**
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q18-por.md) \] \[ [Próxima questão](q20-por.md) \]
+\[ [Questão anterior](q18-por.md) \] \[ [Próxima questão](q20-por.md) \] \[ [Menu inicial](/README.md) \]

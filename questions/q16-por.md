@@ -1,4 +1,4 @@
-\[ [Questão anterior](q15-por.md) \] \[ [Próxima questão](q17-por.md) \]
+\[ [Questão anterior](q15-por.md) \] \[ [Próxima questão](q17-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 16 ##
 
@@ -50,4 +50,4 @@ A expressão que determinamos é a **opção B**, que é: (X3 . (X2') + (X1'))'
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q15-por.md) \] \[ [Próxima questão](q17-por.md) \]
+\[ [Questão anterior](q15-por.md) \] \[ [Próxima questão](q17-por.md) \] \[ [Menu inicial](/README.md) \]

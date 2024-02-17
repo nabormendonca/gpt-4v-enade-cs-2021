@@ -1,4 +1,4 @@
-\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \]
+\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 33 ##
 
@@ -87,4 +87,4 @@ None of the alternatives checks all the necessary conditions to determine if two
 The response of the ChatGPT is consistent with the answer key.
 
 
-\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \]
+\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \] \[ [Main menu](/README.md) \]

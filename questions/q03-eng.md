@@ -1,4 +1,4 @@
-\[ [Next question](q04-eng.md) \]
+\[ [Next question](q04-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 03 ##
 
@@ -154,4 +154,4 @@ d) Correct answer (ChatGPT-4 Vision correctly identified that formula 6 is a log
 Total scores: 2.5 + 1.25 + 0 + 2.5 = 6.3/10.0
 
 
-\[ [Next question](q04-eng.md) \]
+\[ [Next question](q04-eng.md) \] \[ [Main menu](/README.md) \]

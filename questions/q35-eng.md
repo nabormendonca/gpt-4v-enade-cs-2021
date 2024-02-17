@@ -1,4 +1,4 @@
-\[ [Previous question](q34-eng.md) \] 
+\[ [Previous question](q34-eng.md) \]  \[ [Main menu](/README.md) \]
 
 ## Question 35 ##
 
@@ -58,4 +58,4 @@ Given the reasoning above, the only option that is completely correct is **D) Th
 The ChatGPT's response is consistent with the answer key.
 
 
-\[ [Previous question](q34-eng.md) \] 
+\[ [Previous question](q34-eng.md) \]  \[ [Main menu](/README.md) \]

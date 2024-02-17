@@ -1,4 +1,4 @@
-\[ [Questão anterior](q34-por.md) \] 
+\[ [Questão anterior](q34-por.md) \]  \[ [Menu inicial](/README.md) \]
 
 ## Questão 35 ##
 
@@ -39,4 +39,4 @@ Dado o raciocínio acima, a única opção que é totalmente correta é a **D) A
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q34-por.md) \] 
+\[ [Questão anterior](q34-por.md) \]  \[ [Menu inicial](/README.md) \]

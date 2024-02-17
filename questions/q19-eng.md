@@ -1,4 +1,4 @@
-\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \]
+\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \] \[ [Main menu](/README.md) \]
 
 ## Question 19 ##
 
@@ -71,4 +71,4 @@ Therefore, the correct alternative is: **D) I, II and IV.**
 The ChatGPT's response is consistent with the answer key.
 
 
-\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \]
+\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \] \[ [Main menu](/README.md) \]

@@ -1,4 +1,4 @@
-\[ [Questão anterior](q27-por.md) \] \[ [Próxima questão](q29-por.md) \]
+\[ [Questão anterior](q27-por.md) \] \[ [Próxima questão](q29-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 28 ##
 
@@ -44,4 +44,4 @@ A opção correta é a alternativa **B) I e IV**, pois ambas as afirmações I e
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q27-por.md) \] \[ [Próxima questão](q29-por.md) \]
+\[ [Questão anterior](q27-por.md) \] \[ [Próxima questão](q29-por.md) \] \[ [Menu inicial](/README.md) \]

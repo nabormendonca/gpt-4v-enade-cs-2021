@@ -1,4 +1,4 @@
-\[ [Questão anterior](q21-por.md) \] \[ [Próxima questão](q23-por.md) \]
+\[ [Questão anterior](q21-por.md) \] \[ [Próxima questão](q23-por.md) \] \[ [Menu inicial](/README.md) \]
 
 ## Questão 22 ##
 
@@ -56,4 +56,4 @@ A alternativa mais adequada que traduz corretamente o DER para o esquema relacio
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q21-por.md) \] \[ [Próxima questão](q23-por.md) \]
+\[ [Questão anterior](q21-por.md) \] \[ [Próxima questão](q23-por.md) \] \[ [Menu inicial](/README.md) \]
