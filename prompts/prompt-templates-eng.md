@@ -10,7 +10,7 @@ Answer the question in this image. Explain your reasoning step by step. Inform i
 
 **Initial prompt for multiple-choice questions**:
 
-\[attached question image\]
+\[question image\]
 
 Answer the question in this image. Explain your reasoning step by step. At the end, choose which of the five alternatives (A-E) is correct. Inform if there is more than one correct alternative or if all five alternatives are incorrect.
 
@@ -36,11 +36,11 @@ After analyzing the answer key, do you maintain or change your response? If you 
 
 ---
 
-**ChatGPT-4 Turbo analysis prompt (for open and multiple-choice questions with initial disagreeing responses)**:
+**ChatGPT-4 Turbo analysis prompt (for open or multiple-choice questions with initial disagreeing responses)**:
 
-\[attached question image\]
+\[question image\]
 
-The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).\\
+The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 \[ChatGPT-4 Vision's prompts and responses\]
 
