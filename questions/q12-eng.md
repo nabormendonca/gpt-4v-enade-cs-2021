@@ -2,7 +2,11 @@
 
 ## Question 12 ##
 
-(Click [here](q12-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q12-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q12-image.png" alt="Question 12 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Brazil's General Data Protection Law (LGPD) has been in effect since the end of 2018 and aims to regulate the processing of personal data from clients and users of public and private companies.
 

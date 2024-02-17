@@ -2,7 +2,11 @@
 
 ## Question 20 ##
 
-(Click [here](q20-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q20-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q20-image.png" alt="Question 20 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Observe the code below written in the C language.
 

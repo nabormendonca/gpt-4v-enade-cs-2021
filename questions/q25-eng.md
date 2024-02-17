@@ -2,7 +2,11 @@
 
 ## Question 25 ##
 
-(Click [here](q25-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q25-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q25-image.png" alt="Question 25 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Cloud computing can be defined as the communication infrastructure represented by several web servers, responsible for storing data and applications, where each part of this infrastructure is provided as a service and these are usually allocated in data centers, making use of shared hardware for computation and storage. According to the National Institute of Standards and Technology (NIST), a cloud computing model must present 5 essential characteristics, 3 service models, and 4 deployment models. The essential characteristics are: self-service on demand, broad network access, resource pooling, rapid elasticity, and measured service. Service models are Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) and the deployment models are: Private Cloud, Community Cloud, and Hybrid Cloud.
 

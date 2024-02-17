@@ -2,7 +2,11 @@
 
 ## Question 26 ##
 
-(Click [here](q26-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q26-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q26-image.png" alt="Question 26 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Adaptive interfaces perform adaptations and personalizations automatically and dynamically during the navigation process, based on the user's navigation learning and interaction. Adaptive interface techniques can be used to adapt interfaces to the user's preferences, their cognitive capacity and their navigation style, making interactions more natural and attractive. These adaptation techniques can be employed both for the reorganization of objects in the environment, as well as to change the way information is presented. Adaptations can occur at different levels or in different forms: content adaptation, navigation adaptation and content's presentation adaptation. Each of these levels of adaptation has its own methods and techniques of adaptation.
 

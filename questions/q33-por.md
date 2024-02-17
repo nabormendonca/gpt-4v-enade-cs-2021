@@ -2,7 +2,9 @@
 
 ## Questão 33 ##
 
-<img src="q33-image.png" alt="Question 33 image file" width="75%" height="75%">
+Clique [aqui](q33-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
+
+<img src="q33-image.png" alt="Question 33 image file" width="60%" height="60%">
 
 **Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.
 

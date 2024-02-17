@@ -2,7 +2,11 @@
 
 ## Question 28 ##
 
-(Click [here](q28-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q28-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q28-image.png" alt="Question 28 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Figure 1 illustrates a pipeline with five units, also called stages. Stage 1 fetches the instruction from memory and places it into a buffer until it is needed. Stage 2 decodes the instruction, determines its type, and which operands it requires. Stage 3 locates and fetches the operands, whether from registers or memory. Stage 4 is the one that performs the work of executing the instruction, typically by passing the operands through the data path. Finally, stage 5 writes the result back into the appropriate register. In figure 2, we see how the pipeline functions over time. During clock cycle 1, stage S1 is working on instruction 1, fetching it from memory. During cycle 2, stage S2 decodes instruction 1, while stage S1 fetches instruction 2. During cycle 3, stage S3 fetches the operands for instruction 1, stage S2 decodes instruction 2, and stage S1 fetches the third instruction. During cycle 4, stage S4 executes instruction 1, S3 fetches operands for instruction 2, S2 decodes instruction 3, and S1 fetches instruction 4. Finally, during cycle 5, S5 writes (records) the result of instruction 1 back into the register, while the other stages work on the following instructions.
 

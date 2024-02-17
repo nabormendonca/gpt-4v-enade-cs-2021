@@ -2,6 +2,8 @@
 
 ## Questão 09 ##
 
+Clique [aqui](q09-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
+
 <img src="q09-image.png" alt="Question 09 image file" width="45%" height="45%">
 
 **Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Ao final, escolha qual das cinco alternativas fornecidas (A-E) é a correta. Informe caso haja mais de uma alternativa correta ou todas as cinco alternativas sejam incorretas.

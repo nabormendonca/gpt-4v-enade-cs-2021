@@ -2,7 +2,11 @@
 
 ## Question 09 ##
 
-(Click [here](q09-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q09-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q09-image.png" alt="Question 09 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 When a computer is multi-programmed, it typically has multiple processes or threads competing for the CPU at the same time. This situation occurs whenever two or more processes are simultaneously in the ready state. If only one CPU is available, a choice must be made regarding which process to execute next. The part of the operating system that makes that choice is called the **scheduler**, and the algorithm it uses is the **scheduling algorithm**.
 
@@ -129,3 +133,6 @@ However, the difficulty in adjusting the response after the feedback from the an
 
 
 \[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \] \[ [Main menu](/README.md) \]
+<img src="q09-image.png" alt="Question 09 image file" width="60%" height="60%">
+Click [here](q09-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+Click [here](q09-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.

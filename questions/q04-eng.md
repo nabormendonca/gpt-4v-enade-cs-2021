@@ -2,7 +2,11 @@
 
 ## Question 04 ##
 
-(Click [here](q04-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q04-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q04-image.png" alt="Question 04 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 The sum of two binary numbers is done bit by bit, starting from the right (less significant) to the left (more significant), and the carry over is forwarded, that is, carry out (represented in the figure as *Cout*), to the next *bit* as carry in (represented in the figure as *Cin*). A simple way to implement an N-bit adder is to implement N elementary 1-bit adders. Each 1-bit adder has inputs A, B, and carry in (Cin) and the outputs Sum (S) and carry out (Cout).
 

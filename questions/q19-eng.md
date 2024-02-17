@@ -2,7 +2,11 @@
 
 ## Question 19 ##
 
-(Click [here](q19-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q19-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q19-image.png" alt="Question 19 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Two techniques commonly used to broaden basic information on requirements are personas and scenarios. Often used together, these techniques complement each other in a way that brings details to life and allows developers to explore current user activities, future use of new products, and futuristic visions of new technologies. They can also guide the development throughout the product life cycle.
 

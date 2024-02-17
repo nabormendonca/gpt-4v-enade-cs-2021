@@ -2,7 +2,11 @@
 
 ## Question 31 ##
 
-(Click [here](q31-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q31-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q31-image.png" alt="Question 31 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Similar to a finite automaton but with an unlimited and unrestricted memory, a Turing machine is a much more precise model of a general-purpose computer. A Turing machine can do everything that a real computer can do; however, even it cannot solve certain problems. In a very real sense, these problems are beyond the theoretical limits of computation.
 

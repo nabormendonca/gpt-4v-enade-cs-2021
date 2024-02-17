@@ -2,7 +2,11 @@
 
 ## Question 17 ##
 
-(Click [here](q17-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q17-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q17-image.png" alt="Question 17 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 During part of the time, a process is busy performing internal computations and other things that do not lead to race conditions. However, at times, a process may need to access a shared memory or files, or perform other critical tasks that can lead to races. This part of the program that uses the shared memory is called the critical section or critical region. If we could arrange things so that two processes never were in their critical regions at the same time, we could avoid races. Although this requirement avoids the conditions for a race, it is not sufficient to ensure that processes in parallel cooperate in the correct and efficient use of shared data. We need four conditions to be maintained to reach a good solution.
 

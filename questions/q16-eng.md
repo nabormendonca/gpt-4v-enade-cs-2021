@@ -2,7 +2,11 @@
 
 ## Question 16 ##
 
-(Click [here](q16-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q16-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q16-image.png" alt="Question 16 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 In 1938, American mathematician Claude Shannon noticed the parallelism between propositional logic and the logic of circuits and realized that Boolean algebra played an important role in the systematization of this branch of electronics. Each of the basic connectives of logic are instances of the basic operations of Boolean algebra ("+", ".", and "'"). Boolean expressions combining operations and variables can be used to represent combinational circuits formed by logical gates.
 

@@ -2,7 +2,11 @@
 
 ## Question 13 ##
 
-(Click [here](q13-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q13-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q13-image.png" alt="Question 13 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Iterative and evolutionary systems development is an approach that establishes cycles of development with fixed duration, called iterations. The product of each iteration is a partial, executable, testable, and integrable system. Each iteration includes its own requirement analysis, project, implementation, and test activities. The iterative lifecycle is based on refinements and increments of a system through multiple iterations, with cyclical feedback and adaptation as the main drivers to converge to a suitable system.
 

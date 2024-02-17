@@ -2,7 +2,11 @@
 
 ## Question 34 ##
 
-(Click [here](q34-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q34-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q34-image.png" alt="Question 34 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Dijkstra's algorithm for the shortest path problem in weighted digraphs uses a priority queue of vertices, where the priorities are an estimate of the final cost. At each iteration, a vertex is removed from the queue, and the arcs that start at that vertex are analyzed. Consider the following graph, in which the desire is to know the cost of the shortest path for each vertex, starting from vertex D. Assume that -1 represents an "infinite" cost, that is, no path to the vertex has been found up to that moment.
 

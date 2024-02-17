@@ -2,7 +2,11 @@
 
 ## Question 10 ##
 
-(Click [here](q10-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q10-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q10-image.png" alt="Question 10 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 The Java language collections library provides implementations intended for elementary data structures, such as lists, queues, and stacks. Consider the following definitions of classes that represent implementations of data structures available in the language library:
 

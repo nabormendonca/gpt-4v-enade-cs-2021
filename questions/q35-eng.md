@@ -2,7 +2,11 @@
 
 ## Question 35 ##
 
-(Click [here](q35-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q35-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q35-image.png" alt="Question 35 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 A distributed system is one in which hardware or software components, located on networked computers, communicate and coordinate their actions only by sending messages to each other.
 

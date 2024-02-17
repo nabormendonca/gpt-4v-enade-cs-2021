@@ -2,7 +2,11 @@
 
 ## Question 21 ##
 
-(Click [here](q21-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q21-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q21-image.png" alt="Question 21 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 In computer network design, the rational choice of a connection device to be used is fundamental for the correct functioning of the network, as well as for its security and efficiency. Devices such as repeaters, hubs, bridges, switches, routers, and gateways are quite common, but they differ from one another in both subtle and not-so-subtle details. Due to the large number of these devices, it is worthwhile to know their main characteristics, understand how they function, and know when and how they are used. The key to understanding these devices is to observe that they operate in different layers, as illustrated in Figure 1. The layer is important because different devices use different fragments of information to decide how to carry out switching. In a typical scenario, a user generates some data to be sent to a remote machine. These data are passed on to the transport layer, which then adds a header (for example, a TCP header) and passes the resulting packet to the network layer below it. This layer adds its own header to form a network layer packet (for example, an IP packet). In Figure 2, we see the IP packet shaded. Then, the packet goes to the data link layer, which adds its own header and checksum (CRC) and delivers the resulting frame to the physical layer for transmission, let's say, over a LAN.
 

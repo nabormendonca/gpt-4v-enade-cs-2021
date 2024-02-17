@@ -2,7 +2,11 @@
 
 ## Question 14 ##
 
-(Click [here](q14-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q14-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q14-image.png" alt="Question 14 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 The first computer created was the ENIAC (Electronic Numerical Integrator And Computer), developed by Eckert and Mauchly at the University of Pennsylvania, United States. The project began in 1943, funded by the American government. The period was World War II and the goal was to calculate more agilely the best trajectories for transporting weapons and supplies amidst enemy armies. This is the type of calculation that small cellular devices do today to find routes in cities through GPS (Global Positioning System) and map analysis. The project was only completed in 1946, too late to be used for the Second World War, but it was widely used until 1955.
 

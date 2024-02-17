@@ -2,7 +2,9 @@
 
 ## Questão 05 ##
 
-<img src="q05-image.png" alt="Question 05 image file" width="75%" height="75%">
+Clique [aqui](q05-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
+
+<img src="q05-image.png" alt="Question 05 image file" width="60%" height="60%">
 
 **Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Informe caso a questão não esteja clara ou não tenha resposta possível.
 

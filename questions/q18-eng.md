@@ -2,7 +2,11 @@
 
 ## Question 18 ##
 
-(Click [here](q18-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q18-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q18-image.png" alt="Question 18 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 Machine learning techniques employ an inference principle called induction, in which it is possible to obtain generic conclusions from a particular set of examples. These intuitive learning techniques can be divided into two main types: supervised and unsupervised. In supervised learning, a reference for the objective to achieve is provided, that is, a training with the knowledge of the environment. Differently, in unsupervised learning, no references are used, that is, there is no training with the knowledge of the environment.
 

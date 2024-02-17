@@ -2,7 +2,11 @@
 
 ## Question 27 ##
 
-(Click [here](q27-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q27-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q27-image.png" alt="Question 27 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 The following figure shows the histogram of a sample composed of 20,000 servers. The x-axis shows the number of simultaneous requests on these servers. For example, the value 168 indicates that there are 1,850 servers with the capacity to handle 168 simultaneous requests.
 

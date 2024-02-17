@@ -2,7 +2,11 @@
 
 ## Question 24 ##
 
-(Click [here](q24-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q24-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q24-image.png" alt="Question 24 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 WhatsApp's end-to-end encryption ensures that only you and the person with whom you're communicating can read what is sent. Nobody else will have access to it, not even WhatsApp. Your messages are secured with locks and only you and the recipient have the special keys needed to unlock and read your messages. And for even greater protection, each message you send comes with its own unique lock and key.
 

@@ -2,7 +2,11 @@
 
 ## Question 33 ##
 
-(Click [here](q33-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q33-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q33-image.png" alt="Question 33 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 The PROLOG language belongs to the logic programming paradigm, in which propositional and algorithmic logic can be expressed in the form of fact descriptors and rules for producing responses. In the context of a family's genealogical tree, analyze the following base of facts described in Prolog language.
 

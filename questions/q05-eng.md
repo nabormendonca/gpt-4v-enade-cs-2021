@@ -2,7 +2,11 @@
 
 ## Question 05 ##
 
-(Click [here](q05-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
+Click [here](q05-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+
+<img src="q05-image.png" alt="Question 05 image file" width="60%" height="60%">
+
+**English transcription of the question:**
 
 A binary heap is an array that can be visualized as a binary tree, where each tree node corresponds to an array element, as can be observed in the figure below.
 
