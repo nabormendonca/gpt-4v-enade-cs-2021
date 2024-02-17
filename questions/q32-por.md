@@ -1,8 +1,6 @@
-\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q32-eng.md) \] 
 
 ## Questão 32 ##
-
-Clique [aqui](q32-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q32-image.png" alt="Question 32 image file" width="60%" height="60%">
 

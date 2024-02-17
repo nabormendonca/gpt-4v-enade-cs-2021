@@ -1,8 +1,6 @@
-\[ [Questão anterior](q29-por.md) \] \[ [Próxima questão](q31-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q29-por.md) \] \[ [Próxima questão](q31-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q30-eng.md) \] 
 
 ## Questão 30 ##
-
-Clique [aqui](q30-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q30-image.png" alt="Question 30 image file" width="60%" height="60%">
 

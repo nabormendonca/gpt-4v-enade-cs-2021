@@ -1,8 +1,6 @@
-\[ [Questão anterior](q34-por.md) \]  \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q34-por.md) \]  \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q35-eng.md) \] 
 
 ## Questão 35 ##
-
-Clique [aqui](q35-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q35-image.png" alt="Question 35 image file" width="60%" height="60%">
 

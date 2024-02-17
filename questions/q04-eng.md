@@ -1,8 +1,6 @@
-\[ [Previous question](q03-eng.md) \] \[ [Next question](q05-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q03-eng.md) \] \[ [Next question](q05-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q04-por.md) \] 
 
 ## Question 04 ##
-
-Click [here](q04-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
 
 <img src="q04-image.png" alt="Question 04 image file" width="60%" height="60%">
 

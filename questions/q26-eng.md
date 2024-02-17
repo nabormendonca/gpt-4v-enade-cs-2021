@@ -1,8 +1,6 @@
-\[ [Previous question](q25-eng.md) \] \[ [Next question](q27-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q25-eng.md) \] \[ [Next question](q27-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q26-por.md) \] 
 
 ## Question 26 ##
-
-Click [here](q26-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
 
 <img src="q26-image.png" alt="Question 26 image file" width="60%" height="60%">
 

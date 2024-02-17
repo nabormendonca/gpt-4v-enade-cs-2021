@@ -1,8 +1,6 @@
-\[ [Próxima questão](q04-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Próxima questão](q04-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q03-eng.md) \] 
 
 ## Questão 03 ##
-
-Clique [aqui](q03-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q03-image.png" alt="Question 03 image file" width="60%" height="60%">
 

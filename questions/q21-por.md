@@ -1,8 +1,6 @@
-\[ [Questão anterior](q20-por.md) \] \[ [Próxima questão](q22-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q20-por.md) \] \[ [Próxima questão](q22-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q21-eng.md) \] 
 
 ## Questão 21 ##
-
-Clique [aqui](q21-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q21-image.png" alt="Question 21 image file" width="60%" height="60%">
 

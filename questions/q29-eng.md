@@ -1,8 +1,6 @@
-\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q29-por.md) \] 
 
 ## Question 29 ##
-
-Click [here](q29-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
 
 <img src="q29-image.png" alt="Question 29 image file" width="60%" height="60%">
 

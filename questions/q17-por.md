@@ -1,8 +1,6 @@
-\[ [Questão anterior](q16-por.md) \] \[ [Próxima questão](q18-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q16-por.md) \] \[ [Próxima questão](q18-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q17-eng.md) \] 
 
 ## Questão 17 ##
-
-Clique [aqui](q17-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q17-image.png" alt="Question 17 image file" width="60%" height="60%">
 

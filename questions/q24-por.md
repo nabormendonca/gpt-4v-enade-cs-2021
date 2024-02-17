@@ -1,8 +1,6 @@
-\[ [Questão anterior](q23-por.md) \] \[ [Próxima questão](q25-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q23-por.md) \] \[ [Próxima questão](q25-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q24-eng.md) \] 
 
 ## Questão 24 ##
-
-Clique [aqui](q24-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q24-image.png" alt="Question 24 image file" width="60%" height="60%">
 

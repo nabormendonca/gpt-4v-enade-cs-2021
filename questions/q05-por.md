@@ -1,8 +1,6 @@
-\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q05-eng.md) \] 
 
 ## Questão 05 ##
-
-Clique [aqui](q05-eng.md) para ver os prompts e as respostas do ChaGPT-4 Vision a esta questão em Inglês.
 
 <img src="q05-image.png" alt="Question 05 image file" width="60%" height="60%">
 

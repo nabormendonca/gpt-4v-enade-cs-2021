@@ -1,8 +1,6 @@
-\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q19-por.md) \] 
 
 ## Question 19 ##
-
-Click [here](q19-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
 
 <img src="q19-image.png" alt="Question 19 image file" width="60%" height="60%">
 

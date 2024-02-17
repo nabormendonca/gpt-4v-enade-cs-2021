@@ -1,8 +1,6 @@
-\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q21-por.md) \] 
 
 ## Question 21 ##
-
-Click [here](q21-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
 
 <img src="q21-image.png" alt="Question 21 image file" width="60%" height="60%">
 

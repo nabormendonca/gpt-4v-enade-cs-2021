@@ -1,8 +1,6 @@
-\[ [Previous question](q34-eng.md) \]  \[ [Main menu](/README.md) \]
+\[ [Previous question](q34-eng.md) \]  \[ [Main menu](/README.md) \] \[ [Portuguese version](q35-por.md) \] 
 
 ## Question 35 ##
-
-Click [here](q35-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
 
 <img src="q35-image.png" alt="Question 35 image file" width="60%" height="60%">
 

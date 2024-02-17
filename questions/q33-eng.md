@@ -1,8 +1,6 @@
-\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q33-por.md) \] 
 
 ## Question 33 ##
-
-Click [here](q33-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
 
 <img src="q33-image.png" alt="Question 33 image file" width="60%" height="60%">
 
