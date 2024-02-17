@@ -94,4 +94,4 @@ Essas dificuldades são parcialmente inerentes às limitações dos LLMs atuais,
 
 No caso específico, a IA ajustou sua resposta após reconhecer o erro, o que indica que com a reflexão e o feedback corretos, até mesmo as limitações de interpretação podem ser superadas. A chave seria desenvolver prompts que antecipem e corrijam essas tendências interpretativas dos LLMs, o que poderia melhorar a precisão em contextos que exigem respostas objetivas e inequívocas.
 
-\[ [Questão anterior](q11-por.md) \] \[ [Próxima questão](q13-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q11-por.md) \] \[ [Próxima questão](q13-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q12-eng.md) \] 

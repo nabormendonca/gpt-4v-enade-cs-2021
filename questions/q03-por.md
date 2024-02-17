@@ -112,4 +112,4 @@ d) Resposta correta (ChatGPT-4 Vision identificou corretamente que a fórmula 6 
 
 Total de pontos: 2,5 + 1,25 + 0 + 2,5 = 6,3/10,0
 
-\[ [Próxima questão](q04-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Próxima questão](q04-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q03-eng.md) \] 

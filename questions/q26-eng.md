@@ -138,4 +138,4 @@ Some of these difficulties could be partially mitigated with prompt engineering 
 However, some difficulties are inherent to the limitations of current LLMs, such as the ability to critically analyze overlaps between technical concepts and apply this analysis in a multiple-choice context. Continued improvement in the models for better contextual understanding and accurate information interpretation is necessary to overcome these challenges.
 
 
-\[ [Previous question](q25-eng.md) \] \[ [Next question](q27-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q25-eng.md) \] \[ [Next question](q27-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q26-por.md) \] 

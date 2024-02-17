@@ -177,4 +177,4 @@ A falta de consenso entre especialistas humanos em relação a uma questão téc
 
 Para sistemas de IA, esse tipo de situação ressalta a necessidade de habilidades avançadas de interpretação de texto, capacidade de considerar contexto e perspectivas múltiplas, e a importância de atualização contínua com as práticas atuais do campo. Enquanto a engenharia de prompt pode ajudar a guiar a IA para melhor interpretação e para pedir esclarecimentos quando necessário, a discrepância entre opiniões de especialistas humanos reflete uma área complexa que os LLMs ainda lutam para navegar eficientemente. Isso sugere que, além da melhoria na engenharia de prompt, é necessário um aprimoramento contínuo na capacidade dos modelos de linguagem de avaliar e sintetizar informações conflitantes.
 
-\[ [Questão anterior](q17-por.md) \] \[ [Próxima questão](q19-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q17-por.md) \] \[ [Próxima questão](q19-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q18-eng.md) \] 

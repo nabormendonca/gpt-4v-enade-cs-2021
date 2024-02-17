@@ -165,4 +165,4 @@ Este é um desafio não apenas para uma IA, mas também para o design de questõ
 
 A engenharia de prompt pode ajudar a IA a pedir esclarecimentos ou a considerar uma gama mais ampla de interpretações, mas as limitações dos LLMs atuais significam que ainda não há uma maneira confiável para as IA resolverem ambiguidades sem um consenso claro ou critérios bem definidos. Isso sublinha a importância de continuar a desenvolver a capacidade dos LLMs para navegar em complexidades e nuances humanas na comunicação e na interpretação de informações.
 
-\[ [Questão anterior](q12-por.md) \] \[ [Próxima questão](q14-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q12-por.md) \] \[ [Próxima questão](q14-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q13-eng.md) \] 

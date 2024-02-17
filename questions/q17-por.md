@@ -39,4 +39,4 @@ Portanto, a resposta correta é **C. A asserção I é uma proposição verdadei
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q16-por.md) \] \[ [Próxima questão](q18-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q16-por.md) \] \[ [Próxima questão](q18-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q17-eng.md) \] 

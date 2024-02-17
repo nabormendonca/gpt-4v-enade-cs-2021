@@ -56,4 +56,4 @@ Dada a análise, a alternativa correta é: **A) I, apenas.**
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q19-por.md) \] \[ [Próxima questão](q21-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q19-por.md) \] \[ [Próxima questão](q21-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q20-eng.md) \] 

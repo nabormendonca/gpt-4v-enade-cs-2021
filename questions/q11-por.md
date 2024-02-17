@@ -41,4 +41,4 @@ Resposta: D) II e IV.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q11-eng.md) \] 

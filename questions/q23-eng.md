@@ -86,4 +86,4 @@ Therefore, the correct option is **C**.
 The ChatGPT's answer is consistent with the answer key.
 
 
-\[ [Previous question](q22-eng.md) \] \[ [Next question](q24-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q22-eng.md) \] \[ [Next question](q24-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q23-por.md) \] 

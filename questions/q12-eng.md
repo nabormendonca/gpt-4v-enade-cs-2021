@@ -123,4 +123,4 @@ These difficulties are partly inherent to current LLMs' limitations, which can i
 In the specific case, the AI adjusted its response after acknowledging the error, which indicates that with the correct reflection and feedback, even interpretation limitations can be overcome. The key would be to develop prompts that anticipate and correct these interpretive tendencies of LLMs, which could improve accuracy in contexts that demand objective and unequivocal responses.
 
 
-\[ [Previous question](q11-eng.md) \] \[ [Next question](q13-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q11-eng.md) \] \[ [Next question](q13-eng.md) \] \[ [Main menu](/README.md) \]  \[ [Portuguese version](q12-por.md) \] 

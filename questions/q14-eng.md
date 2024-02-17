@@ -160,4 +160,4 @@ As for whether these difficulties could be mitigated or eliminated through promp
 In conclusion, some of the AI's difficulties could potentially be addressed through more sophisticated prompt engineering, but others are indicative of the intrinsic limitations of LLMs in their current state, particularly regarding deep, technical understanding and the integration of complex information that's not explicitly stated in the text.
 
 
-\[ [Previous question](q13-eng.md) \] \[ [Next question](q15-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q13-eng.md) \] \[ [Next question](q15-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q14-por.md) \] 

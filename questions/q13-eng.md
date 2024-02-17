@@ -186,4 +186,4 @@ This challenge is not only for AI but also for question design and assessments i
 Prompt engineering might help AI to ask for clarifications or to consider a broader range of interpretations, but the limitations of current LLMs mean there is still no reliable way for AI to resolve ambiguities without a clear consensus or well-defined criteria. This underscores the importance of continuing to develop LLM capacities for navigating the complexities and nuances of human communication and information interpretation.
 
 
-\[ [Previous question](q12-eng.md) \] \[ [Next question](q14-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q12-eng.md) \] \[ [Next question](q14-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q13-por.md) \] 

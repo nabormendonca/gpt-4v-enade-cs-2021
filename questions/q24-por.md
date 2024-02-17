@@ -42,4 +42,4 @@ Portanto, a alternativa correta é **E, I, II e IV**.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q23-por.md) \] \[ [Próxima questão](q25-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q23-por.md) \] \[ [Próxima questão](q25-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q24-eng.md) \] 

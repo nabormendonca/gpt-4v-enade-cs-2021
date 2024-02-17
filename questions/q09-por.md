@@ -109,4 +109,4 @@ Essas dificuldades sugerem que, apesar da capacidade da IA de analisar e racioci
 
 No entanto, a dificuldade em ajustar a resposta após o feedback do gabarito e dos especialistas reflete uma limitação inerente dos LLMs atuais: a dificuldade em reavaliar as informações e conclusões com base em novos dados. Essa limitação requer desenvolvimento de melhores estratégias para que os LLMs incorporem feedback e ajustem suas respostas de forma mais eficaz. Isso indica uma necessidade de avanço contínuo nos modelos de IA para melhorar sua capacidade de adaptação e reavaliação em contextos dinâmicos e complexos como a interpretação de questões de exame.
 
-\[ [Questão anterior](q05-por.md) \] \[ [Próxima questão](q10-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q05-por.md) \] \[ [Próxima questão](q10-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q09-eng.md) \] 

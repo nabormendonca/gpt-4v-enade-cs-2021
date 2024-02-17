@@ -150,4 +150,4 @@ b) Correct answer (ChatGPT-4 Vision correctly informed the algorithm complexity 
 Total scores: 0.0 + 5.0 = 5.0/10.0
 
 
-\[ [Previous question](q04-eng.md) \] \[ [Next question](q09-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q04-eng.md) \] \[ [Next question](q09-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q05-por.md) \] 

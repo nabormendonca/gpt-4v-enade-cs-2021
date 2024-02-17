@@ -133,4 +133,4 @@ However, the difficulty in adjusting the response after the feedback from the an
 \[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \] \[ [Main menu](/README.md) \]
 <img src="q09-image.png" alt="Question 09 image file" width="60%" height="60%">
 Click [here](q09-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
-Click [here](q09-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese.
+Click [here](q09-por.md) to view ChaGPT-4 Vision's prompts and responses to this question in Portuguese. \[ [Portuguese version](q09-por.md) \] 

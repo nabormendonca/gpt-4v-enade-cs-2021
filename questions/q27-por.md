@@ -69,4 +69,4 @@ Portanto, a alternativa correta é a **D, 95,44% de chance que sua capacidade es
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q26-por.md) \] \[ [Próxima questão](q28-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q26-por.md) \] \[ [Próxima questão](q28-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q27-eng.md) \] 

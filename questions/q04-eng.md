@@ -81,4 +81,4 @@ Total scores: 5.0/10.0
 
 
 
-\[ [Previous question](q03-eng.md) \] \[ [Next question](q05-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q03-eng.md) \] \[ [Next question](q05-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q04-por.md) \] 

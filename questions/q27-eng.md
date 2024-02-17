@@ -92,4 +92,4 @@ Therefore, the correct alternative is **D, a 95.44% chance that your capacity is
 The ChatGPT response is consistent with the answer key.
 
 
-\[ [Previous question](q26-eng.md) \] \[ [Next question](q28-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q26-eng.md) \] \[ [Next question](q28-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q27-por.md) \] 

@@ -112,4 +112,4 @@ Given the analysis, the correct alternative is: **A) I, only.**
 The ChatGPT's response is consistent with the answer key.
 
 
-\[ [Previous question](q19-eng.md) \] \[ [Next question](q21-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q19-eng.md) \] \[ [Next question](q21-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q20-por.md) \] 

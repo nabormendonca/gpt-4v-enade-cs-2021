@@ -201,4 +201,4 @@ A IA gerativa, ao tentar responder a questão sobre a máquina de Turing, enfren
 
 Essas dificuldades refletem limitações dos LLMs atuais em interpretar corretamente diagramas complexos e realizar análises lógicas baseadas em representações visuais. A engenharia de prompt poderia potencialmente ajudar a IA a esclarecer ambiguidades e a entender melhor as instruções visuais, mas não resolveria completamente o problema de compreensão incorreta de um diagrama, o qual é uma representação visual que os LLMs não são capazes de processar diretamente. Isso sugere que os LLMs precisam de avanços significativos para melhorar a interpretação de representações visuais e a aplicação de raciocínio lógico em problemas técnicos complexos.
 
-\[ [Questão anterior](q30-por.md) \] \[ [Próxima questão](q32-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q30-por.md) \] \[ [Próxima questão](q32-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q31-eng.md) \] 

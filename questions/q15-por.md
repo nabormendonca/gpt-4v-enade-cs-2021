@@ -40,4 +40,4 @@ Considerando as avaliações acima, a alternativa correta é **C) I e II, apenas
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q14-por.md) \] \[ [Próxima questão](q16-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q14-por.md) \] \[ [Próxima questão](q16-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q15-eng.md) \] 

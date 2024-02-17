@@ -80,4 +80,4 @@ Answer: D) II and IV.
 The response from ChatGPT is consistent with the answer key.
 
 
-\[ [Previous question](q10-eng.md) \] \[ [Next question](q12-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q10-eng.md) \] \[ [Next question](q12-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q11-por.md) \] 

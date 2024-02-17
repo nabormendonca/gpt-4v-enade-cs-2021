@@ -251,4 +251,4 @@ The difficulties faced by the generative AI when answering the question about Di
 These difficulties could be partially mitigated by prompt engineering techniques, such as clarifying the interpretation of graphic elements or reinforcing the need to double-check responses with the visual information provided. However, accuracy in interpreting graphs and solving problems based on graphics are challenges inherent to the current LLMs. While prompt engineering can help guide the AI towards a more accurate interpretation, the fundamental limitations of LLMs in understanding and processing complex visual information still require advancements in integrating visual capabilities with natural language processing.
 
 
-\[ [Previous question](q33-eng.md) \] \[ [Next question](q35-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q33-eng.md) \] \[ [Next question](q35-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q34-por.md) \] 

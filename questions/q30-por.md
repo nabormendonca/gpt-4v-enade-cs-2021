@@ -38,4 +38,4 @@ A resposta correta é **E) I, III e IV**.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q29-por.md) \] \[ [Próxima questão](q31-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q29-por.md) \] \[ [Próxima questão](q31-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q30-eng.md) \] 

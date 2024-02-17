@@ -38,4 +38,4 @@ Resposta: B) Deque, lista simplesmente ligada, pilha e fila.
 
 A resposta do ChatGPT é consistente com o gabarito.
 
-\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q10-eng.md) \] 

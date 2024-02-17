@@ -111,4 +111,4 @@ No entanto, algumas dificuldades são inerentes às limitações dos LLMs atuais
 
 
 
-\[ [Questão anterior](q25-por.md) \] \[ [Próxima questão](q27-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q25-por.md) \] \[ [Próxima questão](q27-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q26-eng.md) \] 

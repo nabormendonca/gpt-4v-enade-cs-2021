@@ -65,4 +65,4 @@ Answer: B) Deque, singly linked list, stack, and queue.
 The response from ChatGPT is consistent with the answer key.
 
 
-\[ [Previous question](q09-eng.md) \] \[ [Next question](q11-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q09-eng.md) \] \[ [Next question](q11-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q10-por.md) \] 

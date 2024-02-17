@@ -208,4 +208,4 @@ The lack of consensus among human experts on a technical question underscores se
 For AI systems, this type of situation underscores the need for advanced text interpretation skills, the ability to consider context and multiple perspectives, and the importance of staying updated with current field practices. While prompt engineering can help guide the AI to better interpretation and to request clarifications when needed, the discrepancy in expert human opinions reflects a complex area that LLMs still struggle to navigate efficiently. This suggests that, in addition to improved prompt engineering, a continuous enhancement of language models' capabilities to assess and synthesize conflicting information is necessary.
 
 
-\[ [Previous question](q17-eng.md) \] \[ [Next question](q19-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q17-eng.md) \] \[ [Next question](q19-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q18-por.md) \] 

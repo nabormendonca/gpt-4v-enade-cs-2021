@@ -192,4 +192,4 @@ Portanto, as dificuldades enfrentadas pela IA refletem limitações dos LLMs atu
 
 Essas questões destacam a necessidade de avanços contínuos nos modelos de IA para melhorar a compreensão contextual e a habilidade de lidar com ambiguidades e feedback variado.
 
-\[ [Questão anterior](q24-por.md) \] \[ [Próxima questão](q26-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q24-por.md) \] \[ [Próxima questão](q26-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q25-eng.md) \] 

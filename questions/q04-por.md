@@ -65,4 +65,4 @@ A tabela verdade produzida pelo ChatGPT-4 Vision está correta de acordo com o p
 
 Total de pontos: 5,0/10,0
 
-\[ [Questão anterior](q03-por.md) \] \[ [Próxima questão](q05-por.md) \] \[ [Menu inicial](/README.md) \]
+\[ [Questão anterior](q03-por.md) \] \[ [Próxima questão](q05-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q04-eng.md) \] 

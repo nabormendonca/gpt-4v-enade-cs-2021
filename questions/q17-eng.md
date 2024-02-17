@@ -80,4 +80,4 @@ Therefore, the correct answer is **C. Assertion I is a true proposition, and II 
 The ChatGPT response is consistent with the answer key.
 
 
-\[ [Previous question](q16-eng.md) \] \[ [Next question](q18-eng.md) \] \[ [Main menu](/README.md) \]
+\[ [Previous question](q16-eng.md) \] \[ [Next question](q18-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q17-por.md) \] 
