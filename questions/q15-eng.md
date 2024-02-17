@@ -1,6 +1,6 @@
 ## Question 15 ##
 
-(Click [here](q15-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q15-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 The emergence of agile methodologies eliminated management based on plans, replacing it with incremental planning. Project documentation has been minimized and no longer calls for a project manager. Unfortunately, this type of approach does not meet the needs of organizations, where business managers need to follow the progress of projects, control the budget, establish priorities and update their business plans. In this context, SCRUM was developed, a framework for the organization of agile projects. SCRUM foresees two individuals: the Scrum Master and the Product Owner, who are responsible for acting as the interface between the development team and the organization.
 

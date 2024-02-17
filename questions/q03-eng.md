@@ -1,6 +1,6 @@
 ## Question 03 ##
 
-(Click [here](q03-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q03-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 A body of knowledge represented in propositional logic uses logical connectives of implication (→) which represents the conditional, conjunction (∧) which represents the logical AND, the disjunction (∨) which represents the logical OR and the negation (¬) which represents the logical operator NOT. Let **P** be the following set of formulas of propositional logic:
 

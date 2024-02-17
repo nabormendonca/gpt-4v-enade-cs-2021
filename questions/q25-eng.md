@@ -1,6 +1,6 @@
 ## Question 25 ##
 
-(Click [here](q25-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q25-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 Cloud computing can be defined as the communication infrastructure represented by several web servers, responsible for storing data and applications, where each part of this infrastructure is provided as a service and these are usually allocated in data centers, making use of shared hardware for computation and storage. According to the National Institute of Standards and Technology (NIST), a cloud computing model must present 5 essential characteristics, 3 service models, and 4 deployment models. The essential characteristics are: self-service on demand, broad network access, resource pooling, rapid elasticity, and measured service. Service models are Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) and the deployment models are: Private Cloud, Community Cloud, and Hybrid Cloud.
 
@@ -58,13 +58,13 @@ Therefore, the correct alternative is **E, II, III, and IV**.
 
 ---
 
-**Answer Key**: B
+**Answer key**: B
 
 ---
 
 **Prompt**: Your answer differs from the answer key released for this question: [answer key]
 
-After analyzing the answer key, do you maintain or change your answer? If you decide to change your answer, explain the possible reasons that led to the mistake. Try to identify the concrete causes of your error, instead of listing generic reasons such as a misunderstanding of the question's statement.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -191,9 +191,9 @@ I'm sad that such a poorly formulated question was used to evaluate computer sci
 
 ChatGPT's response is inconsistent with the answer key, and the experts did not reach a consensus on what the correct answer would be nor whether the question should be annulled.
 
-## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attached files contain an image of a question, the prompts and responses of a generative AI used to answer that question, and comments from two or more human experts on the AI's generative responses and the overall quality of the question in general. Based on the information present in these files, summarize the main difficulties faced by the generative AI in attempting to answer the question, including any difficulties arising from incorrect recognition of any graphical or textual element present in the question's statement. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. In the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the limitations of current large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

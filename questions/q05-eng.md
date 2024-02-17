@@ -1,6 +1,6 @@
 ## Question 05 ##
 
-(Click [here](q05-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q05-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 A binary heap is an array that can be visualized as a binary tree, where each tree node corresponds to an array element, as can be observed in the figure below.
 

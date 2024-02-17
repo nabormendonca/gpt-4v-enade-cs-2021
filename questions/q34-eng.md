@@ -1,6 +1,6 @@
 ## Question 34 ##
 
-(Click [here](q34-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q34-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 Dijkstra's algorithm for the shortest path problem in weighted digraphs uses a priority queue of vertices, where the priorities are an estimate of the final cost. At each iteration, a vertex is removed from the queue, and the arcs that start at that vertex are analyzed. Consider the following graph, in which the desire is to know the cost of the shortest path for each vertex, starting from vertex D. Assume that -1 represents an "infinite" cost, that is, no path to the vertex has been found up to that moment.
 
@@ -95,7 +95,7 @@ Looking again at the alternatives, **none** of them exactly match the values we 
 
 **Prompt**: Your answer differs from the answer key released for this question: [answer key]
 
-After analyzing the answer key, do you maintain or change your answer? If you decide to change your answer, explain the possible reasons that led you to the mistake. Try to identify the concrete causes of your mistake, instead of listing generic reasons such as a misunderstanding of the question's statement.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -220,16 +220,15 @@ Looking at the options, the alternative that corresponds to these estimates is:
 **C) A: 5 B: 9 C: -1 D: 0 E: 4 F: 1 G: 2**
 
 Thank you for pointing out the error. I apologize for the previous confusion and appreciate your patience.
-
 ---
 
 **Verdict**
 
-ChatGPT retracted its response and agreed with the answer key.
+ChatGPT-4 Vision retracted its answer and agreed with the answer key.
 
-## Final analysis of ChatGPT-4 Vision's responses by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attachments contain the image of a question, as well as the prompts and responses of a generative AI used to answer that question. Based on the information present in those attachments, summarize the main difficulties encountered by the generative AI when trying to answer the question, including possible difficulties resulting from the incorrect recognition of any graphic or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the attachments. In the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or whether they would be inherent to the limitations of current large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

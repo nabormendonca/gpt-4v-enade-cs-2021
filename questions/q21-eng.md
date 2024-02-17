@@ -1,6 +1,6 @@
 ## Question 21 ##
 
-(Click [here](q21-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q21-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 In computer network design, the rational choice of a connection device to be used is fundamental for the correct functioning of the network, as well as for its security and efficiency. Devices such as repeaters, hubs, bridges, switches, routers, and gateways are quite common, but they differ from one another in both subtle and not-so-subtle details. Due to the large number of these devices, it is worthwhile to know their main characteristics, understand how they function, and know when and how they are used. The key to understanding these devices is to observe that they operate in different layers, as illustrated in Figure 1. The layer is important because different devices use different fragments of information to decide how to carry out switching. In a typical scenario, a user generates some data to be sent to a remote machine. These data are passed on to the transport layer, which then adds a header (for example, a TCP header) and passes the resulting packet to the network layer below it. This layer adds its own header to form a network layer packet (for example, an IP packet). In Figure 2, we see the IP packet shaded. Then, the packet goes to the data link layer, which adds its own header and checksum (CRC) and delivers the resulting frame to the physical layer for transmission, let's say, over a LAN.
 
@@ -56,13 +56,13 @@ Based on the analysis, the correct options are **A, D, and E**. However, as the 
 
 ---
 
-**Answer Key**: E
+**Answer key**: E
 
 ---
 
-**Prompt**: Your answer diverges from the answer key released for this question: [answer key]
+**Prompt**: Your response differs from the answer key released for this question: [answer key]
 
-After reviewing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to make a mistake. Seek to identify the concrete causes of your error, rather than listing generic reasons such as failure to understand the question's statement.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -83,11 +83,11 @@ In this sense, upon revisiting the analysis, option E is the most appropriate, a
 
 **Verdict**
 
-ChatGPT reversed its response and agreed with the answer key.
+ChatGPT-4 Vision retracted its answer and agreed with the answer key.
 
-## Final analysis of ChatGPT-4 Vision's responses by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attached files contain the image of a question, and the prompts and the responses from a generative AI used to answer that question. Based on the information present in those files, summarize the main challenges faced by the generative AI in attempting to answer the question, including possible challenges arising from the incorrect recognition of any graphic or textual element present in the statement of the question. Consider only concrete challenges whose manifestation can be evidenced by the information present in the files. In the end, discuss whether these challenges could be mitigated or eliminated by using prompt engineering techniques, or if they would be inherent to the limitations of the current Large Language Models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

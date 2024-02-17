@@ -75,7 +75,7 @@ Olhando novamente para as alternativas, **nenhuma** delas corresponde exatamente
 
 ---
 
-**Prompt**: A sua resposta diverge do gabarito divulgado para esta questão: [gabarito]
+**Prompt**: A sua resposta difere do gabarito divulgado para esta questão: [gabarito]
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
@@ -207,11 +207,11 @@ Obrigado por apontar o erro. Peço desculpa pela confusão anterior e agradeço 
 
 **Veredito**
 
-ChatGPT voltou atrás na sua resposta e concordou com o gabarito.
+ChatGPT-4 Vision voltou atrás na sua resposta e concordou com o gabarito.
 
-## Análise final das respostas do ChatGPT-4 Vision pelo ChatGPT-4 Turbo ##
+## Análise do ChatGPT-4 Turbo dos principais desafios que o ChatGPT-4 Vision enfrentou ao responder a questão ##
 
-**Prompt**: Os arquivos em anexo contêm a imagem de uma questão, e os os prompts e as respostas de uma IA gerativa utilizada para responder essa questão. Com base nas informações presentes nesses arquivos, sumarize as principais dificuldades enfrentadas pela IA gerativa ao tentar responder a questão, incluindo possíveis dificuldades decorrentes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação possa ser evidenciada pelas informações presentes nos arquivos. Ao final, discuta se essas dificuldades poderiam ser amenizadas ou eliminadas utilizando técnicas de engenharia de prompt, ou se seriam inerentes às limitações dos grandes modelos de linguagem (LLMs) atuais. 
+**Prompt**: Seguem os prompts e as respostas de uma IA gerativa para a questão em anexo, juntamente com possíveis avaliações de dois ou mais especialistas humanos sobre as respostas da IA generativa e a qualidade geral da questão. Com base nas informações fornecidas, resuma as principais dificuldades enfrentadas pela IA gerativa ao tentar responder à questão, incluindo possíveis dificuldades resultantes do reconhecimento incorreto de algum elemento gráfico ou textual presente no enunciado da questão. Considere apenas dificuldades concretas cuja manifestação pode ser evidenciada pelas informações fornecidas nas respostas da IA gerativa. Ao final, discuta se essas dificuldades poderiam ser mitigadas ou eliminadas por meio de técnicas de engenharia de prompts ou se seriam inerentes às limitações dos atuais grandes modelos de linguagem de grande (LLMs). 
 
 ---
 

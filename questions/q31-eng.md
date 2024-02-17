@@ -1,6 +1,6 @@
 ## Question 31 ##
 
-(Click [here](q31-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q31-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 Similar to a finite automaton but with an unlimited and unrestricted memory, a Turing machine is a much more precise model of a general-purpose computer. A Turing machine can do everything that a real computer can do; however, even it cannot solve certain problems. In a very real sense, these problems are beyond the theoretical limits of computation.
 
@@ -84,9 +84,9 @@ The correct answer is **D) I, III, and IV**.
 
 ---
 
-**Prompt**: Your response differs from the key released for this question: [answer key]
+**Prompt**: Your response differs from the answer key released for this question: [answer key]
 
-After analyzing the key, do you maintain or change your answer? If you decide to change your response, explain the possible reasons that may have led you to the error. Try to identify the specific causes of your mistake, instead of listing generic reasons such as a misunderstanding of the statement of the question.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -217,9 +217,9 @@ According to the experts, the answer key is correct, and ChatGPT's response is i
 
 ---
 
-## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attached files contain the image of a question, the prompts and the responses of a generative AI used to answer that question, and the comments of two or more human experts on the AI generative's responses and the overall quality of the question. Based on the information present in these files, summarize the main difficulties faced by the generative AI when trying to answer the question, including any difficulties arising from incorrect recognition of some graphic or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. At the end, discuss whether these difficulties could be mitigated or eliminated by using prompt engineering techniques, or if they would be inherent to the current limitations of large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

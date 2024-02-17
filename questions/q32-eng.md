@@ -1,6 +1,6 @@
 ## Question 32 ##
 
-(Click [here](q32-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q32-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 There is a large number of implementations for sorting algorithms. One of the factors to be considered, for example, is the maximum and average number of comparisons that are necessary to sort a vector with n elements. It is also said that a sorting algorithm is stable if it preserves the order of elements that are equal. That is, if such elements appear in the sorted sequence in the same order as they are in the initial sequence. Analyze the algorithm below, where A is a vector and "i, j, lo and hi" are indices of the vector:
 

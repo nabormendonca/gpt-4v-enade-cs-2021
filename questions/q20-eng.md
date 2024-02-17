@@ -1,6 +1,6 @@
 ## Question 20 ##
 
-(Click [here](q20-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q20-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 Observe the code below written in the C language.
 
@@ -99,7 +99,7 @@ Given the analysis, the correct alternative is: **A) I, only.**
 
 ---
 
-**Answer Key**: A
+**Answer key**: A
 
 ---
 

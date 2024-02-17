@@ -1,6 +1,6 @@
 ## Question 24 ##
 
-(Click [here](q24-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q24-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 WhatsApp's end-to-end encryption ensures that only you and the person with whom you're communicating can read what is sent. Nobody else will have access to it, not even WhatsApp. Your messages are secured with locks and only you and the recipient have the special keys needed to unlock and read your messages. And for even greater protection, each message you send comes with its own unique lock and key.
 
@@ -60,7 +60,7 @@ Therefore, the correct alternative is **E, I, II and IV**.
 
 ---
 
-**Answer Key**: E
+**Answer key**: E
 
 ---
 

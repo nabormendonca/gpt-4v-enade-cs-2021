@@ -1,6 +1,6 @@
 ## Question 16 ##
 
-(Click [here](q16-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q16-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 In 1938, American mathematician Claude Shannon noticed the parallelism between propositional logic and the logic of circuits and realized that Boolean algebra played an important role in the systematization of this branch of electronics. Each of the basic connectives of logic are instances of the basic operations of Boolean algebra ("+", ".", and "'"). Boolean expressions combining operations and variables can be used to represent combinational circuits formed by logical gates.
 
@@ -66,7 +66,7 @@ The expression we have determined is **option B**, which is: (X3 . (X2') + (X1')
 
 ---
 
-**Answer Key**: B
+**Answer key**: B
 
 ---
 

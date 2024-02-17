@@ -1,6 +1,6 @@
 ## Question 14 ##
 
-(Click [here](q14-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q14-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 The first computer created was the ENIAC (Electronic Numerical Integrator And Computer), developed by Eckert and Mauchly at the University of Pennsylvania, United States. The project began in 1943, funded by the American government. The period was World War II and the goal was to calculate more agilely the best trajectories for transporting weapons and supplies amidst enemy armies. This is the type of calculation that small cellular devices do today to find routes in cities through GPS (Global Positioning System) and map analysis. The project was only completed in 1946, too late to be used for the Second World War, but it was widely used until 1955.
 
@@ -65,13 +65,13 @@ Assertion I is definitely true based on the text. Assertion II lacks sufficient 
 
 ---
 
-**Answer Key**: C
+**Answer key**: C
 
 ---
 
-**Prompt**: Your response diverges from the answer key released for this question: [answer key]
+**Prompt**: Your answer differs from the answer key released for this question: [answer key]
 
-After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to the mistake. Try to identify the concrete causes of your error, rather than listing generic reasons such as a misunderstanding of the question's statement.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -87,7 +87,7 @@ Reasons for the error in the previous response (in case my initial analysis was 
 
 In conclusion, based on the analysis of the text and the assertions provided, alternative **B** is the most appropriate answer.
 
-## Experts Assessment ##
+## Experts assessment ##
 
 **Expert #1**
 
@@ -129,9 +129,9 @@ Regarding the ChatGPT response, I thought it was somewhat on the fence when it s
 
 According to the experts, the answer key is correct and the response from ChatGPT is incorrect.
 
-## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The files attached contain the image of a question, the prompts and the responses of a generative AI used to answer that question, and the comments of two or more human experts about the responses of the generative AI and the general quality of the question. Based on the information present in those files, summarize the main difficulties faced by the generative AI when attempting to answer the question, including possible difficulties arising from the incorrect recognition of any graphic or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. At the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the limitations of current large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

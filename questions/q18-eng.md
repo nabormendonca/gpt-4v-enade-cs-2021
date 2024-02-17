@@ -1,6 +1,6 @@
 ## Question 18 ##
 
-(Click [here](q18-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q18-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 Machine learning techniques employ an inference principle called induction, in which it is possible to obtain generic conclusions from a particular set of examples. These intuitive learning techniques can be divided into two main types: supervised and unsupervised. In supervised learning, a reference for the objective to achieve is provided, that is, a training with the knowledge of the environment. Differently, in unsupervised learning, no references are used, that is, there is no training with the knowledge of the environment.
 
@@ -65,13 +65,13 @@ The correct alternative is: **D) I, III, and IV.**
 
 ---
 
-**Answer Key**: E
+**Answer key**: E
 
 ---
 
-**Prompt**: Your response diverges from the answer key released for this question: [answer key]
+**Prompt**: Your response differs from the answer key released for this question: [answer key]
 
-After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to error. Try to identify the concrete causes of your mistake, instead of listing generic reasons like misunderstanding the question's statement.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -104,7 +104,7 @@ Therefore, the correct alternative is still **D) I, III, and IV.**
 
 I recognize the discrepancy between my response and the official answer key. The cause of the error might have been a strict interpretation of statement II. In technical contexts, the term "error" is commonly associated with the difference between desired and generated outputs in supervised learning, which may have led to the earlier conclusion. However, the answer key considers statement II correct, indicating a broader interpretation of the term "error" in the context of unsupervised learning. I appreciate the feedback and apologize for any confusion.
 
-## Experts Assessment ##
+## Experts assessment ##
 
 **Expert #1**
 
@@ -163,9 +163,9 @@ I emphasize that ChatGPT correctly identified the correct and incorrect items of
 
 The response from ChatGPT is inconsistent with the answer key and the experts did not reach a consensus on what would be the correct answer or whether the question should be canceled.
 
-## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attached files contain the image of a question, the prompts, and the answers from a generative AI used to answer the question, and comments from two or more human experts about the AI's answers and the general quality of the question. Based on the information in these files, summarize the main difficulties faced by the generative AI when trying to answer the question, including any possible difficulties arising from the incorrect recognition of any graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. In the end, discuss whether these difficulties could be alleviated or eliminated using prompt engineering techniques, or whether they are inherent limitations of current large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

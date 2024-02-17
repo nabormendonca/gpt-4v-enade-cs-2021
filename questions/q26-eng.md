@@ -1,6 +1,6 @@
 ## Question 26 ##
 
-(Click [here](q26-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q26-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 Adaptive interfaces perform adaptations and personalizations automatically and dynamically during the navigation process, based on the user's navigation learning and interaction. Adaptive interface techniques can be used to adapt interfaces to the user's preferences, their cognitive capacity and their navigation style, making interactions more natural and attractive. These adaptation techniques can be employed both for the reorganization of objects in the environment, as well as to change the way information is presented. Adaptations can occur at different levels or in different forms: content adaptation, navigation adaptation and content's presentation adaptation. Each of these levels of adaptation has its own methods and techniques of adaptation.
 
@@ -60,7 +60,7 @@ Therefore, the correct alternative is **E, I, II and III**.
 
 **Prompt**: Your answer diverges from the answer key released for this question: [answer key]
 
-After analyzing the answer key, do you maintain or change your answer? If you decide to change your answer, explain the possible reasons that led you to the error. Try to identify the concrete causes of your mistake, instead of listing generic reasons such as misunderstanding the question statement.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -109,11 +109,11 @@ I erred by not identifying the inappropriate association of links with presentat
 
 **Verdict**
 
-ChatGPT retracted its answer and agreed with the answer key.
+ChatGPT-4 Vision retracted its answer and agreed with the answer key.
 
-## Final analysis of ChatGPT-4 Vision's responses by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attached files contain an image of a question, and the prompts and the responses of a generative AI used to answer that question. Based on the information in these files, summarize the main difficulties faced by the generative AI in trying to answer the question, including possible difficulties resulting from the incorrect recognition of any graphic or textual element in the question statement. Only consider concrete difficulties that can be evidenced by the information in the files. In the end, discuss if these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the limitations of current large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

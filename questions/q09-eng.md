@@ -1,6 +1,6 @@
 ## Question 09 ##
 
-(Click [here](q09-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q09-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 When a computer is multi-programmed, it typically has multiple processes or threads competing for the CPU at the same time. This situation occurs whenever two or more processes are simultaneously in the ready state. If only one CPU is available, a choice must be made regarding which process to execute next. The part of the operating system that makes that choice is called the **scheduler**, and the algorithm it uses is the **scheduling algorithm**.
 
@@ -49,13 +49,13 @@ Answer: C) Shortest job first; suitable for interactive systems.
 
 ---
 
-**Answer Key**: E
+**Answer key**: E
 
 ---
 
-**Prompt**: Your answer differs from the official answer key for this question: [answer key]
+**Prompt**: Your answer differs from the answer key released for this question: [answer key]
 
-After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to error. Try to identify the concrete causes of your mistake, instead of listing generic reasons like misunderstanding the question's statement.
+AAfter analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -79,7 +79,7 @@ Analysis of the possible causes of discrepancy with the answer key:
 
 In summary, while answer C is valid based on my analysis and knowledge, I recognize that different interpretations and considerations might lead to a different answer.
 
-## Experts Assessment ##
+## Experts assessment ##
 
 **Expert #1**
 
@@ -105,9 +105,9 @@ It is implicit that it assumes that the priority scheme "shortest job first" is 
 
 According to the experts, the answer key is correct and the response of the AI is incorrect.
 
-## Final analysis of ChatGPT-4 Vision's responses and the experts' comments by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attached files contain the image of a question, the prompts and the responses of a generative AI used to answer that question, and the comments of two or more human experts on the responses of the generative AI and the general quality of the question. Based on the information in these files, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties arising from incorrect recognition of any graphic or textual element present in the problem statement. Consider only concrete difficulties whose manifestation can be evidenced by the information in the files. At the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the current limitations of large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

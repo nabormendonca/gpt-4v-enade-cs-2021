@@ -1,6 +1,6 @@
 ## Question 33 ##
 
-(Click [here](q33-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q33-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 The PROLOG language belongs to the logic programming paradigm, in which propositional and algorithmic logic can be expressed in the form of fact descriptors and rules for producing responses. In the context of a family's genealogical tree, analyze the following base of facts described in Prolog language.
 
@@ -76,7 +76,7 @@ None of the alternatives checks all the necessary conditions to determine if two
 
 ---
 
-**Answer Key**: CANCELED
+**Answer key**: CANCELED
 
 ---
 

@@ -1,6 +1,6 @@
 ## Question 30 ##
 
-(Click [here](q30-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q30-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 A compiler is software that translates a program described in a high-level language into an equivalent program in machine code for a processor. Generally, a compiler does not directly produce the machine code, but rather, a program in symbolic language (assembly) semantically equivalent to the program in high-level language. The program in symbolic language is then translated into the machine program through assemblers. To carry out this task, the compiler executes lexical, syntactic, and semantic analysis of the source code of the program that is being executed in abstract language to later generate machine code.
 

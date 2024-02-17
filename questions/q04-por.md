@@ -2,7 +2,7 @@
 
 <img src="q04-image.png" alt="Question 04 image file" width="75%" height="75%">
 
-**Prompt**: Responda a(s) questão(ões) nesta imagem explicando passo a passo o raciocínio utilizado para respondê-la(s). Informe caso alguma questão não esteja clara ou não tenha resposta possível.
+**Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Informe caso a questão não esteja clara ou não tenha resposta possível.
 
 ---
 

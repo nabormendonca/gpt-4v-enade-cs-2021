@@ -1,6 +1,6 @@
 ## Question 11 ##
 
-(Click [here](q11-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q11-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 A team of computer scientists from a certain animation company has been tasked with developing a system capable of scanning the web to detect sites that might be using the company's animation character images without proper consent. Therefore, the system should receive images as input, classify them between company images and images not produced by the company.
 
@@ -67,7 +67,7 @@ Answer: D) II and IV.
 
 ---
 
-**Answer Key**: D
+**Answer key**: D
 
 ---
 

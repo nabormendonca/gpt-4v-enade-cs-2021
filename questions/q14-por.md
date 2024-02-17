@@ -41,7 +41,7 @@ A asserção I é definitivamente verdadeira com base no texto. A asserção II 
 
 ---
 
-**Prompt**: A sua resposta diverge do gabarito divulgado para esta questão: [gabarito]
+**Prompt**: A sua resposta difere do gabarito divulgado para esta questão: [gabarito]
 
 Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alterar sua resposta, explique as possíveis razões que o induziram ao erro. Procure identificar as causas concretas do seu erro, ao invés de listar razões genéricas como falha de compreensão do enunciado da questão.
 
@@ -99,7 +99,7 @@ Com relação à resposta do ChatGPT, eu achei que ele ficou meio que em cima do
 
 **Veredito**
 
-De acordo com os especialistas, o gabarito está correto e a resposta do ChatGPT está incorreta.
+De acordo com os especialistas, o gabarito está correto e a resposta do ChatGPT-4 Vision está incorreta.
 
 ## Análise final das respostas do ChatGPT-4 Vision e dos comentários dos especialistas pelo ChatGPT-4 Turbo ##
 

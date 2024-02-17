@@ -1,6 +1,6 @@
 ## Question 22 ##
 
-(Click [here](q22-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q22-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 An Non-Governmental Organization (NGO), related to the animal cause, registers the pets (companion animals) supported by it, according to the following Entity-Relationship Diagram (ERD).
 
@@ -83,7 +83,7 @@ The most suitable alternative that correctly translates the ERD into the relatio
 
 ---
 
-**Answer Key**: A
+**Answer key**: A
 
 ---
 

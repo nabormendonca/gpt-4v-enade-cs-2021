@@ -1,6 +1,6 @@
 ## Question 12 ##
 
-(Click [here](q12-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q12-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 Brazil's General Data Protection Law (LGPD) has been in effect since the end of 2018 and aims to regulate the processing of personal data from clients and users of public and private companies.
 
@@ -54,13 +54,13 @@ Response: D) I, III, and IV.
 
 ---
 
-**Answer Key**: B
+**Answer key**: B
 
 ---
 
 **Prompt**: Your answer differs from the answer key released for this question: [answer key]
 
-After analyzing the answer key, do you maintain or change your original response? If you decide to change your response, explain the possible reasons that led you to the mistake. Try to identify the concrete causes of your error, instead of listing generic reasons such as a misunderstanding of the question's statement.
+After analyzing the answer key, do you maintain or change your response? If you decide to change your response, explain the possible reasons that led you to errors in the previous answer. Try to identify the concrete causes of the errors instead of listing generic reasons, such as a failure to understand the question statement.
 
 ---
 
@@ -96,11 +96,11 @@ I agree. In objective tests, a statement is typically expected to be completely 
 
 **Verdict**
 
-ChatGPT retracted its answer and agreed with the answer key.
+ChatGPT-4 Vision retracted its answer and agreed with the answer key.
 
-## Final analysis of ChatGPT-4 Vision's responses by ChatGPT-4 Turbo ##
+## ChatGPT-4 Turbo's analysis of ChatGPT-4 Vision's main challenges in answering the question ##
 
-**Prompt**: The attached files contain the image of a question, and the prompts and responses of a generative AI used to answer that question. Based on the information present in these files, summarize the main difficulties faced by the generative AI when attempting to answer the question, including possible difficulties resulting from incorrect recognition of any graphic or textual element present in the question statement. Consider only concrete difficulties whose manifestation can be evidenced by the information present in the files. In the end, discuss whether these difficulties could be mitigated or eliminated using prompt engineering techniques, or if they would be inherent to the limitations of the current large language models (LLMs).
+**Prompt**: The following are the prompts and responses of a generative AI for the attached question, along with possible assessments by two or more human experts on the generative AI's responses and the general quality of the question. Based on the provided information, summarize the main difficulties faced by the generative AI in attempting to answer the question, including possible difficulties resulting from incorrect recognition of some graphical or textual element present in the statement of the question. Consider only concrete difficulties whose manifestation can be evidenced by the information provided in generative AI's responses. At the end, discuss if these difficulties could be mitigated or eliminated by using prompt engineering techniques or if they would be inherent to the limitations of current large language models (LLMs).
 
 ---
 

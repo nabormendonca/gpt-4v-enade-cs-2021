@@ -1,6 +1,6 @@
 ## Question 23 ##
 
-(Click [here](q23-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q23-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 The use of the data structure known as the Binary Search Tree is a fundamental programming technique. A binary tree is a finite set of elements that is either empty or partitioned into three subsets, namely: 1) the root of the tree - the initial element (unique), 2) the left subtree - if viewed in isolation, it forms another tree, and 3) the right subtree - if viewed in isolation, it also forms another tree. The tree may not have any elements (empty tree). The definition of a tree is recursive, and because of this, many operations on binary trees use recursion. Being "A" the root of a binary tree and "B" the root of its left or right subtree, it is said that "A" is the parent of "B" and "B" is the child of "A". An element without children is called a leaf. The height of the tree is the number of elements found on the longest descending path that connects its root to a leaf.
 
@@ -73,7 +73,7 @@ Therefore, the correct option is **C**.
 
 ---
 
-**Answer Key**: C
+**Answer key**: C
 
 ---
 

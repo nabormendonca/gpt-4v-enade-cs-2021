@@ -1,6 +1,6 @@
 ## Question 35 ##
 
-(Click [here](q35-image.png) to view the question in its original image format in Portuguese)
+(Click [here](q35-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
 
 A distributed system is one in which hardware or software components, located on networked computers, communicate and coordinate their actions only by sending messages to each other.
 
