@@ -36,7 +36,7 @@ Após analisar o gabarito, você mantém ou altera sua resposta? Se decidir alte
 
 ---
 
-**Prompt para análise pelo ChatGPT-4 Turbo (para questões discursivas e de múltipla escolha com repostas iniciais discordantes)**:
+**Prompt para análise pelo ChatGPT-4 Turbo (para questões discursivas ou de múltipla escolha com repostas iniciais discordantes)**:
 
 \[imagem da questão\]
 
