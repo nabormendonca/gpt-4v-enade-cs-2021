@@ -1,3 +1,5 @@
+\[ [Questão anterior](q27-por.md) \] \[ [Próxima questão](q29-por.md) \]
+
 ## Questão 28 ##
 
 <img src="q28-image.png" alt="Question 28 image file" width="75%" height="75%">
@@ -41,3 +43,5 @@ A opção correta é a alternativa **B) I e IV**, pois ambas as afirmações I e
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q27-por.md) \] \[ [Próxima questão](q29-por.md) \]

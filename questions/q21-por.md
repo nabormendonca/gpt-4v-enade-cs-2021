@@ -1,3 +1,5 @@
+\[ [Questão anterior](q20-por.md) \] \[ [Próxima questão](q22-por.md) \]
+
 ## Questão 21 ##
 
 <img src="q21-image.png" alt="Question 21 image file" width="75%" height="75%">
@@ -83,3 +85,5 @@ A IA, ao perceber o erro, adaptou sua resposta para alinhar-se ao gabarito ofici
 
 Essas dificuldades podem ser parcialmente amenizadas com engenharia de prompts, onde os prompts podem ser estruturados para enfatizar o contexto e a natureza da tarefa (por exemplo, responder dentro do contexto de um exame, onde a alternativa "mais correta" é a desejada, mesmo que outras alternativas contenham alguma verdade). No entanto, algumas limitações são inerentes aos LLMs atuais, como a dificuldade em aplicar flexibilidade na interpretação quando a precisão técnica é desafiada por nuances de linguagem em contextos de exame. As estratégias de engenharia de prompts podem melhorar a performance, mas os LLMs ainda precisam de avanços para lidar melhor com a ambiguidade e a interpretação contextual, especialmente em cenários de múltipla escolha onde as nuances são críticas.
 
+
+\[ [Questão anterior](q20-por.md) \] \[ [Próxima questão](q22-por.md) \]

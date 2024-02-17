@@ -1,3 +1,5 @@
+\[ [Questão anterior](q34-por.md) \] 
+
 ## Questão 35 ##
 
 <img src="q35-image.png" alt="Question 35 image file" width="75%" height="75%">
@@ -36,3 +38,5 @@ Dado o raciocínio acima, a única opção que é totalmente correta é a **D) A
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q34-por.md) \] 

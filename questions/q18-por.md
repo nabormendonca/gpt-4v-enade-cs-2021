@@ -1,3 +1,5 @@
+\[ [Questão anterior](q17-por.md) \] \[ [Próxima questão](q19-por.md) \]
+
 ## Questão 18 ##
 
 <img src="q18-image.png" alt="Question 18 image file" width="75%" height="75%">
@@ -174,3 +176,5 @@ A falta de consenso entre especialistas humanos em relação a uma questão téc
 5. **Desafios na Educação e Avaliação**: Este cenário destaca as dificuldades inerentes ao ensino e avaliação em campos tecnicamente avançados e rapidamente evolutivos. Formular questões claras e inequívocas é um desafio contínuo.
 
 Para sistemas de IA, esse tipo de situação ressalta a necessidade de habilidades avançadas de interpretação de texto, capacidade de considerar contexto e perspectivas múltiplas, e a importância de atualização contínua com as práticas atuais do campo. Enquanto a engenharia de prompt pode ajudar a guiar a IA para melhor interpretação e para pedir esclarecimentos quando necessário, a discrepância entre opiniões de especialistas humanos reflete uma área complexa que os LLMs ainda lutam para navegar eficientemente. Isso sugere que, além da melhoria na engenharia de prompt, é necessário um aprimoramento contínuo na capacidade dos modelos de linguagem de avaliar e sintetizar informações conflitantes.
+
+\[ [Questão anterior](q17-por.md) \] \[ [Próxima questão](q19-por.md) \]

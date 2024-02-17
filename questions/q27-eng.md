@@ -1,3 +1,5 @@
+\[ [Previous question](q26-eng.md) \] \[ [Next question](q28-eng.md) \]
+
 ## Question 27 ##
 
 (Click [here](q27-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -86,3 +88,6 @@ Therefore, the correct alternative is **D, a 95.44% chance that your capacity is
 **Verdict**
 
 The ChatGPT response is consistent with the answer key.
+
+
+\[ [Previous question](q26-eng.md) \] \[ [Next question](q28-eng.md) \]

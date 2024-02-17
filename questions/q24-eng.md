@@ -1,3 +1,5 @@
+\[ [Previous question](q23-eng.md) \] \[ [Next question](q25-eng.md) \]
+
 ## Question 24 ##
 
 (Click [here](q24-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -67,3 +69,6 @@ Therefore, the correct alternative is **E, I, II and IV**.
 **Verdict**
 
 The ChatGPT's answer is consistent with the answer key.
+
+
+\[ [Previous question](q23-eng.md) \] \[ [Next question](q25-eng.md) \]

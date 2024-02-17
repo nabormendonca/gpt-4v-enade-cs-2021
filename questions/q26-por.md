@@ -1,3 +1,5 @@
+\[ [Questão anterior](q25-por.md) \] \[ [Próxima questão](q27-por.md) \]
+
 ## Questão 26 ##
 
 <img src="q26-image.png" alt="Question 26 image file" width="75%" height="75%">
@@ -108,3 +110,5 @@ Essas dificuldades poderiam ser parcialmente amenizadas com técnicas de engenha
 No entanto, algumas dificuldades são inerentes às limitações dos LLMs atuais, como a capacidade de analisar criticamente as sobreposições entre conceitos técnicos e aplicar essa análise em um contexto de múltipla escolha. A melhoria contínua nos modelos para melhor compreensão do contexto e interpretação precisa das informações é necessária para superar esses desafios.
 
 
+
+\[ [Questão anterior](q25-por.md) \] \[ [Próxima questão](q27-por.md) \]

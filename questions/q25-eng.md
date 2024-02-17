@@ -1,3 +1,5 @@
+\[ [Previous question](q24-eng.md) \] \[ [Next question](q26-eng.md) \]
+
 ## Question 25 ##
 
 (Click [here](q25-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -218,3 +220,6 @@ Therefore, the difficulties faced by the AI reflect limitations of current LLMs,
 - Navigating effectively through poorly formulated questions that require specific and updated knowledge.
 
 These issues highlight the need for continuous advancements in AI models to improve contextual understanding and the ability to deal with ambiguities and varied feedback.
+
+
+\[ [Previous question](q24-eng.md) \] \[ [Next question](q26-eng.md) \]

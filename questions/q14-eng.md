@@ -1,3 +1,5 @@
+\[ [Previous question](q13-eng.md) \] \[ [Next question](q15-eng.md) \]
+
 ## Question 14 ##
 
 (Click [here](q14-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -154,3 +156,6 @@ As for whether these difficulties could be mitigated or eliminated through promp
 - The misinterpretation of the causal relationship implied by "Because" points to a possible linguistic or reasoning limitation, which could be improved with better-designed prompts that guide the AI's reasoning process more effectively.
 
 In conclusion, some of the AI's difficulties could potentially be addressed through more sophisticated prompt engineering, but others are indicative of the intrinsic limitations of LLMs in their current state, particularly regarding deep, technical understanding and the integration of complex information that's not explicitly stated in the text.
+
+
+\[ [Previous question](q13-eng.md) \] \[ [Next question](q15-eng.md) \]

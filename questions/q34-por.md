@@ -1,3 +1,5 @@
+\[ [Questão anterior](q33-por.md) \] \[ [Próxima questão](q35-por.md) \]
+
 ## Questão 34 ##
 
 <img src="q34-image.png" alt="Question 34 image file" width="75%" height="75%">
@@ -228,3 +230,5 @@ As dificuldades enfrentadas pela IA gerativa ao responder a questão do algoritm
 4. **Confirmação com Gabarito**: Mesmo após o ajuste na interpretação dos pesos das arestas, a IA manteve sua resposta até que um gabarito foi fornecido, indicando uma dependência da confirmação externa para validar suas conclusões.
 
 Estas dificuldades poderiam ser parcialmente mitigadas por técnicas de engenharia de prompt, como clarificar a interpretação dos elementos gráficos ou reforçar a necessidade de verificar as respostas com as informações visuais fornecidas. No entanto, a precisão na interpretação de gráficos e a resolução de problemas baseados em gráficos são desafios inerentes aos LLMs atuais. Enquanto a engenharia de prompt pode ajudar a orientar a IA para uma interpretação mais precisa, as limitações fundamentais dos LLMs em entender e processar informações visuais complexas ainda requerem avanços na integração de capacidades visuais e de processamento de linguagem natural.
+
+\[ [Questão anterior](q33-por.md) \] \[ [Próxima questão](q35-por.md) \]

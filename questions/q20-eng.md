@@ -1,3 +1,5 @@
+\[ [Previous question](q19-eng.md) \] \[ [Next question](q21-eng.md) \]
+
 ## Question 20 ##
 
 (Click [here](q20-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -106,3 +108,6 @@ Given the analysis, the correct alternative is: **A) I, only.**
 **Verdict**
 
 The ChatGPT's response is consistent with the answer key.
+
+
+\[ [Previous question](q19-eng.md) \] \[ [Next question](q21-eng.md) \]

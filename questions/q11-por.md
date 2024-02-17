@@ -1,3 +1,5 @@
+\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \]
+
 ## Questão 11 ##
 
 <img src="q11-image.png" alt="Question 11 image file" width="75%" height="75%">
@@ -38,3 +40,5 @@ Resposta: D) II e IV.
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q10-por.md) \] \[ [Próxima questão](q12-por.md) \]

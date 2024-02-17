@@ -1,3 +1,5 @@
+\[ [Questão anterior](q22-por.md) \] \[ [Próxima questão](q24-por.md) \]
+
 ## Questão 23 ##
 
 <img src="q23-image.png" alt="Question 23 image file" width="75%" height="75%">
@@ -58,3 +60,5 @@ Portanto, a alternativa correta é **C**.
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q22-por.md) \] \[ [Próxima questão](q24-por.md) \]

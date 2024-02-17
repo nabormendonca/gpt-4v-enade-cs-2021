@@ -1,3 +1,5 @@
+\[ [Previous question](q16-eng.md) \] \[ [Next question](q18-eng.md) \]
+
 ## Question 17 ##
 
 (Click [here](q17-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -74,3 +76,6 @@ Therefore, the correct answer is **C. Assertion I is a true proposition, and II 
 **Verdict**
 
 The ChatGPT response is consistent with the answer key.
+
+
+\[ [Previous question](q16-eng.md) \] \[ [Next question](q18-eng.md) \]

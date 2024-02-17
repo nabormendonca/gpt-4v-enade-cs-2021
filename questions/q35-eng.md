@@ -1,3 +1,5 @@
+\[ [Previous question](q34-eng.md) \] 
+
 ## Question 35 ##
 
 (Click [here](q35-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -54,3 +56,6 @@ Given the reasoning above, the only option that is completely correct is **D) Th
 **Verdict**
 
 The ChatGPT's response is consistent with the answer key.
+
+
+\[ [Previous question](q34-eng.md) \] 

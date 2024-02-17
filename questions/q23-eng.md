@@ -1,3 +1,5 @@
+\[ [Previous question](q22-eng.md) \] \[ [Next question](q24-eng.md) \]
+
 ## Question 23 ##
 
 (Click [here](q23-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -80,3 +82,6 @@ Therefore, the correct option is **C**.
 **Verdict**
 
 The ChatGPT's answer is consistent with the answer key.
+
+
+\[ [Previous question](q22-eng.md) \] \[ [Next question](q24-eng.md) \]

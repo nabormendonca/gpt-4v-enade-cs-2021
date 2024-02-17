@@ -1,3 +1,5 @@
+\[ [Questão anterior](q13-por.md) \] \[ [Próxima questão](q15-por.md) \]
+
 ## Questão 14 ##
 
 <img src="q14-image.png" alt="Question 14 image file" width="75%" height="75%">
@@ -128,3 +130,5 @@ Quanto a se essas dificuldades poderiam ser atenuadas ou eliminadas através de 
 Em conclusão, algumas das dificuldades da IA poderiam potencialmente ser abordadas através de engenharia de prompt mais sofisticada, mas outras são indicativas das limitações intrínsecas dos LLMs em seu estado atual, particularmente em relação à compreensão técnica profunda e à integração de informações complexas que não estão explicitamente declaradas no texto.
 
 
+
+\[ [Questão anterior](q13-por.md) \] \[ [Próxima questão](q15-por.md) \]

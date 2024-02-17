@@ -1,3 +1,5 @@
+\[ [Previous question](q04-eng.md) \] \[ [Next question](q09-eng.md) \]
+
 ## Question 05 ##
 
 (Click [here](q05-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -144,3 +146,6 @@ a) Incorrect answer (ChatGPT-4 Vision produced an incorrect arrangement accordin
 b) Correct answer (ChatGPT-4 Vision correctly informed the algorithm complexity according to the response standard): 5.0/5.0 scores
 
 Total scores: 0.0 + 5.0 = 5.0/10.0
+
+
+\[ [Previous question](q04-eng.md) \] \[ [Next question](q09-eng.md) \]

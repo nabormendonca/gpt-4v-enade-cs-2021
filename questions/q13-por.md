@@ -1,3 +1,5 @@
+\[ [Questão anterior](q12-por.md) \] \[ [Próxima questão](q14-por.md) \]
+
 ## Questão 13 ##
 
 <img src="q13-image.png" alt="Question 13 image file" width="75%" height="75%">
@@ -162,3 +164,5 @@ A falta de consenso entre especialistas humanos sobre a resposta correta da ques
 Este é um desafio não apenas para uma IA, mas também para o design de questões e avaliações em geral. No contexto de uma IA, esse tipo de ambiguidade e discrepância de opiniões humanas expõe as limitações dos sistemas de IA em lidar com a incerteza e em fazer julgamentos quando não há uma resposta clara ou consenso.
 
 A engenharia de prompt pode ajudar a IA a pedir esclarecimentos ou a considerar uma gama mais ampla de interpretações, mas as limitações dos LLMs atuais significam que ainda não há uma maneira confiável para as IA resolverem ambiguidades sem um consenso claro ou critérios bem definidos. Isso sublinha a importância de continuar a desenvolver a capacidade dos LLMs para navegar em complexidades e nuances humanas na comunicação e na interpretação de informações.
+
+\[ [Questão anterior](q12-por.md) \] \[ [Próxima questão](q14-por.md) \]

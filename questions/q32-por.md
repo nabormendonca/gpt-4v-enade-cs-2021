@@ -1,3 +1,5 @@
+\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \]
+
 ## Questão 32 ##
 
 <img src="q32-image.png" alt="Question 32 image file" width="75%" height="75%">
@@ -39,3 +41,5 @@ A resposta correta é **A) I e III**.
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q31-por.md) \] \[ [Próxima questão](q33-por.md) \]

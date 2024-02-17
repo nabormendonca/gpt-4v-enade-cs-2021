@@ -1,3 +1,5 @@
+\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \]
+
 ## Question 21 ##
 
 (Click [here](q21-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -104,3 +106,6 @@ The main challenges faced by the AI when attempting to answer the question relat
 The AI, upon realizing the error, adjusted its answer to align with the official answer key, choosing option E as the most correct, after recognizing that a detailed technical interpretation was not necessary and that the emphasis should be on the overall understanding of the devices' function in question.
 
 These difficulties could be partially mitigated with prompt engineering, where prompts can be structured to emphasize the context and nature of the task (e.g., answering within the context of an exam where the "most correct" alternative is desired, even if other alternatives contain some truth). However, some limitations are inherent in the current LLMs, such as the difficulty in applying flexibility in interpretation when technical precision is challenged by language nuances in exam contexts. Prompt engineering strategies can improve performance, but LLMs still need advancements to better handle ambiguity and contextual interpretation, especially in multiple-choice scenarios where nuances are critical.
+
+
+\[ [Previous question](q20-eng.md) \] \[ [Next question](q22-eng.md) \]

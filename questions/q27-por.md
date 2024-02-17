@@ -1,3 +1,5 @@
+\[ [Questão anterior](q26-por.md) \] \[ [Próxima questão](q28-por.md) \]
+
 ## Questão 27 ##
 
 <img src="q27-image.png" alt="Question 27 image file" width="75%" height="75%">
@@ -66,3 +68,5 @@ Portanto, a alternativa correta é a **D, 95,44% de chance que sua capacidade es
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q26-por.md) \] \[ [Próxima questão](q28-por.md) \]

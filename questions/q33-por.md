@@ -1,3 +1,5 @@
+\[ [Questão anterior](q32-por.md) \] \[ [Próxima questão](q34-por.md) \]
+
 ## Questão 33 ##
 
 <img src="q33-image.png" alt="Question 33 image file" width="75%" height="75%">
@@ -51,3 +53,5 @@ Nenhuma das alternativas verifica todas as condições necessárias para determi
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q32-por.md) \] \[ [Próxima questão](q34-por.md) \]

@@ -1,3 +1,5 @@
+\[ [Questão anterior](q24-por.md) \] \[ [Próxima questão](q26-por.md) \]
+
 ## Questão 25 ##
 
 <img src="q25-image.png" alt="Question 25 image file" width="75%" height="75%">
@@ -189,3 +191,5 @@ Portanto, as dificuldades enfrentadas pela IA refletem limitações dos LLMs atu
 - Navegar efetivamente por questões mal formuladas que exigem conhecimento específico e atualizado.
 
 Essas questões destacam a necessidade de avanços contínuos nos modelos de IA para melhorar a compreensão contextual e a habilidade de lidar com ambiguidades e feedback variado.
+
+\[ [Questão anterior](q24-por.md) \] \[ [Próxima questão](q26-por.md) \]

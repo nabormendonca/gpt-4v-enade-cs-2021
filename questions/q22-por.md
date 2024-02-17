@@ -1,3 +1,5 @@
+\[ [Questão anterior](q21-por.md) \] \[ [Próxima questão](q23-por.md) \]
+
 ## Questão 22 ##
 
 <img src="q22-image.png" alt="Question 22 image file" width="75%" height="75%">
@@ -53,3 +55,5 @@ A alternativa mais adequada que traduz corretamente o DER para o esquema relacio
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q21-por.md) \] \[ [Próxima questão](q23-por.md) \]

@@ -1,3 +1,5 @@
+\[ [Previous question](q11-eng.md) \] \[ [Next question](q13-eng.md) \]
+
 ## Question 12 ##
 
 (Click [here](q12-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -117,3 +119,6 @@ The AI faced difficulties responding to the question about the General Data Prot
 These difficulties are partly inherent to current LLMs' limitations, which can interpret text flexibly but may fail in contexts that require absolute precision. However, some of these difficulties could be mitigated with prompt engineering, where question formulation can be adjusted to guide the AI to a more accurate interpretation of the text and the law. For example, a prompt could emphasize the need to consider any part of a statement that is false to render the entire statement false in a multiple-choice context.
 
 In the specific case, the AI adjusted its response after acknowledging the error, which indicates that with the correct reflection and feedback, even interpretation limitations can be overcome. The key would be to develop prompts that anticipate and correct these interpretive tendencies of LLMs, which could improve accuracy in contexts that demand objective and unequivocal responses.
+
+
+\[ [Previous question](q11-eng.md) \] \[ [Next question](q13-eng.md) \]

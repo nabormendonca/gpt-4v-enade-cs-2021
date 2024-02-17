@@ -1,3 +1,5 @@
+\[ [Previous question](q29-eng.md) \] \[ [Next question](q31-eng.md) \]
+
 ## Question 30 ##
 
 (Click [here](q30-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -63,3 +65,6 @@ The correct answer is **E) I, III, and IV**.
 **Verdict**
 
 ChatGPT's response is consistent with the answer key.
+
+
+\[ [Previous question](q29-eng.md) \] \[ [Next question](q31-eng.md) \]

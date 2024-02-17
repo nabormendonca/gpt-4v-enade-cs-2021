@@ -1,3 +1,5 @@
+\[ [Next question](q04-eng.md) \]
+
 ## Question 03 ##
 
 (Click [here](q03-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -150,3 +152,6 @@ c) Incorrect answer (ChatGPT-4 Vision incorrectly identified that set P is satis
 d) Correct answer (ChatGPT-4 Vision correctly identified that formula 6 is a logical consequence of set Q): 2.5/2.5 scores
 
 Total scores: 2.5 + 1.25 + 0 + 2.5 = 6.3/10.0
+
+
+\[ [Next question](q04-eng.md) \]

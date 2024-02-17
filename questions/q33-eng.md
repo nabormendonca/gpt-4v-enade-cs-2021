@@ -1,3 +1,5 @@
+\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \]
+
 ## Question 33 ##
 
 (Click [here](q33-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -83,3 +85,6 @@ None of the alternatives checks all the necessary conditions to determine if two
 **Verdict**
 
 The response of the ChatGPT is consistent with the answer key.
+
+
+\[ [Previous question](q32-eng.md) \] \[ [Next question](q34-eng.md) \]

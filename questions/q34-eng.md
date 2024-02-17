@@ -1,3 +1,5 @@
+\[ [Previous question](q33-eng.md) \] \[ [Next question](q35-eng.md) \]
+
 ## Question 34 ##
 
 (Click [here](q34-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -245,3 +247,6 @@ The difficulties faced by the generative AI when answering the question about Di
 4. **Confirmation with Answer Key**: Even after adjusting the interpretation of the edge weights, the AI maintained its response until an answer key was provided, indicating a dependence on external confirmation to validate its conclusions.
 
 These difficulties could be partially mitigated by prompt engineering techniques, such as clarifying the interpretation of graphic elements or reinforcing the need to double-check responses with the visual information provided. However, accuracy in interpreting graphs and solving problems based on graphics are challenges inherent to the current LLMs. While prompt engineering can help guide the AI towards a more accurate interpretation, the fundamental limitations of LLMs in understanding and processing complex visual information still require advancements in integrating visual capabilities with natural language processing.
+
+
+\[ [Previous question](q33-eng.md) \] \[ [Next question](q35-eng.md) \]

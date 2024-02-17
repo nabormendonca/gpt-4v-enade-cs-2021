@@ -1,3 +1,5 @@
+\[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \]
+
 ## Question 09 ##
 
 (Click [here](q09-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -124,3 +126,6 @@ When attempting to answer a question about scheduling algorithms in operating sy
 These difficulties suggest that despite the AI's ability to analyze and reason about the question, it may have relied on incorrect premises or had a limited understanding of the practical application of scheduling algorithms. Prompt engineering could potentially mitigate these difficulties by guiding the AI to consider the broader operational context and the nuances associated with different types of systems.
 
 However, the difficulty in adjusting the response after the feedback from the answer key and experts reflects a limitation inherent in current LLMs: the difficulty in re-evaluating information and conclusions based on new data. This limitation requires the development of better strategies for LLMs to incorporate feedback and adjust their responses more effectively. This indicates the need for continuous advancement in AI models to improve their adaptability and reassessment capabilities in dynamic and complex contexts like exam question interpretation.
+
+
+\[ [Previous question](q05-eng.md) \] \[ [Next question](q10-eng.md) \]

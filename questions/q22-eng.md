@@ -1,3 +1,5 @@
+\[ [Previous question](q21-eng.md) \] \[ [Next question](q23-eng.md) \]
+
 ## Question 22 ##
 
 (Click [here](q22-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -90,3 +92,6 @@ The most suitable alternative that correctly translates the ERD into the relatio
 **Verdict**
 
 The ChatGPT's answer is consistent with the answer key.
+
+
+\[ [Previous question](q21-eng.md) \] \[ [Next question](q23-eng.md) \]

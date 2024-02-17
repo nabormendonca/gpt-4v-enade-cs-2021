@@ -1,3 +1,5 @@
+\[ [Previous question](q12-eng.md) \] \[ [Next question](q14-eng.md) \]
+
 ## Question 13 ##
 
 (Click [here](q13-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -180,3 +182,6 @@ The lack of consensus among human experts on the correct response to the questio
 This challenge is not only for AI but also for question design and assessments in general. In the context of AI, such ambiguity and the discrepancy of human opinions expose the limitations of AI systems in dealing with uncertainty and making judgments when there is no clear answer or defined consensus.
 
 Prompt engineering might help AI to ask for clarifications or to consider a broader range of interpretations, but the limitations of current LLMs mean there is still no reliable way for AI to resolve ambiguities without a clear consensus or well-defined criteria. This underscores the importance of continuing to develop LLM capacities for navigating the complexities and nuances of human communication and information interpretation.
+
+
+\[ [Previous question](q12-eng.md) \] \[ [Next question](q14-eng.md) \]

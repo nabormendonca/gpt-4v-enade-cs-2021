@@ -1,3 +1,5 @@
+\[ [Previous question](q03-eng.md) \] \[ [Next question](q05-eng.md) \]
+
 ## Question 04 ##
 
 (Click [here](q04-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -74,3 +76,7 @@ The respondent should describe the truth table and draw the diagram, as below.
 The truth table produced by ChatGPT-4 Vision is correct according to the response standard. However, since the model does not have the capability to generate diagrams, and was not explicitly instructed to "draw" a circuit using some textual notation, it merely described the gates that would be part of the requested circuit. As the question explicitly asks the respondent to draw a circuit, only half of the points for this question are attributed to the model's response.
 
 Total scores: 5.0/10.0
+
+
+
+\[ [Previous question](q03-eng.md) \] \[ [Next question](q05-eng.md) \]

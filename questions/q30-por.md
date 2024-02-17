@@ -1,3 +1,5 @@
+\[ [Questão anterior](q29-por.md) \] \[ [Próxima questão](q31-por.md) \]
+
 ## Questão 30 ##
 
 <img src="q30-image.png" alt="Question 30 image file" width="75%" height="75%">
@@ -35,3 +37,5 @@ A resposta correta é **E) I, III e IV**.
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q29-por.md) \] \[ [Próxima questão](q31-por.md) \]

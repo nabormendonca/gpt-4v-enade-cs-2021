@@ -1,3 +1,5 @@
+\[ [Previous question](q30-eng.md) \] \[ [Next question](q32-eng.md) \]
+
 ## Question 31 ##
 
 (Click [here](q31-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -234,3 +236,6 @@ The generative AI, when attempting to answer the question on the Turing machine,
 3. **Feedback from Experts**: Human experts highlighted that the AI's analysis was incorrect, specifically pointing out errors in the interpretation of the Turing machine diagram and in reasoning about the operations of the machine. This indicates that the AI failed to understand the Turing machine's logic as represented in the diagram properly.
 
 These difficulties reflect the current LLMs' limitations in correctly interpreting complex diagrams and performing logical analyses based on visual representations. Prompt engineering could potentially help the AI clarify ambiguities and better understand visual instructions, but it would not completely solve the problem of incorrect comprehension of a diagram, which is a visual representation that LLMs cannot directly process. This suggests that LLMs require significant advancements to better interpret visual representations and apply logical reasoning to complex technical problems.
+
+
+\[ [Previous question](q30-eng.md) \] \[ [Next question](q32-eng.md) \]

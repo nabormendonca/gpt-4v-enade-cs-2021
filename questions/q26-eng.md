@@ -1,3 +1,5 @@
+\[ [Previous question](q25-eng.md) \] \[ [Next question](q27-eng.md) \]
+
 ## Question 26 ##
 
 (Click [here](q26-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -132,3 +134,6 @@ The main difficulties faced by the generative AI when answering the question on 
 Some of these difficulties could be partially mitigated with prompt engineering techniques, guiding the AI to pay closer attention to technical definitions and the specific examination context. This would include prompts that clarify the need for a clear distinction between navigation and presentation, and avoid broad generalizations that may not apply to the context of the question.
 
 However, some difficulties are inherent to the limitations of current LLMs, such as the ability to critically analyze overlaps between technical concepts and apply this analysis in a multiple-choice context. Continued improvement in the models for better contextual understanding and accurate information interpretation is necessary to overcome these challenges.
+
+
+\[ [Previous question](q25-eng.md) \] \[ [Next question](q27-eng.md) \]

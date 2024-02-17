@@ -1,3 +1,5 @@
+\[ [Previous question](q14-eng.md) \] \[ [Next question](q16-eng.md) \]
+
 ## Question 15 ##
 
 (Click [here](q15-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -63,3 +65,6 @@ Considering the above evaluations, the correct alternative is **C) I and II only
 **Verdict**
 
 The ChatGPT's response is consistent with the answer key.
+
+
+\[ [Previous question](q14-eng.md) \] \[ [Next question](q16-eng.md) \]

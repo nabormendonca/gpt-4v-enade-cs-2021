@@ -1,3 +1,5 @@
+\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \]
+
 ## Question 29 ##
 
 (Click [here](q29-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -164,3 +166,6 @@ The generative AI faced several challenges when trying to answer the question on
 5. **Cancellation of the Question**: The AI ultimately agreed with the cancellation of the question, recognizing that errors in labeling and possible ambiguities made a fair assessment of the question problematic.
 
 Prompt engineering techniques could be employed to improve the AI's performance by providing clarity on the importance of labels and instructing the AI to consider all parts of the question — text, labels, and graphical elements — in its assessment. However, difficulties related to the conflict between prior knowledge and question instructions are inherent to the current limitations of LLMs, which may have difficulty adjusting responses when confronted with information that challenges their initial understanding. Advances in LLMs' ability to process and integrate multiple sources of information would be necessary to fully overcome these challenges.
+
+
+\[ [Previous question](q28-eng.md) \] \[ [Next question](q30-eng.md) \]

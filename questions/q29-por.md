@@ -1,3 +1,5 @@
+\[ [Questão anterior](q28-por.md) \] \[ [Próxima questão](q30-por.md) \]
+
 ## Questão 29 ##
 
 <img src="q29-image.png" alt="Question 29 image file" width="75%" height="75%">
@@ -138,3 +140,5 @@ A IA gerativa enfrentou várias dificuldades ao tentar responder à questão sob
 5. **Anulação da Questão**: A IA acabou concordando com a anulação da questão, reconhecendo que os erros de rotulagem e possíveis ambiguidades tornavam a avaliação justa da questão problemática.
 
 Técnicas de engenharia de prompt poderiam ser usadas para melhorar o desempenho da IA, fornecendo clareza sobre a importância dos rótulos e instruindo a IA a considerar todas as partes da questão — texto, rótulos e elementos gráficos — na sua avaliação. No entanto, as dificuldades relacionadas ao conflito entre conhecimento prévio e instruções da questão são inerentes às limitações atuais dos LLMs, que podem ter dificuldades em ajustar respostas quando confrontadas com informações que desafiam sua compreensão inicial. Avanços na capacidade dos LLMs de processar e integrar múltiplas fontes de informações seriam necessários para superar completamente esses desafios.
+
+\[ [Questão anterior](q28-por.md) \] \[ [Próxima questão](q30-por.md) \]

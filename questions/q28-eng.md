@@ -1,3 +1,5 @@
+\[ [Previous question](q27-eng.md) \] \[ [Next question](q29-eng.md) \]
+
 ## Question 28 ##
 
 (Click [here](q28-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -73,3 +75,6 @@ The correct option is alternative **B) I and IV**, as both statements I and IV a
 **Verdict**
 
 The ChatGPT response is consistent with the answer key.
+
+
+\[ [Previous question](q27-eng.md) \] \[ [Next question](q29-eng.md) \]

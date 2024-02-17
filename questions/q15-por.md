@@ -1,3 +1,5 @@
+\[ [Questão anterior](q14-por.md) \] \[ [Próxima questão](q16-por.md) \]
+
 ## Questão 15 ##
 
 <img src="q15-image.png" alt="Question 15 image file" width="75%" height="75%">
@@ -37,3 +39,5 @@ Considerando as avaliações acima, a alternativa correta é **C) I e II, apenas
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q14-por.md) \] \[ [Próxima questão](q16-por.md) \]

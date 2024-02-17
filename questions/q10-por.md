@@ -1,3 +1,5 @@
+\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \]
+
 ## Questão 10 ##
 
 <img src="q10-image.png" alt="Question 10 image file" width="75%" height="75%">
@@ -35,3 +37,5 @@ Resposta: B) Deque, lista simplesmente ligada, pilha e fila.
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q09-por.md) \] \[ [Próxima questão](q11-por.md) \]

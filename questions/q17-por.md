@@ -1,3 +1,5 @@
+\[ [Questão anterior](q16-por.md) \] \[ [Próxima questão](q18-por.md) \]
+
 ## Questão 17 ##
 
 <img src="q17-image.png" alt="Question 17 image file" width="75%" height="75%">
@@ -36,3 +38,5 @@ Portanto, a resposta correta é **C. A asserção I é uma proposição verdadei
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q16-por.md) \] \[ [Próxima questão](q18-por.md) \]

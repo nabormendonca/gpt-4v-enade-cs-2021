@@ -1,3 +1,5 @@
+\[ [Previous question](q10-eng.md) \] \[ [Next question](q12-eng.md) \]
+
 ## Question 11 ##
 
 (Click [here](q11-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -74,3 +76,6 @@ Answer: D) II and IV.
 **Verdict**
 
 The response from ChatGPT is consistent with the answer key.
+
+
+\[ [Previous question](q10-eng.md) \] \[ [Next question](q12-eng.md) \]

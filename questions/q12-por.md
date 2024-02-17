@@ -1,3 +1,5 @@
+\[ [Questão anterior](q11-por.md) \] \[ [Próxima questão](q13-por.md) \]
+
 ## Questão 12 ##
 
 <img src="q12-image.png" alt="Question 12 image file" width="75%" height="75%">
@@ -91,3 +93,5 @@ A IA enfrentou dificuldades ao responder à questão sobre a Lei Geral de Prote�
 Essas dificuldades são parcialmente inerentes às limitações dos LLMs atuais, que podem interpretar texto de maneira flexível mas podem falhar em contextos que exigem uma precisão absoluta. No entanto, algumas dessas dificuldades poderiam ser amenizadas com a engenharia de prompts, onde a formulação de perguntas pode ser ajustada para guiar a IA para uma interpretação mais precisa do texto e da lei. Por exemplo, um prompt poderia enfatizar a necessidade de considerar qualquer parte da afirmação que seja falsa para tornar a afirmação inteira falsa em um contexto de múltipla escolha.
 
 No caso específico, a IA ajustou sua resposta após reconhecer o erro, o que indica que com a reflexão e o feedback corretos, até mesmo as limitações de interpretação podem ser superadas. A chave seria desenvolver prompts que antecipem e corrijam essas tendências interpretativas dos LLMs, o que poderia melhorar a precisão em contextos que exigem respostas objetivas e inequívocas.
+
+\[ [Questão anterior](q11-por.md) \] \[ [Próxima questão](q13-por.md) \]

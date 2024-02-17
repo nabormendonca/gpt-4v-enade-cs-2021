@@ -1,3 +1,5 @@
+\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \]
+
 ## Question 19 ##
 
 (Click [here](q19-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -67,3 +69,6 @@ Therefore, the correct alternative is: **D) I, II and IV.**
 **Verdict**
 
 The ChatGPT's response is consistent with the answer key.
+
+
+\[ [Previous question](q18-eng.md) \] \[ [Next question](q20-eng.md) \]

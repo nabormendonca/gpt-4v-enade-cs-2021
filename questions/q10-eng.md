@@ -1,3 +1,5 @@
+\[ [Previous question](q09-eng.md) \] \[ [Next question](q11-eng.md) \]
+
 ## Question 10 ##
 
 (Click [here](q10-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -59,3 +61,6 @@ Answer: B) Deque, singly linked list, stack, and queue.
 **Verdict**
 
 The response from ChatGPT is consistent with the answer key.
+
+
+\[ [Previous question](q09-eng.md) \] \[ [Next question](q11-eng.md) \]

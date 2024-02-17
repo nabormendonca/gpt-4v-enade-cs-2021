@@ -1,3 +1,5 @@
+\[ [Previous question](q31-eng.md) \] \[ [Next question](q33-eng.md) \]
+
 ## Question 32 ##
 
 (Click [here](q32-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -83,3 +85,6 @@ The correct answer is **A) I and III**.
 **Verdict**
 
 The ChatGPT's answer is consistent with the answer key.
+
+
+\[ [Previous question](q31-eng.md) \] \[ [Next question](q33-eng.md) \]

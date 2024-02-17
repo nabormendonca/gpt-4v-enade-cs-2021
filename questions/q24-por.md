@@ -1,3 +1,5 @@
+\[ [Questão anterior](q23-por.md) \] \[ [Próxima questão](q25-por.md) \]
+
 ## Questão 24 ##
 
 <img src="q24-image.png" alt="Question 24 image file" width="75%" height="75%">
@@ -39,3 +41,5 @@ Portanto, a alternativa correta é **E, I, II e IV**.
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q23-por.md) \] \[ [Próxima questão](q25-por.md) \]

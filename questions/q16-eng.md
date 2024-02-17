@@ -1,3 +1,5 @@
+\[ [Previous question](q15-eng.md) \] \[ [Next question](q17-eng.md) \]
+
 ## Question 16 ##
 
 (Click [here](q16-por.md) to view the question's original image and ChaGPT-4 Vision's prompts and responses in Portuguese)
@@ -73,3 +75,6 @@ The expression we have determined is **option B**, which is: (X3 . (X2') + (X1')
 **Verdict**
 
 The response from ChatGPT is consistent with the answer key.
+
+
+\[ [Previous question](q15-eng.md) \] \[ [Next question](q17-eng.md) \]

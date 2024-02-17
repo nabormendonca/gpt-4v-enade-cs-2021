@@ -1,3 +1,5 @@
+\[ [Questão anterior](q15-por.md) \] \[ [Próxima questão](q17-por.md) \]
+
 ## Questão 16 ##
 
 <img src="q16-image.png" alt="Question 16 image file" width="75%" height="75%">
@@ -47,3 +49,5 @@ A expressão que determinamos é a **opção B**, que é: (X3 . (X2') + (X1'))'
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q15-por.md) \] \[ [Próxima questão](q17-por.md) \]

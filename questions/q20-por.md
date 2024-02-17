@@ -1,3 +1,5 @@
+\[ [Questão anterior](q19-por.md) \] \[ [Próxima questão](q21-por.md) \]
+
 ## Questão 20 ##
 
 <img src="q20-image.png" alt="Question 20 image file" width="75%" height="75%">
@@ -53,3 +55,5 @@ Dada a análise, a alternativa correta é: **A) I, apenas.**
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q19-por.md) \] \[ [Próxima questão](q21-por.md) \]

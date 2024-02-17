@@ -1,3 +1,5 @@
+\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \]
+
 ## Questão 05 ##
 
 <img src="q05-image.png" alt="Question 05 image file" width="75%" height="75%">
@@ -95,3 +97,5 @@ b) Resposta correta (ChatGPT-4 Vision informou corretamente a complexidade solic
 
 Total de pontos: 0,0 + 5,0 = 5,0/10,0
 
+
+\[ [Questão anterior](q04-por.md) \] \[ [Próxima questão](q09-por.md) \]

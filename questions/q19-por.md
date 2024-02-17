@@ -1,3 +1,5 @@
+\[ [Questão anterior](q18-por.md) \] \[ [Próxima questão](q20-por.md) \]
+
 ## Questão 19 ##
 
 <img src="q19-image.png" alt="Question 19 image file" width="75%" height="75%">
@@ -39,3 +41,5 @@ Portanto, a alternativa correta é: **D) I, II e IV.**
 **Veredito**
 
 A resposta do ChatGPT é consistente com o gabarito.
+
+\[ [Questão anterior](q18-por.md) \] \[ [Próxima questão](q20-por.md) \]
