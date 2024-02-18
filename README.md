@@ -8,9 +8,9 @@ The tables below provide an overview of the ENADE 2021 Bachelor in Computer Scie
 
 | #  | Subject                 | Modality | Reasoning Strategy | Status     | Model Accuracy | Model Challenge / Error Category | Model Conversations and Expert Assessments                                  |
 |----|-------------------------|----------|--------------------|------------|----------------|----------------------------|----------------------------------------------------------------------------|
-| 03 | Theory of Computing     | Visual   | Direct             | Scored     | Partly correct | Logical reasoning / Incorrect multi-step reasoning, <br>Visual  acuity / Misidentification of visual elements | [English version](/questions/q09-eng.md), <br>[Portuguese version](q09-por.md) |
-| 04 | Computer Architecture   | Visual   | Direct             | Scored     | Partly correct | Visual acuity / Lack of domain-specific visual output | [English version](/questions/q09-eng.md), [Portuguese version](q09-por.md) |
-| 05 | Algorithms              | Visual   | Direct             | Scored     | Partly correct |  Logical reasoning / Incorrect algorithmic reasoning | [English version](/questions/q09-eng.md), [Portuguese version](q09-por.md) |
+| 03 | Theory of Computing     | Visual   | Direct             | Scored     | Partly correct | Logical reasoning / Incorrect multi-step reasoning, <br>Visual  acuity / Misidentification of visual elements | [English version](/questions/q03-eng.md), <br>[Portuguese version](q03-por.md) |
+| 04 | Computer Architecture   | Visual   | Direct             | Scored     | Partly correct | Visual acuity / Lack of domain-specific visual output | [English version](/questions/q04-eng.md), [Portuguese version](q04-por.md) |
+| 05 | Algorithms              | Visual   | Direct             | Scored     | Partly correct |  Logical reasoning / Incorrect algorithmic reasoning | [English version](/questions/q05-eng.md), [Portuguese version](q05-por.md) |
 
 **Multiple-choice Questions**:
 
