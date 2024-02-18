@@ -38,7 +38,8 @@ The table below provides an overview of the ENADE 2021 Bachelor in Computer Scie
 | 35 | Multiple-choice | Algorithms              | Text     | Indirect           | Scored     | Correct        | [English version](/questions/q35-eng.md), [Portuguese version](q35-por.md) |
 
 The following suplemmentary materials are also available from the repository:
-* ChatGPT-4 Vision prompt templates \([English version](/prompts/prompt-templates-eng.md), [Portuguese version](/prompts/prompt-templates-por.md)\)
-* ENADE 2021 Bachelor in Computer Science exam document (only in Portuguese)
-* ENADE 2021 Bachelor in Computer Science response standard (only in Portuguese)
-* ENADE 2021 Bachelor in Computer Science exam results and statistics (only in Portuguese)
+* ChatGPT-4 Vision prompt templates \[ [English version](/prompts/prompt-templates-eng.md) \] \[ [Portuguese version](/prompts/prompt-templates-por.md) \]
+* ENADE 2021 Bachelor in Computer Science exam document \[ [Portuguese version](/exam/2021_prova_bacharelado_ciencia_computacao.pdf) \]
+* ENADE 2021 Bachelor in Computer Science exam response standard (for open questions) \[ [Portuguese version](/exam/2021_padrao_de_resposta_bacharelado_ciencia_computacao.pdf) \]
+* ENADE 2021 Bachelor in Computer Science exam answer key (for multiple-choice questions) \[ [Portuguese version](/exam/2021_gabarito_bacharelado_ciencia_computacao.pdf) \]
+* ENADE 2021 Bachelor in Computer Science exam results and statistics \[ [Portuguese version (external link)](https://download.inep.gov.br/educacao_superior/enade/relatorio_sintese/2021/Enade_2021_Relatorios_Sintese_Area_Ciencia_Computacao.pdf) \]
