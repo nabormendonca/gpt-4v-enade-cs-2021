@@ -2,9 +2,9 @@
 
 This repository contains supplementary materials for the study reported in the paper "Evaluating ChatGPT-4 Vision on Brazil's National Undergraduate Computer Science Exam." 
 
-The tables below provide an overview of the ENADE 2021 Bachelor in Computer Science exam questions, including their subject, modality, reasoning strategy, and scoring status, and the accuracy and challenges/errors of ChatGPT-4 Vision in answering them. Click on the links on the right-most column of each table to view the model's full conversations and the expert assessments (when available) for each question in English and Portuguese.
+The tables below provide an overview of the open and multiple-choice questions, respectively, of the ENADE 2021 Bachelor in Computer Science exam. Each table includes the questions' subject, modality, reasoning strategy, and scoring status, as well as the accuracy of ChatGPT-4 Vision and the main challenges/errors it faced answering them. Click on the links on the right-most column of each table to view the model's full conversations and the expert assessments (when available) for each question in English and Portuguese.
 
-**Open Questions**:
+**Open Questions**
 
 | #  | Subject                 | Modality | Reasoning Strategy | Status     | Model Accuracy | Model Challenges / Error Categories | Model Conversations and Expert Assessments                                  |
 |----|-------------------------|----------|--------------------|------------|----------------|----------------------------|----------------------------------------------------------------------------|
@@ -12,7 +12,7 @@ The tables below provide an overview of the ENADE 2021 Bachelor in Computer Scie
 | 04 | Computer Architecture   | Visual   | Direct             | Scored     | Partly correct | Visual Acuity / Lack of Domain-specific Visual Output | [English version](/questions/q04-eng.md), [Portuguese version](/questions/q04-por.md) |
 | 05 | Algorithms              | Visual   | Direct             | Scored     | Partly correct |  Logical Reasoning / Incorrect Algorithmic Reasoning | [English version](/questions/q05-eng.md), [Portuguese version](/questions/q05-por.md) |
 
-**Multiple-choice Questions**:
+**Multiple-choice Questions**
 
 | #  | Subject                 | Modality | Reasoning Strategy | Status     | Model Accuracy | Model Challenges / Error Categories | Model Conversations and Expert Assessments                                  |
 |----|-------------------------|----------|--------------------|------------|----------------|----------------------------|----------------------------------------------------------------------------|
