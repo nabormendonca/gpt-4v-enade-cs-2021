@@ -71,6 +71,24 @@ The respondent should describe the truth table and draw the diagram, as below.
 
 <img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="55%" height="55%">
 
+The truth table can be created in different ways, swapping "1"s and "0"s for "V" and "F", or for "T" and "F". Moreover, the rows can appear in any arbitrary order.
+
+The logic circuit can be solved in various ways, with variations in notation, and more than one circuit performing the same operation. The proposed circuit, in fact, combines the two outputs into a single circuit.
+
+Possible notations are presented in the following image, from the IEC 60617-12 standard, and also from ANSI IEEE.
+
+<img src="q04-circuit-notation.png" alt="Question 04 image file" width="25%" height="25%">
+
+Other possible circuits, without being an exhaustive list, are:
+
+Examples of possible answers for S:
+
+<img src="q04-circuit-s.png" alt="Question 04 image file" width="35%" height="35%">
+
+Examples of possible answers for Cout:
+
+<img src="q04-circuit-cout.png" alt="Question 04 image file" width="45%" height="45%">
+
 ---
 
 **Expert evaluation of ChatGPT-4 Vision's first response based on the response standard**
