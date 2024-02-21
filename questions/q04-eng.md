@@ -95,7 +95,7 @@ Examples of possible answers for Cout:
 
 The truth table produced by ChatGPT-4 Vision is correct according to the response standard. However, since the model does not have the capability to generate diagrams, and was not explicitly instructed to "draw" a circuit using some textual notation, it merely described the gates that would be part of the requested circuit. As the question explicitly asks the respondent to draw a circuit, only half of the points for this question are attributed to the model's response.
 
-Total scores: 5.0/10.0
+Total scores: 5.0/10.0 (50/100)
 
 
 
