@@ -110,6 +110,6 @@ c) Resposta incorreta (ChatGPT-4 Vision errou ao identificar o conjunto P como s
 
 d) Resposta correta (ChatGPT-4 Vision identificou corretamente que a fórmula 6 é consequência lógica de Q): 2,5/2,5 pontos
 
-Total de pontos: 2,5 + 1,25 + 0 + 2,5 = 6,3/10,0
+Total de pontos: 2,5 + 1,25 + 0 + 2,5 = 6,25/10,0 (62,5/100)
 
 \[ [Próxima questão](q04-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q03-eng.md) \] 
