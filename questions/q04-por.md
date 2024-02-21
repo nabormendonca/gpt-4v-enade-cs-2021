@@ -81,6 +81,6 @@ Exemplos de resposta possíveis para Cout:
 
 A tabela verdade produzida pelo ChatGPT-4 Vision está correta de acordo com o padrão de resposta. Porém, como o modelo não tem capacidade para gerar diagramas, e não foi instruído explicitamente para "desenhar" um circuito usando alguma notação textual, ele apenas descreveu as portas que fariam parte do circuito solicitado. Como a questão pede explicitamente que o respondente desenhe um circuito, atribui-se apenas metade dos pontos desta questão à resposta do modelo.
 
-Total de pontos: 5,0/10,0
+Total de pontos: 5,0/10,0 (50/100)
 
 \[ [Questão anterior](q03-por.md) \] \[ [Próxima questão](q05-por.md) \] \[ [Menu inicial](/README.md) \] \[ [Versão em Inglês](q04-eng.md) \] 
