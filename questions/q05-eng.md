@@ -147,7 +147,7 @@ a) Incorrect answer (ChatGPT-4 Vision produced an incorrect arrangement accordin
 
 b) Correct answer (ChatGPT-4 Vision correctly informed the algorithm complexity according to the response standard): 5.0/5.0 scores
 
-Total scores: 0.0 + 5.0 = 5.0/10.0
+Total scores: 0.0 + 5.0 = 5.0/10.0 (50/100)
 
 
 \[ [Previous question](q04-eng.md) \] \[ [Next question](q09-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q05-por.md) \] 
