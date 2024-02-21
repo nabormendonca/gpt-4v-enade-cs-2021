@@ -153,7 +153,7 @@ c) Incorrect answer (ChatGPT-4 Vision incorrectly identified that set P is satis
 
 d) Correct answer (ChatGPT-4 Vision correctly identified that formula 6 is a logical consequence of set Q): 2.5/2.5 scores
 
-Total scores: 2.5 + 1.25 + 0 + 2.5 = 6.3/10.0
+Total scores: 2.5 + 1.25 + 0 + 2.5 = 6.25/10.0 (62.5/100)
 
 
 \[ [Next question](q04-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q03-por.md) \] 
