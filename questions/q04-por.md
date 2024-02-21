@@ -57,6 +57,24 @@ O respondente deve descrever a tabela verdade e desenhar o diagrama, conforme ab
 
 <img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="55%" height="55%">
 
+A tabela verdade pode ser feita de maneiras diferentes, trocando “1”s e “0” por “V” e “F”, ou por “T” ou “F”. Além disso, as linhas podem aparecer em qualquer ordem arbitrária.
+
+O circuito lógico pode ser resolvido de várias maneiras, existindo variações de notação, e mais de um circuito que realiza a mesma operação. O circuito proposto, inclusive, reúne as duas saídas em um só circuito.
+
+Notações possíveis são apresentadas na seguinte imagem, do padrão IEC 60617-12, e também do ANSI IEEE.
+
+<img src="q04-circuit-notation.png" alt="Question 04 image file" width="55%" height="55%">
+
+Outros circuitos possíveis, sem ser uma lista completa, são: 
+
+Exemplos de resposta possíveis para S:
+
+<img src="q04-circuit-s.png" alt="Question 04 image file" width="55%" height="55%">
+
+Exemplos de resposta possíveis para Cout:
+
+<img src="q04-circuit-cout.png" alt="Question 04 image file" width="55%" height="55%">
+
 ---
 
 **Avaliação de especialista da primeira resposta do ChatGPT-4 Vision com base no padrão de resposta** 
