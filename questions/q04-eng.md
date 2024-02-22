@@ -18,6 +18,32 @@ Based on the 1-bit full adder depicted in the figure, describe its truth table a
 
 ---
 
+**Response standard**:
+
+The respondent should describe the truth table and draw the diagram, as below.
+
+<img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="55%" height="55%">
+
+The truth table can be created in different ways, swapping "1"s and "0"s for "V" and "F", or for "T" and "F". Moreover, the rows can appear in any arbitrary order.
+
+The logic circuit can be solved in various ways, with variations in notation, and more than one circuit performing the same operation. The proposed circuit, in fact, combines the two outputs into a single circuit.
+
+Possible notations are presented in the following image, from the IEC 60617-12 standard, and also from ANSI IEEE.
+
+<img src="q04-circuit-notation.png" alt="Question 04 image file" width="25%" height="25%">
+
+Other possible circuits, without being an exhaustive list, are:
+
+Examples of possible answers for S:
+
+<img src="q04-circuit-s.png" alt="Question 04 image file" width="35%" height="35%">
+
+Examples of possible answers for Cout:
+
+<img src="q04-circuit-cout.png" alt="Question 04 image file" width="45%" height="45%">
+
+---
+
 **Prompt**: Answer the question in this image. Explain your reasoning step by step. Inform if the question is unclear or has no possible answer.
 
 ---
@@ -65,38 +91,11 @@ In summary, a 1-bit full adder adds three input bits and produces a 2-bit result
 
 ---
 
-**Response standard**:
-
-The respondent should describe the truth table and draw the diagram, as below.
-
-<img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="55%" height="55%">
-
-The truth table can be created in different ways, swapping "1"s and "0"s for "V" and "F", or for "T" and "F". Moreover, the rows can appear in any arbitrary order.
-
-The logic circuit can be solved in various ways, with variations in notation, and more than one circuit performing the same operation. The proposed circuit, in fact, combines the two outputs into a single circuit.
-
-Possible notations are presented in the following image, from the IEC 60617-12 standard, and also from ANSI IEEE.
-
-<img src="q04-circuit-notation.png" alt="Question 04 image file" width="25%" height="25%">
-
-Other possible circuits, without being an exhaustive list, are:
-
-Examples of possible answers for S:
-
-<img src="q04-circuit-s.png" alt="Question 04 image file" width="35%" height="35%">
-
-Examples of possible answers for Cout:
-
-<img src="q04-circuit-cout.png" alt="Question 04 image file" width="45%" height="45%">
-
----
-
 **Expert evaluation of ChatGPT-4 Vision's first response based on the response standard**
 
 The truth table produced by ChatGPT-4 Vision is correct according to the response standard. However, since the model does not have the capability to generate diagrams, and was not explicitly instructed to "draw" a circuit using some textual notation, it merely described the gates that would be part of the requested circuit. As the question explicitly asks the respondent to draw a circuit, only half of the points for this question are attributed to the model's response.
 
 Total scores: 5.0/10.0 (50/100)
-
 
 
 \[ [Previous question](q03-eng.md) \] \[ [Next question](q05-eng.md) \] \[ [Main menu](/README.md) \] \[ [Portuguese version](q04-por.md) \] 
