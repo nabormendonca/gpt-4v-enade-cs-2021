@@ -8,7 +8,7 @@
 
 A binary heap is an array that can be visualized as a binary tree, where each tree node corresponds to an array element, as can be observed in the figure below.
 
-\[An image of a binary tree with corresponding array indexes and values below it. The binary tree shows a tree structure with the number 12 at the root and subsequent child nodes displaying the numbers 10, 11, 8, 9, 1, 4, 5, 7 and 2. The corresponding array is shown above the tree with indices ranging from 0 to 9 and containing the values 12, 10, 11, 8, 9, 1, 4, 5, 7, 2.\]
+\[An image of a binary tree containing 12 nodes with corresponding array indexes and values above it. The binary tree shows a tree structure with the number 12 at the root and subsequent child nodes displaying the numbers 10, 11, 8, 9, 1, 4, 5, 7 and 2. The corresponding array is shown above the tree with indices ranging from 0 to 9 and containing the values 12, 10, 11, 8, 9, 1, 4, 5, 7, 2.\]
 
 There exist two types of heaps: maximum heaps and minimum heaps. The maximum heap is a data structure that allows efficient query or removal of the maximum element from the collection. The maximum heap specifies that a node (calculated by the functions *left* and *right* in the companying code) should store a value smaller or equal to its parent.
 
@@ -59,6 +59,14 @@ b) Present the time complexity in the worst case for the function *heapify*, usi
 
 ---
 
+**Response standard**:
+
+a) The respondent should show that after executing the function `buildHeap` the arrangement will be as follows: {34, 21, 8, 13, 2, 1, 3, 5}.
+
+b) The respondent should present that in the worst case for the `heapify` function the time complexity will be as follows: O(log n), being n the number of elements in the heap.
+
+---
+
 **Prompt**: Answer the question in this image. Explain your reasoning step by step. Inform if the question is unclear or has no possible answer.
 
 ---
@@ -98,14 +106,6 @@ The complexity of the `heapify` function is determined by the height of the tree
 Answers:
 a) `21, 2, 8, 13, 5, 1, 3, 34`
 b) O(log n)
-
----
-
-**Response standard**:
-
-a) The respondent should show that after executing the function `buildHeap` the arrangement will be as follows: {34, 21, 8, 13, 2, 1, 3, 5}.
-
-b) The respondent should present that in the worst case for the `heapify` function the time complexity will be as follows: O(log n), being n the number of elements in the heap.
 
 ---
 
