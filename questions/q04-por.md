@@ -4,6 +4,34 @@
 
 <img src="q04-image.png" alt="Question 04 image file" width="60%" height="60%">
 
+---
+
+**Padrão de resposta**: 
+
+O respondente deve descrever a tabela verdade e desenhar o diagrama, conforme abaixo. 
+
+<img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="55%" height="55%">
+
+A tabela verdade pode ser feita de maneiras diferentes, trocando "1"s e "0" por "V" e "F", ou por "T" ou "F". Além disso, as linhas podem aparecer em qualquer ordem arbitrária.
+
+O circuito lógico pode ser resolvido de várias maneiras, existindo variações de notação, e mais de um circuito que realiza a mesma operação. O circuito proposto, inclusive, reúne as duas saídas em um só circuito.
+
+Notações possíveis são apresentadas na seguinte imagem, do padrão IEC 60617-12, e também do ANSI IEEE.
+
+<img src="q04-circuit-notation.png" alt="Question 04 image file" width="25%" height="25%">
+
+Outros circuitos possíveis, sem ser uma lista completa, são: 
+
+Exemplos de resposta possíveis para S:
+
+<img src="q04-circuit-s.png" alt="Question 04 image file" width="35%" height="35%">
+
+Exemplos de resposta possíveis para Cout:
+
+<img src="q04-circuit-cout.png" alt="Question 04 image file" width="45%" height="45%">
+
+---
+
 **Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Informe caso a questão não esteja clara ou não tenha resposta possível.
 
 ---
@@ -48,32 +76,6 @@ Finalmente, o diagrama do circuito lógico é composto por:
 No entanto, a visualização de um diagrama do circuito lógico não é possível aqui, mas você pode usar a descrição acima para desenhá-lo em um papel ou usar uma ferramenta de desenho de circuitos.
 
 Em resumo, um somador completo de 1-bit adiciona três bits de entrada e produz um resultado de 2 bits (soma e transporte). A lógica para calcular esses bits é determinada pelas expressões para S e Cout que acabamos de deduzir.
-
----
-
-**Padrão de resposta**: 
-
-O respondente deve descrever a tabela verdade e desenhar o diagrama, conforme abaixo. 
-
-<img src="q04-truth-table-circuit.png" alt="Question 04 image file" width="55%" height="55%">
-
-A tabela verdade pode ser feita de maneiras diferentes, trocando "1"s e "0" por "V" e "F", ou por "T" ou "F". Além disso, as linhas podem aparecer em qualquer ordem arbitrária.
-
-O circuito lógico pode ser resolvido de várias maneiras, existindo variações de notação, e mais de um circuito que realiza a mesma operação. O circuito proposto, inclusive, reúne as duas saídas em um só circuito.
-
-Notações possíveis são apresentadas na seguinte imagem, do padrão IEC 60617-12, e também do ANSI IEEE.
-
-<img src="q04-circuit-notation.png" alt="Question 04 image file" width="25%" height="25%">
-
-Outros circuitos possíveis, sem ser uma lista completa, são: 
-
-Exemplos de resposta possíveis para S:
-
-<img src="q04-circuit-s.png" alt="Question 04 image file" width="35%" height="35%">
-
-Exemplos de resposta possíveis para Cout:
-
-<img src="q04-circuit-cout.png" alt="Question 04 image file" width="45%" height="45%">
 
 ---
 
