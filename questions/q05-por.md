@@ -91,7 +91,13 @@ Em resumo, os erros decorrem principalmente da falha em simular corretamente o a
 
 ---
 
-**Avaliação de especialista da primeira resposta do ChatGPT-4 Vision com base no padrão de resposta** 
+**Cateogorias de desafio / tipos de errors identificados**
+
+**Raciocínio Lógico / Raciocínio Algorítmico Incorreto**: o modelo errou ao simular a execução da função `buildHeap`, levando a uma resposta incorreta.
+
+---
+
+**Pontuação de especialista da primeira resposta do ChatGPT-4 Vision com base no padrão de resposta** 
 
 a) Resposta incorreta (ChatGPT-4 Vision produziu um arranjo diferente do padrão de resposta): 0,0/5,0 pontos
 
