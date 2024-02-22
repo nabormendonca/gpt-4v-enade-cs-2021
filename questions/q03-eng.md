@@ -47,6 +47,19 @@ d) Is formula 6 a logical consequence of **Q**? Justify your answer. (value: 2.5
 
 ---
 
+**Response standard**:
+
+a) The respondent must say that formula 3 contains a tautology, as it presents a true evaluation for every assignment (column of Vs).
+
+b) The respondent must indicate that the set Q is satisfiable, as all formulas of Q (4 and 5) are true for assignments 3 and 4 (one would be enough).
+
+c) The respondent must indicate that the set P is not satisfiable, as there is no assignment for which the formulas of P (1, 2, and 3) are all true.
+
+d) The respondent must indicate that formula 6 is a logical consequence of Q, as all assignments that satisfy Q (3 and 4) also satisfy 6.
+
+
+---
+
 **Prompt**: Answer the question in this image. Explain your reasoning step by step. Inform if the question is unclear or has no possible answer.
 
 ---
@@ -97,19 +110,7 @@ Answer: Yes, formula 6 is a logical consequence of Q.
 
 ---
 
-**Response standard**:
-
-a) The respondent must say that formula 3 contains a tautology, as it presents a true evaluation for every assignment (column of Vs).
-
-b) The respondent must indicate that the set Q is satisfiable, as all formulas of Q (4 and 5) are true for assignments 3 and 4 (one would be enough).
-
-c) The respondent must indicate that the set P is not satisfiable, as there is no assignment for which the formulas of P (1, 2, and 3) are all true.
-
-d) The respondent must indicate that formula 6 is a logical consequence of Q, as all assignments that satisfy Q (3 and 4) also satisfy 6.
-
----
-
-**Prompt**: Your answers are not completely consistent in relation to the response standard released for this question:
+**Prompt**: Your answers are not completely consistent with the response standard released for this question:
 
 [response standard]
 
