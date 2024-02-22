@@ -4,6 +4,16 @@
 
 <img src="q05-image.png" alt="Question 05 image file" width="60%" height="60%">
 
+---
+
+**Padrão de resposta**: 
+
+a) O respondente deve mostrar que após a execução da função `buildHeap` o arranjo ficará da seguinte forma: {34, 21, 8, 13, 2, 1, 3, 5}.
+
+b) O respondente deve apresentar que no pior caso para a função `heapify` a complexidade de tempo ficará da seguinte forma: O(log n), sendo n o número de elementos do heap
+
+---
+
 **Prompt**: Responda a questão nesta imagem. Explique o seu raciocínio passo a passo. Informe caso a questão não esteja clara ou não tenha resposta possível.
 
 ---
@@ -49,15 +59,7 @@ b) O(log n)
 
 ---
 
-**Padrão de resposta**: 
-
-a) O respondente deve mostrar que após a execução da função `buildHeap` o arranjo ficará da seguinte forma: {34, 21, 8, 13, 2, 1, 3, 5}.
-
-b) O respondente deve apresentar que no pior caso para a função `heapify` a complexidade de tempo ficará da seguinte forma: O(log n), sendo n o número de elementos do heap
-
----
-
-**Prompt**: As suas respostas não estão completamente consistentes em relação ao padrão de resposta divulgado para esta questão:
+**Prompt**: As suas respostas não estão completamente consistentes com o padrão de resposta divulgado para esta questão:
 
 [padrão de resposta]
 
