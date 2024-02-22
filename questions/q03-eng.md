@@ -152,7 +152,7 @@ In summary, the errors seem to center on a combination of rushed analysis of the
 
 ---
 
-**Expert evaluation of ChatGPT-4 Vision's first response based on the response standard**
+**Expert scoring of ChatGPT-4 Vision's first response based on the response standard**
 
 a) Correct answer (ChatGPT-4 Vision correctly identified that formule 3 contains a tautology): 2.5/2.5 scores
 
