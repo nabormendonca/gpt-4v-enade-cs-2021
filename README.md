@@ -42,7 +42,7 @@ The tables below provide an overview of the open and multiple-choice questions, 
 | 32 | Algorithms              | Text     | Indirect           | Not scored | Correct        |                            | [English version](/questions/q32-eng.md), [Portuguese version](/questions/q32-por.md) |
 | 33 | Programming             | Text     | Direct             | Invalid    |                |                            | [English version](/questions/q33-eng.md), [Portuguese version](/questions/q33-por.md) |
 | 34 | Graph Theory            | Visual   | Direct             | Scored     | Incorrect      | Visual  Acuity / Misidentification of Visual Elements | [English version](/questions/q34-eng.md), [Portuguese version](/questions/q34-por.md) |
-| 35 | Algorithms              | Text     | Indirect           | Scored     | Correct        |                            | [English version](/questions/q35-eng.md), [Portuguese version](/questions/q35-por.md) |
+| 35 | Distributed Systems     | Text     | Indirect           | Scored     | Correct        |                            | [English version](/questions/q35-eng.md), [Portuguese version](/questions/q35-por.md) |
 
 The following materials are also available:
 * ChatGPT-4 Vision and Turbo prompt templates \[ [English version](/prompts/prompt-templates-eng.md) \] \[ [Portuguese version](/prompts/prompt-templates-por.md) \]
