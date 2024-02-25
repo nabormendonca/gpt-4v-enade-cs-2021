@@ -6,7 +6,7 @@
 
 **English transcription of the question:**
 
-A team of computer scientists from a certain animation company has been tasked with developing a system capable of scanning the web to detect sites that might be using the company's animation character images without proper consent. Therefore, the system should receive images as input, classify them between company images and images not produced by the company.
+A team of computer scientists from a certain animation company has been tasked with developing a system capable of scanning the web to detect sites that might be using the company's animation character images without proper consent. Therefore, the system should receive images as input, and classify them between company images and images not produced by the company.
 
 The figure below outlines a deep neural network architecture and the training process the scientists intend to use.
 
