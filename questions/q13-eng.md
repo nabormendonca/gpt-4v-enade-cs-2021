@@ -12,7 +12,7 @@ CRAIG, L. Using UML and Patterns: An Introduction to Object-Oriented Analysis an
 
 Considering the presented text, select the correct option about iterative and evolutionary development.
 
-A) Changing system requirements is something that causes delays in development, so it is advisable to avoid them.
+A) Changing system requirements is something that causes delays in development, so it is advisable to avoid doing it.
 
 B) The development cycle has a fixed duration but may be changed in the case of critical systems.
 
@@ -36,7 +36,7 @@ Let's analyze the text and the options provided step by step:
 
 Based on the text, let's analyze the alternatives:
 
-**A)** Changing system requirements is something that causes delays in development, so it is advisable to avoid them.
+**A)** Changing system requirements is something that causes delays in development, so it is advisable to avoid doing it.
 - The text does not mention that changes in requirements cause delays, and iterative and evolutionary systems, in general, are designed to accommodate changes in requirements. Therefore, this option seems incorrect.
 
 **B)** The development cycle has a fixed duration but may be changed in the case of critical systems.
@@ -102,7 +102,7 @@ If the question statement asks to consider the reference text, the correct choic
 
 **Text:** Iterative and evolutionary systems development is an approach that establishes cycles of development, _with fixed duration_, called iterations. The product of each iteration is a _partial system_, executable, testable, and integrable. Each iteration includes its own activities of requirement analysis, design, implementation, and testing. The iterative life cycle is based on successive refinements and increments of a system through multiple iterations, with cyclical feedback and adaptation as the main drivers for converging towards a suitable system.
 
-**A)** Changes in system requirements are something that delays development, so it is advisable to avoid them.
+**A)** Changes in system requirements are something that delays development, so it is advisable to avoid doing it.
 - The text does not mention that changes in requirements cause delays, and iterative and evolutionary systems are generally designed to accommodate changes in requirements. Therefore, this option seems incorrect.
 
 ChatGPT's answer is dubious, as it is common knowledge in software engineering (SE) that changes in requirements cause delays. There is an incompatibility with the text. To avoid doubt, the question should say: it is something that CAN cause delays ... Therefore, the alternative is not entirely incorrect.
