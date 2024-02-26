@@ -99,7 +99,7 @@ In summary, a 1-bit full adder adds three input bits and produces a 2-bit result
 
 **Expert scoring of ChatGPT-4 Vision's first response based on the response standard**
 
-The truth table produced by ChatGPT-4 Vision is correct according to the response standard. However, since the model does not have the capability to generate diagrams, and was not explicitly instructed to "draw" a circuit using some textual notation, it merely described the gates that would be part of the requested circuit. As the question explicitly asks the respondent to draw a circuit, only half of the points for this question are attributed to the model's response.
+The truth table produced by ChatGPT-4 Vision is correct according to the response standard. However, since the model cannot currently generate domain-specific diagrams, and was not explicitly prompted to "draw" a circuit using some alternative textual notation, it gets only half of the question's total scores.
 
 Total scores: 5.0/10.0 (50/100)
 
