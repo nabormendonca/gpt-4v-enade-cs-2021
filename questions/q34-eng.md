@@ -174,7 +174,7 @@ Thank you for pointing out the error. I apologize for the previous confusion and
 
 ---
 
-**Prompt**: Ok, your answer might be correct, but you still got the weight of the edge D -> F wrong. I suggest re-examining the image.
+**Prompt**: Ok, your answer may be correct, but you still got the weight of the edge D -> F wrong. I suggest re-examining the image.
 
 ---
 
