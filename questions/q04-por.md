@@ -88,7 +88,7 @@ Em resumo, um somador completo de 1-bit adiciona três bits de entrada e produz 
 
 **Pontuação de especialista da primeira resposta do ChatGPT-4 Vision com base no padrão de resposta** 
 
-A tabela verdade produzida pelo ChatGPT-4 Vision está correta de acordo com o padrão de resposta. Porém, como o modelo não tem capacidade para gerar diagramas, e não foi instruído explicitamente para "desenhar" um circuito usando alguma notação textual, ele apenas descreveu as portas que fariam parte do circuito solicitado. Como a questão pede explicitamente que o respondente desenhe um circuito, atribui-se apenas metade dos pontos desta questão à resposta do modelo.
+A tabela verdade produzida pelo ChatGPT-4 Vision está correta de acordo com o padrão de resposta. Porém, como o modelo atualmente não tem capacidade para gerar diagramas específicos de um domínio, e não foi instruído explicitamente para "desenhar" um circuito usando alguma notação textual alternativa, ele recebe apenas metade dos pontos desta questão.
 
 Total de pontos: 5,0/10,0 (50/100)
 
