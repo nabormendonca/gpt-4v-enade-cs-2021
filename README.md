@@ -1,6 +1,6 @@
 # ChatGPT-4 Vision Evaluation on ENADE 2021 Bachelor in Computer Science Exam
 
-This repository contains supplementary materials for the study reported in the paper "Evaluating ChatGPT-4 Vision on Brazil's National Undergraduate Computer Science Exam." 
+This repository contains supplementary materials for the study reported in the paper [Evaluating ChatGPT-4 Vision on Brazil's National Undergraduate Computer Science Exam](https://dl.acm.org/doi/10.1145/3674149), which has been accepted for publication in the [ACM Transactions on Computing Education](https://dl.acm.org/journal/toce). 
 
 The tables below provide an overview of the open and multiple-choice questions, respectively, of the ENADE 2021 Bachelor in Computer Science exam. Each table includes the questions' subject, modality, reasoning strategy, and scoring status, as well as the accuracy of ChatGPT-4 Vision and the main challenges/errors it faced answering them. Click on the links on the right-most column of each table to view the model's full conversations and the expert assessments (when available) for each question in English and Portuguese.
 
